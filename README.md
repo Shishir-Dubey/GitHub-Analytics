@@ -2,7 +2,7 @@
 
 Objective : 
 
-This proect explores the GitHub by analyzing the metadata of GitHub users and 
+This project explores the GitHub by analyzing the metadata of GitHub users and 
 describing the redundancy and popularity of the technologies used within the 
 projects by the users using Big Data Analytics and examines the prediction on 
 the data for getting the various interesting facts from the data. Data of 5000 
