@@ -1,0 +1,9 @@
+in:
+  type: file
+  path_prefix: /home/shirz/home/shirz/Desktop/Final files for Descriptive/stargazers_count_company/csv/stargazers_language_company.csv
+out:
+  type: elasticsearch
+  index: stargazers_language_company
+  index_type: embulk
+  nodes:
+    - host: localhost

@@ -1,0 +1,139 @@
+import pandas as pd
+from random import randrange
+import io
+import json
+from urllib.request import urlopen
+import urllib
+import requests
+import numpy as np
+import ijson
+import github3
+from github3 import login
+import ujson
+from pandas.io.json import json_normalize
+from tornado import escape
+import subprocess
+import os
+from time import sleep
+import codecs
+import time
+
+data=user_list(2,9,'h3.csv')
+data=pd.read_csv('h3.csv')
+
+### After collecting users information  
+
+for index,values in data.iterrows():
+    print(index)
+
+
+u_id = list(data['user_id'])
+u_id=pd.DataFrame(u_id)
+u_id
+user_id =0
+
+
+
+#### Collecting repositories_info
+
+repo_infos(user_id)
+
+
+# # Removing unused brackets from repositories json and making it usable
+
+
+cleaned_data('repo.json','cleaned_repo.json')
+
+
+
+len(pd.read_json('cleaned_repo.json'))
+
+
+
+
+contents=(codecs.open('cleaned_repo.json', encoding='utf-8').read())
+
+
+pp_json(contents,'cleaned_repo.json')
+
+
+# # Working on with list of 5000 user's repositories.
+
+# In[325]:
+
+repos=pd.read_json('cleaned_repo.json')
+repos=repos.replace({'{/sha}':'' }, regex=True)
+len(repos)
+
+
+
+
+
+
+    
+    
+
+    #repos['owner'][index]['id']
+
+
+
+
+#print(repos['owner']['id'])
+
+
+# # Retrieving the owner's repositories in order to differentiate among repositories.
+
+# In[344]:
+
+s= []
+
+
+# In[345]:
+
+repo_owner=pd.DataFrame(repos['owner'])
+
+for i in range(0,len(repo_owner)):
+    s.append((repo_owner['owner'][i]))
+
+s= pd.DataFrame(s)
+  
+s      
+        
+             
+             
+               
+
+
+# In[346]:
+
+len(s)
+
+
+# # Adding column[owner's_id] in the list of repositories .
+
+# In[348]:
+
+repos['owners_id']=pd.Series(s['id'])
+repos.set_index('owners_id')
+#repos=repos.sort('owners_id')
+repos.to_csv('user\'s_repos_info.csv',index=False)
+
+
+# In[ ]:
+
+
+
+
+# In[350]:
+
+#repos
+
+
+# In[351]:
+
+repos=pd.read_csv('user\'s_repos_info.csv',index_col=None)
+
+
+
+
+

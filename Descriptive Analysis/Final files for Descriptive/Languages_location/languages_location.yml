@@ -1,0 +1,9 @@
+in:
+  type: file
+  path_prefix: /home/shirz/Desktop/Final files for Descriptive/Languages_location/csv/Languages_location.csv
+out:
+  type: elasticsearch
+  index: languages_location
+  index_type: embulk
+  nodes:
+    - host: localhost

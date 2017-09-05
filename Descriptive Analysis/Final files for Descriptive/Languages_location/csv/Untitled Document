@@ -1,0 +1,46 @@
+input {
+    stdin {}
+}
+filter {
+  # Step 1, possible dropping
+  if [message] =~ /^#/ {
+    drop {}
+  }
+  # Step 2, splitting
+  csv {
+    # careful... there is a "tab" embedded in the next line:
+    # if you cannot copy paste it, press ctrl+V and then the tab key to create the control sequence
+    # or maybe just tab, depending on your editor
+    separator => '      '
+    quote_char => '|' # arbitrary, default one is included in the data and does not work
+    columns => [ 'city','lat', 'lon','language','language_count' ]
+  }
+  
+  # Step 5, lat/lon love
+  if [lat] and [lon] {
+    # move into own location object for additional geo_point type in ES
+    # copy field, then merge to create array for bettermap
+    mutate {
+      rename => [ "lat", "[location][lat]", "lon", "[location][lon]" ]
+      add_field => { "lonlat" => [ "%{[location][lon]}", "%{[location][lat]}" ] }
+    }
+  }
+  # Step 6, explicit conversion
+  mutate {
+    convert => [ "city", "string" ]
+    convert => [ "[location][lat]", "float" ]
+    convert => [ "[location][lon]", "float" ]
+    convert => [ "[lonlat]", "float" ]
+    convert => [ "language", "string" ]	
+    convert => [ "language_count", "integer" ]	
+  }
+}
+output {
+  elasticsearch {
+    host => 'localhost'
+    index => 'region_lang'
+    index_type => "locality"
+    flush_size => 1000
+    protocol => 'http'
+  }
+}

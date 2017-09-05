@@ -1,0 +1,27 @@
+in:
+  type: file
+  path_prefix: /home/shirz/home/shirz/Desktop/Final files for Descriptive/Projects_forks_language_company/csv/Projects_forks_language_company.csv
+  parser:
+    charset: UTF-8
+    newline: CRLF
+    type: csv
+    delimiter: ','
+    quote: '"'
+    escape: '"'
+    trim_if_not_quoted: false
+    skip_header_lines: 1
+    allow_extra_columns: false
+    allow_optional_columns: false
+    columns:
+    - {name: '', type: long}
+    - {name: company, type: string}
+    - {name: id, type: long}
+    - {name: language, type: string}
+    - {name: name, type: string}
+    - {name: forks_count, type: long}
+out:
+  type: elasticsearch
+  index: projects_forks_language_company
+  index_type: embulk
+  nodes:
+  - {host: localhost}

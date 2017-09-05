@@ -1,0 +1,9 @@
+in:
+  type: file
+  path_prefix: /home/shirz/home/shirz/Desktop/Final files for Descriptive/Projects_forks_language_company/csv/Projects_forks_language_company.csv
+out:
+  type: elasticsearch
+  index: projects_forks_language_company
+  index_type: embulk
+  nodes:
+    - host: localhost

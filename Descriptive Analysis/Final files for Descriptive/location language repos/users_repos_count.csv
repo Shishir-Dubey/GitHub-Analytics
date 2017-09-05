@@ -1,0 +1,2220 @@
+iso3,language,city,repository_counts
+ARG,ActionScript,San Francisco,1
+ARG,ApacheConf,San Francisco,1
+ARG,Arduino,San Francisco,2
+ARG,Awk,San Francisco,1
+ARG,Brainfuck,San Francisco,1
+ARG,C,San Francisco,29
+ARG,C,San Rafael,4
+ARG,C#,San Francisco,7
+ARG,C++,Buenos Aires,1
+ARG,C++,San Francisco,12
+ARG,C++,Santa Rosa,1
+ARG,CSS,San Francisco,16
+ARG,Clojure,Buenos Aires,1
+ARG,Clojure,San Francisco,1
+ARG,CoffeeScript,San Francisco,2
+ARG,Elm,San Francisco,2
+ARG,Emacs Lisp,Buenos Aires,1
+ARG,Emacs Lisp,San Francisco,4
+ARG,Emacs Lisp,San Rafael,1
+ARG,Erlang,San Rafael,11
+ARG,F#,San Francisco,1
+ARG,Go,Buenos Aires,1
+ARG,Go,San Francisco,4
+ARG,Groovy,San Francisco,2
+ARG,HTML,Buenos Aires,1
+ARG,HTML,San Francisco,9
+ARG,Haskell,Buenos Aires,1
+ARG,Haskell,San Francisco,1
+ARG,Java,Rosario,2
+ARG,Java,San Francisco,43
+ARG,Java,San Rafael,1
+ARG,Java,Santa Rosa,1
+ARG,JavaScript,Buenos Aires,6
+ARG,JavaScript,Rosario,6
+ARG,JavaScript,San Francisco,164
+ARG,JavaScript,Santa Rosa,17
+ARG,Jupyter Notebook,San Francisco,1
+ARG,Lua,Rosario,1
+ARG,Makefile,San Francisco,2
+ARG,Nginx,San Francisco,1
+ARG,Objective-C,San Francisco,14
+ARG,PHP,Buenos Aires,9
+ARG,PHP,Lincoln,1
+ARG,PHP,Rosario,19
+ARG,PHP,San Francisco,23
+ARG,Perl,Buenos Aires,1
+ARG,Perl,San Francisco,15
+ARG,Python,Buenos Aires,8
+ARG,Python,Rosario,1
+ARG,Python,San Francisco,83
+ARG,Python,San Rafael,1
+ARG,Python,Santa Rosa,8
+ARG,R,San Francisco,3
+ARG,Racket,San Francisco,1
+ARG,Ruby,Buenos Aires,7
+ARG,Ruby,San Francisco,102
+ARG,Ruby,San Rafael,11
+ARG,Ruby,Santa Rosa,2
+ARG,Rust,San Francisco,3
+ARG,Scala,San Francisco,5
+ARG,Shell,Buenos Aires,2
+ARG,Shell,San Francisco,11
+ARG,Shell,San Rafael,1
+ARG,Shell,Santa Rosa,1
+ARG,Swift,San Francisco,20
+ARG,TeX,Buenos Aires,1
+ARG,TeX,San Francisco,2
+ARG,TypeScript,San Francisco,2
+ARG,VimL,San Francisco,12
+AUS,ActionScript,Roma,1
+AUS,ApacheConf,Sydney,1
+AUS,AppleScript,Melbourne,1
+AUS,Arduino,Melbourne,1
+AUS,C,Hobart,1
+AUS,C,Melbourne,6
+AUS,C,Portland,6
+AUS,C,Roma,2
+AUS,C,Sydney,3
+AUS,C#,Brisbane,29
+AUS,C#,Melbourne,5
+AUS,C#,Perth,1
+AUS,C#,Scottsdale,5
+AUS,C#,Sydney,15
+AUS,C++,Melbourne,6
+AUS,C++,Portland,5
+AUS,CSS,Brisbane,5
+AUS,CSS,Melbourne,6
+AUS,CSS,Portland,6
+AUS,CSS,Sale,2
+AUS,CSS,Sydney,8
+AUS,Clojure,Sydney,16
+AUS,CoffeeScript,Hobart,1
+AUS,CoffeeScript,Melbourne,1
+AUS,CoffeeScript,Portland,5
+AUS,Elixir,Portland,1
+AUS,Emacs Lisp,Melbourne,1
+AUS,Emacs Lisp,Portland,6
+AUS,F#,Brisbane,1
+AUS,F#,Melbourne,2
+AUS,Go,Portland,2
+AUS,Go,Sydney,7
+AUS,Groovy,Melbourne,1
+AUS,Groovy,Portland,1
+AUS,HTML,Adelaide,2
+AUS,HTML,Melbourne,1
+AUS,HTML,Portland,5
+AUS,HTML,Sale,1
+AUS,HTML,Sydney,1
+AUS,HaXe,Portland,1
+AUS,Haskell,Brisbane,2
+AUS,Haskell,Melbourne,2
+AUS,Java,Adelaide,9
+AUS,Java,Melbourne,4
+AUS,Java,Portland,6
+AUS,Java,Roma,2
+AUS,Java,Sydney,10
+AUS,JavaScript,Brisbane,4
+AUS,JavaScript,Hobart,15
+AUS,JavaScript,Melbourne,24
+AUS,JavaScript,Portland,34
+AUS,JavaScript,Scottsdale,3
+AUS,JavaScript,Sydney,29
+AUS,Lua,Roma,3
+AUS,Lua,Sydney,1
+AUS,Makefile,Roma,1
+AUS,Matlab,Melbourne,1
+AUS,OCaml,Portland,3
+AUS,Objective-C,Hobart,2
+AUS,Objective-C,Melbourne,22
+AUS,Objective-C,Portland,29
+AUS,Objective-C,Scottsdale,1
+AUS,Objective-C,Sydney,5
+AUS,Objective-C++,Sydney,1
+AUS,PHP,Canberra,1
+AUS,PHP,Hobart,6
+AUS,PHP,Melbourne,11
+AUS,PHP,Portland,5
+AUS,PHP,Roma,2
+AUS,PHP,Scottsdale,2
+AUS,PHP,Sydney,16
+AUS,Pascal,Sydney,1
+AUS,Perl,Portland,2
+AUS,PowerShell,Brisbane,2
+AUS,Puppet,Brisbane,1
+AUS,Python,Brisbane,1
+AUS,Python,Melbourne,5
+AUS,Python,Portland,14
+AUS,Python,Sydney,2
+AUS,R,Adelaide,2
+AUS,Ruby,Canberra,1
+AUS,Ruby,Hobart,2
+AUS,Ruby,Melbourne,18
+AUS,Ruby,Portland,19
+AUS,Ruby,Sydney,18
+AUS,Rust,Brisbane,1
+AUS,Scala,Portland,3
+AUS,Shell,Brisbane,1
+AUS,Shell,Hobart,2
+AUS,Shell,Melbourne,3
+AUS,Shell,Portland,10
+AUS,Shell,Roma,1
+AUS,Shell,Sydney,2
+AUS,Swift,Melbourne,9
+AUS,Swift,Sydney,1
+AUS,TeX,Portland,1
+AUS,TypeScript,Brisbane,2
+AUS,TypeScript,Melbourne,2
+AUS,VimL,Melbourne,1
+AUS,VimL,Portland,1
+AUS,VimL,Sydney,1
+AUS,Visual Basic,Brisbane,1
+AUS,XSLT,Adelaide,1
+AUT,BitBake,Vienna,2
+AUT,C,Vienna,3
+AUT,C++,Innsbruck,1
+AUT,C++,Vienna,2
+AUT,HTML,Vienna,1
+AUT,Java,Vienna,2
+AUT,JavaScript,Vienna,6
+AUT,Python,Innsbruck,3
+AUT,Python,Vienna,16
+AUT,Ruby,Vienna,3
+AUT,Shell,Vienna,3
+BEL,Arduino,Brussels,1
+BEL,C,Brussels,4
+BEL,C++,Brussels,1
+BEL,CSS,Brussels,1
+BEL,Eagle,Brussels,1
+BEL,Go,Brussels,1
+BEL,HTML,Brussels,1
+BEL,Java,Brussels,1
+BEL,JavaScript,Brussels,4
+BEL,Makefile,Brussels,1
+BEL,Processing,Brussels,1
+BEL,Python,Brussels,1
+BEL,Scala,Brussels,1
+BEL,TeX,Brussels,1
+BGD,Java,Dhaka,6
+BGD,PHP,Dhaka,1
+BGR,C,Sofia,2
+BGR,C#,Sofia,4
+BGR,C++,Sofia,2
+BGR,CSS,Sofia,1
+BGR,Elixir,Sofia,6
+BGR,Emacs Lisp,Sofia,2
+BGR,Go,Sofia,1
+BGR,HTML,Sofia,1
+BGR,Java,Sofia,3
+BGR,JavaScript,Sofia,20
+BGR,Lua,Sofia,1
+BGR,PHP,Sofia,15
+BGR,Perl,Sofia,1
+BGR,Python,Sofia,7
+BGR,Ruby,Sofia,5
+BGR,Shell,Sofia,7
+BGR,TypeScript,Sofia,9
+BGR,VimL,Sofia,2
+BLR,Java,Minsk,2
+BLR,Shell,Minsk,1
+BOL,C,San Rafael,4
+BOL,Emacs Lisp,San Rafael,1
+BOL,Erlang,San Rafael,11
+BOL,HTML,Santa Cruz,1
+BOL,Java,San Rafael,1
+BOL,Python,San Rafael,1
+BOL,Ruby,San Rafael,11
+BOL,Shell,San Rafael,1
+BRA,Batchfile,Porto Alegre,1
+BRA,C,Belo Horizonte,2
+BRA,C,Campina Grande,1
+BRA,C,Porto Alegre,2
+BRA,C#,Porto Alegre,3
+BRA,C++,Belo Horizonte,2
+BRA,C++,Porto Alegre,1
+BRA,C++,Santa Rosa,1
+BRA,C++,Vitória,1
+BRA,CSS,Belo Horizonte,1
+BRA,CSS,Brasilia,1
+BRA,CSS,Campina Grande,1
+BRA,CSS,Rio de Janeiro,1
+BRA,Clojure,Belo Horizonte,1
+BRA,CoffeeScript,Rio de Janeiro,1
+BRA,Go,Belo Horizonte,8
+BRA,HTML,Belo Horizonte,3
+BRA,HTML,Goiania,1
+BRA,HTML,Nova Friburgo,2
+BRA,HTML,Santa Cruz,1
+BRA,HTML,Vitória,4
+BRA,Java,Belo Horizonte,19
+BRA,Java,Fortaleza,1
+BRA,Java,Goiania,4
+BRA,Java,Nova Friburgo,1
+BRA,Java,Rio de Janeiro,1
+BRA,Java,Rosario,2
+BRA,Java,Santa Rosa,1
+BRA,Java,Vitória,4
+BRA,JavaScript,Belo Horizonte,3
+BRA,JavaScript,Brasilia,2
+BRA,JavaScript,Curitiba,18
+BRA,JavaScript,Fortaleza,2
+BRA,JavaScript,Goiania,1
+BRA,JavaScript,Niteroi,1
+BRA,JavaScript,Nova Friburgo,1
+BRA,JavaScript,Recife,5
+BRA,JavaScript,Rio de Janeiro,4
+BRA,JavaScript,Rosario,6
+BRA,JavaScript,Santa Rosa,17
+BRA,JavaScript,Vitória,2
+BRA,Lua,Rosario,1
+BRA,PHP,Belo Horizonte,2
+BRA,PHP,Campina Grande,1
+BRA,PHP,Fortaleza,4
+BRA,PHP,Nova Friburgo,5
+BRA,PHP,Rosario,19
+BRA,PHP,Vitória,1
+BRA,Puppet,Brasilia,4
+BRA,Python,Belo Horizonte,5
+BRA,Python,Campina Grande,3
+BRA,Python,Rio de Janeiro,5
+BRA,Python,Rosario,1
+BRA,Python,Santa Rosa,8
+BRA,Python,Vitória,5
+BRA,Ruby,Belo Horizonte,1
+BRA,Ruby,Brasilia,3
+BRA,Ruby,Goiania,1
+BRA,Ruby,Niteroi,1
+BRA,Ruby,Rio de Janeiro,6
+BRA,Ruby,Santa Rosa,2
+BRA,Shell,Belo Horizonte,1
+BRA,Shell,Brasilia,13
+BRA,Shell,Campina Grande,4
+BRA,Shell,Porto Alegre,1
+BRA,Shell,Santa Rosa,1
+BRA,Shell,Vitória,2
+BRA,TeX,Belo Horizonte,1
+BRA,VimL,Belo Horizonte,3
+BRA,VimL,Campina Grande,1
+BRA,VimL,Curitiba,1
+BRA,VimL,Rio de Janeiro,1
+CAN,ApacheConf,London,1
+CAN,ApacheConf,Sydney,1
+CAN,Arduino,London,5
+CAN,Assembly,Vancouver,2
+CAN,C,Halifax,2
+CAN,C,London,8
+CAN,C,Montréal,1
+CAN,C,Sydney,3
+CAN,C,Toronto,2
+CAN,C,Vancouver,5
+CAN,C#,London,6
+CAN,C#,Sydney,15
+CAN,C#,Toronto,1
+CAN,C#,Vancouver,5
+CAN,C++,London,8
+CAN,C++,Toronto,1
+CAN,C++,Vancouver,7
+CAN,CSS,Calgary,1
+CAN,CSS,London,12
+CAN,CSS,Montréal,1
+CAN,CSS,Sydney,8
+CAN,CSS,Toronto,1
+CAN,Clojure,Sydney,16
+CAN,Clojure,Toronto,1
+CAN,Clojure,Vancouver,2
+CAN,CoffeeScript,London,2
+CAN,Elixir,London,1
+CAN,Emacs Lisp,London,2
+CAN,Go,Halifax,6
+CAN,Go,London,9
+CAN,Go,Sydney,7
+CAN,Go,Toronto,1
+CAN,Go,Vancouver,1
+CAN,Groovy,London,4
+CAN,Groovy,Toronto,1
+CAN,HTML,London,15
+CAN,HTML,Sydney,1
+CAN,HTML,Toronto,2
+CAN,HTML,Vancouver,2
+CAN,Haskell,London,2
+CAN,Haskell,Toronto,1
+CAN,Java,Halifax,1
+CAN,Java,London,30
+CAN,Java,Sydney,10
+CAN,Java,Toronto,6
+CAN,Java,Vancouver,1
+CAN,JavaScript,Calgary,4
+CAN,JavaScript,Edmonton,3
+CAN,JavaScript,Halifax,9
+CAN,JavaScript,Iqaluit,1
+CAN,JavaScript,London,92
+CAN,JavaScript,Montréal,6
+CAN,JavaScript,Ottawa,2
+CAN,JavaScript,Red Deer,1
+CAN,JavaScript,Sydney,29
+CAN,JavaScript,Toronto,5
+CAN,JavaScript,Vancouver,25
+CAN,Jupyter Notebook,Vancouver,2
+CAN,Lasso,Montréal,1
+CAN,Lua,Ottawa,1
+CAN,Lua,Sydney,1
+CAN,Lua,Toronto,1
+CAN,Makefile,Vancouver,2
+CAN,Objective-C,Edmonton,1
+CAN,Objective-C,London,3
+CAN,Objective-C,Ottawa,8
+CAN,Objective-C,Sydney,5
+CAN,Objective-C,Toronto,10
+CAN,Objective-C,Vancouver,3
+CAN,Objective-C++,Sydney,1
+CAN,PHP,Iqaluit,2
+CAN,PHP,London,14
+CAN,PHP,Montréal,10
+CAN,PHP,Ottawa,1
+CAN,PHP,Sydney,16
+CAN,Pascal,Sydney,1
+CAN,Perl,London,9
+CAN,Perl6,London,20
+CAN,PostScript,London,2
+CAN,Processing,Toronto,1
+CAN,Prolog,London,1
+CAN,Puppet,Toronto,1
+CAN,Python,Calgary,3
+CAN,Python,Halifax,5
+CAN,Python,London,51
+CAN,Python,Montréal,3
+CAN,Python,Ottawa,1
+CAN,Python,Sydney,2
+CAN,Python,Toronto,16
+CAN,Python,Vancouver,5
+CAN,Ruby,Edmonton,15
+CAN,Ruby,Fort Smith,3
+CAN,Ruby,Halifax,2
+CAN,Ruby,London,19
+CAN,Ruby,Montréal,7
+CAN,Ruby,Sydney,18
+CAN,Ruby,Toronto,4
+CAN,Rust,London,2
+CAN,Rust,Vancouver,3
+CAN,Scala,Halifax,1
+CAN,Scala,London,15
+CAN,Shell,Edmonton,1
+CAN,Shell,London,15
+CAN,Shell,Sydney,2
+CAN,Shell,Toronto,2
+CAN,Shell,Vancouver,3
+CAN,Swift,Sydney,1
+CAN,Swift,Toronto,1
+CAN,Swift,Vancouver,3
+CAN,TypeScript,London,1
+CAN,UnrealScript,Toronto,1
+CAN,VimL,Calgary,1
+CAN,VimL,Halifax,1
+CAN,VimL,Iqaluit,1
+CAN,VimL,London,1
+CAN,VimL,Sydney,1
+CAN,VimL,Toronto,1
+CHE,C,Zürich,1
+CHE,C++,Bern,2
+CHE,ColdFusion,Frauenfeld,2
+CHE,D,Bern,1
+CHE,HTML,Lausanne,3
+CHE,Java,Bern,1
+CHE,JavaScript,Frauenfeld,4
+CHE,JavaScript,Lausanne,2
+CHE,JavaScript,Luzern,2
+CHE,PHP,Luzern,2
+CHE,Python,Bern,13
+CHE,Python,Lausanne,1
+CHE,Ruby,Luzern,3
+CHE,Shell,Lausanne,1
+CHE,VimL,Lausanne,1
+CHL,C,San Antonio,1
+CHL,C++,Los Angeles,1
+CHL,CSS,Los Angeles,4
+CHL,CSS,Santiago,1
+CHL,Clojure,Los Angeles,1
+CHL,CoffeeScript,Los Angeles,1
+CHL,CoffeeScript,Santiago,2
+CHL,Elixir,Los Angeles,1
+CHL,Go,Los Angeles,4
+CHL,HTML,Los Angeles,1
+CHL,HTML,Santiago,1
+CHL,Haskell,Los Angeles,1
+CHL,Java,Los Angeles,6
+CHL,JavaScript,Los Angeles,7
+CHL,JavaScript,San Antonio,1
+CHL,JavaScript,Santiago,15
+CHL,Jupyter Notebook,Los Angeles,1
+CHL,Matlab,Los Angeles,1
+CHL,OCaml,Los Angeles,1
+CHL,Objective-C,Los Angeles,1
+CHL,PHP,Los Angeles,1
+CHL,PHP,San Antonio,1
+CHL,PHP,Santiago,2
+CHL,Perl,Los Angeles,27
+CHL,Python,Los Angeles,2
+CHL,Python,San Antonio,13
+CHL,Python,Santiago,4
+CHL,R,Los Angeles,1
+CHL,Ruby,Los Angeles,6
+CHL,Ruby,San Antonio,2
+CHL,Ruby,Santiago,19
+CHL,Shell,Los Angeles,1
+CHL,Shell,San Antonio,5
+CHL,Shell,Santiago,2
+CHL,VimL,Los Angeles,2
+CHL,VimL,Santiago,1
+CHN,ActionScript,Beijing,17
+CHN,ActionScript,Xiamen,3
+CHN,C,Beijing,2
+CHN,C,Shanghai,1
+CHN,C,Xiamen,3
+CHN,C++,Beijing,3
+CHN,C++,Shanghai,2
+CHN,C++,Xiamen,1
+CHN,CSS,Beijing,6
+CHN,CSS,Shanghai,3
+CHN,Cuda,Beijing,2
+CHN,Emacs Lisp,Shanghai,2
+CHN,Go,Beijing,10
+CHN,Go,Shanghai,4
+CHN,Go,Xiamen,2
+CHN,HTML,Beijing,8
+CHN,HTML,Shanghai,2
+CHN,HTML,Xiamen,1
+CHN,Java,Beijing,23
+CHN,Java,Shanghai,2
+CHN,Java,Xiamen,3
+CHN,JavaScript,Beijing,22
+CHN,JavaScript,Shanghai,8
+CHN,JavaScript,Xiamen,3
+CHN,Objective-C,Beijing,5
+CHN,Objective-C,Hangzhou,23
+CHN,Objective-C,Xiamen,2
+CHN,PHP,Beijing,1
+CHN,Python,Beijing,15
+CHN,Python,Shanghai,2
+CHN,Python,Xiamen,1
+CHN,R,Beijing,1
+CHN,Ruby,Beijing,6
+CHN,Ruby,Xiamen,1
+CHN,Rust,Shanghai,1
+CHN,Scala,Beijing,1
+CHN,Shell,Beijing,5
+CHN,Shell,Hangzhou,1
+CHN,Shell,Shanghai,2
+CHN,Swift,Beijing,1
+CHN,Swift,Xiamen,1
+COL,C,Bucaramanga,1
+COL,C,Medellin,1
+COL,C++,Medellin,5
+COL,Clojure,Medellin,4
+COL,Common Lisp,Medellin,1
+COL,Emacs Lisp,Medellin,1
+COL,Go,Bucaramanga,1
+COL,HTML,Bucaramanga,1
+COL,HTML,Medellin,1
+COL,JavaScript,Armenia,1
+COL,JavaScript,Bucaramanga,2
+COL,JavaScript,Medellin,2
+COL,PHP,Armenia,1
+COL,Python,Bucaramanga,9
+COL,Ruby,Bucaramanga,1
+COL,Ruby,Medellin,13
+COL,Shell,Medellin,1
+COL,Swift,Armenia,3
+CRI,C,San Jose,9
+CRI,C#,San Jose,1
+CRI,C++,San Jose,2
+CRI,Go,San Jose,2
+CRI,HTML,San Jose,1
+CRI,Haskell,San Jose,1
+CRI,Java,San Jose,5
+CRI,JavaScript,San Jose,5
+CRI,Makefile,San Jose,1
+CRI,Python,San Jose,3
+CRI,Ruby,San Jose,1
+CRI,Shell,San Jose,1
+CRI,TeX,San Jose,1
+CRI,VHDL,San Jose,3
+CRI,Verilog,San Jose,10
+CRI,VimL,San Jose,1
+CZE,C,Prague,8
+CZE,C++,Prague,1
+CZE,CoffeeScript,Prague,2
+CZE,F#,Prague,2
+CZE,HTML,Prague,1
+CZE,Java,Prague,12
+CZE,JavaScript,Prague,23
+CZE,Lua,Prague,1
+CZE,Objective-C,Prague,3
+CZE,PHP,Prague,17
+CZE,Python,Prague,1
+CZE,Ruby,Prague,26
+CZE,Shell,Prague,5
+CZE,VimL,Prague,3
+DEU,ActionScript,Berlin,1
+DEU,C,Berlin,3
+DEU,C,Hamburg,1
+DEU,C,Munich,6
+DEU,C,Stuttgart,2
+DEU,C#,Berlin,12
+DEU,C#,Munich,1
+DEU,C++,Berlin,15
+DEU,C++,Hamburg,4
+DEU,C++,Munich,1
+DEU,CSS,Berlin,7
+DEU,CSS,Hamburg,3
+DEU,CSS,Munich,2
+DEU,CSS,Stuttgart,1
+DEU,Clojure,Berlin,7
+DEU,CoffeeScript,Berlin,5
+DEU,CoffeeScript,Munich,1
+DEU,Common Lisp,Berlin,1
+DEU,Emacs Lisp,Berlin,3
+DEU,Emacs Lisp,Munich,17
+DEU,F#,Berlin,3
+DEU,Go,Berlin,20
+DEU,Go,Munich,3
+DEU,Groovy,Munich,13
+DEU,HTML,Berlin,7
+DEU,HTML,Munich,3
+DEU,HTML,Stuttgart,1
+DEU,Haskell,Berlin,1
+DEU,Java,Berlin,24
+DEU,Java,Munich,12
+DEU,JavaScript,Berlin,58
+DEU,JavaScript,Hamburg,9
+DEU,JavaScript,Leipzig,3
+DEU,JavaScript,Munich,17
+DEU,JavaScript,Stuttgart,10
+DEU,Jupyter Notebook,Berlin,1
+DEU,Kotlin,Hamburg,1
+DEU,Lua,Munich,1
+DEU,Makefile,Berlin,1
+DEU,Nginx,Berlin,1
+DEU,Nix,Munich,1
+DEU,Objective-C,Berlin,20
+DEU,Objective-C,Bremen,2
+DEU,Objective-C,Munich,4
+DEU,Objective-C,Stuttgart,1
+DEU,PHP,Berlin,48
+DEU,PHP,Hamburg,13
+DEU,PHP,Munich,3
+DEU,PHP,Stuttgart,13
+DEU,PostScript,Berlin,1
+DEU,Processing,Bremen,1
+DEU,Puppet,Stuttgart,1
+DEU,Python,Berlin,41
+DEU,Python,Hamburg,3
+DEU,Python,Munich,7
+DEU,Python,Stuttgart,3
+DEU,Ruby,Berlin,26
+DEU,Ruby,Munich,33
+DEU,Scala,Berlin,6
+DEU,Shell,Berlin,7
+DEU,Shell,Hamburg,1
+DEU,Shell,Munich,9
+DEU,Shell,Stuttgart,4
+DEU,Swift,Berlin,27
+DEU,TeX,Berlin,1
+DEU,TeX,Munich,2
+DEU,TypeScript,Hamburg,2
+DEU,VimL,Berlin,7
+DOM,CSS,Santiago,1
+DOM,CoffeeScript,Santiago,2
+DOM,HTML,Santiago,1
+DOM,JavaScript,Santiago,15
+DOM,PHP,Santiago,2
+DOM,Python,Santiago,4
+DOM,Ruby,Santiago,19
+DOM,Shell,Santiago,2
+DOM,VimL,Santiago,1
+ECU,HTML,Santa Cruz,1
+EGY,Python,Alexandria,1
+EGY,Ruby,Alexandria,2
+ESP,C,Granada,1
+ESP,C,Madrid,1
+ESP,C#,Barcelona,4
+ESP,C++,Barcelona,10
+ESP,C++,Madrid,2
+ESP,CSS,Barcelona,1
+ESP,CSS,Madrid,3
+ESP,Cuda,Barcelona,1
+ESP,D,Barcelona,1
+ESP,Emacs Lisp,Barcelona,1
+ESP,HTML,Barcelona,1
+ESP,HTML,Granada,2
+ESP,HTML,Madrid,1
+ESP,Java,Granada,3
+ESP,Java,Madrid,23
+ESP,Java,Seville,3
+ESP,JavaScript,Barcelona,14
+ESP,JavaScript,Madrid,29
+ESP,JavaScript,Seville,3
+ESP,Objective-C,Madrid,1
+ESP,PHP,Barcelona,8
+ESP,PHP,Granada,8
+ESP,PHP,Madrid,2
+ESP,Python,Barcelona,1
+ESP,Python,Granada,1
+ESP,Python,Madrid,7
+ESP,Python,Seville,17
+ESP,Ruby,Barcelona,1
+ESP,Ruby,Granada,1
+ESP,Ruby,Madrid,2
+ESP,Ruby,Seville,1
+ESP,Scala,Barcelona,3
+ESP,Shell,Barcelona,3
+ESP,Shell,Granada,1
+ESP,Shell,Madrid,7
+EST,Java,Tallinn,1
+EST,Ruby,Tallinn,8
+EST,Shell,Tallinn,3
+FIN,C,Turku,1
+FIN,C++,Turku,1
+FIN,Clojure,Helsinki,7
+FIN,CoffeeScript,Jyväskylä,1
+FIN,CoffeeScript,Tampere,1
+FIN,Dart,Helsinki,1
+FIN,Java,Helsinki,3
+FIN,JavaScript,Helsinki,12
+FIN,JavaScript,Jyväskylä,26
+FIN,JavaScript,Tampere,5
+FIN,JavaScript,Turku,2
+FIN,Lua,Jyväskylä,1
+FIN,PHP,Turku,1
+FIN,Ruby,Helsinki,2
+FIN,Ruby,Jyväskylä,1
+FIN,Swift,Helsinki,1
+FIN,TypeScript,Helsinki,3
+FRA,ActionScript,Paris,3
+FRA,Arduino,Paris,1
+FRA,C,Annecy,3
+FRA,C,Paris,3
+FRA,C++,Annecy,1
+FRA,C++,Toulouse,8
+FRA,CSS,Paris,3
+FRA,CoffeeScript,Paris,5
+FRA,Elixir,Paris,2
+FRA,HTML,Paris,4
+FRA,Java,Annecy,1
+FRA,Java,Nantes,2
+FRA,Java,Paris,11
+FRA,JavaScript,Montpellier,2
+FRA,JavaScript,Paris,67
+FRA,JavaScript,Strasbourg,1
+FRA,JavaScript,Toulouse,1
+FRA,Lasso,Paris,1
+FRA,Matlab,Paris,1
+FRA,Matlab,Toulouse,1
+FRA,Objective-C,Annecy,2
+FRA,Objective-C,Paris,1
+FRA,Objective-C,Toulouse,1
+FRA,PHP,Nice,2
+FRA,PHP,Paris,52
+FRA,PHP,Strasbourg,1
+FRA,PHP,Toulouse,1
+FRA,Python,Annecy,3
+FRA,Python,Grenoble,1
+FRA,Python,Paris,7
+FRA,Python,Toulouse,4
+FRA,Ruby,Nice,2
+FRA,Ruby,Paris,3
+FRA,Shell,Paris,7
+FRA,TeX,Paris,16
+FRA,TypeScript,Paris,1
+FRA,XSLT,Paris,1
+GBR,ActionScript,Cambridge,1
+GBR,ApacheConf,London,1
+GBR,Arduino,London,5
+GBR,Arduino,Manchester,1
+GBR,C,Brighton,1
+GBR,C,Cambridge,5
+GBR,C,Edinburgh,1
+GBR,C,London,8
+GBR,C,Manchester,1
+GBR,C,Southampton,6
+GBR,C#,Birmingham,1
+GBR,C#,London,6
+GBR,C#,Nottingham,2
+GBR,C#,Perth,1
+GBR,C#,Southampton,1
+GBR,C++,Birmingham,1
+GBR,C++,Cambridge,1
+GBR,C++,Edinburgh,1
+GBR,C++,London,8
+GBR,C++,Manchester,2
+GBR,C++,Southampton,3
+GBR,CSS,Birmingham,1
+GBR,CSS,Cambridge,5
+GBR,CSS,Coventry,1
+GBR,CSS,Edinburgh,2
+GBR,CSS,London,12
+GBR,CSS,Manchester,5
+GBR,CSS,Southampton,1
+GBR,Clojure,Southampton,1
+GBR,CoffeeScript,Cambridge,1
+GBR,CoffeeScript,Edinburgh,2
+GBR,CoffeeScript,London,2
+GBR,Elixir,Brighton,1
+GBR,Elixir,London,1
+GBR,Emacs Lisp,London,2
+GBR,Go,Brighton,10
+GBR,Go,Cambridge,24
+GBR,Go,London,9
+GBR,Go,Manchester,3
+GBR,Groovy,London,4
+GBR,HCL,Manchester,1
+GBR,HTML,London,15
+GBR,HTML,Manchester,4
+GBR,HTML,Nottingham,1
+GBR,HTML,Southampton,2
+GBR,Haskell,London,2
+GBR,Haxe,Manchester,4
+GBR,Java,Cambridge,15
+GBR,Java,Edinburgh,15
+GBR,Java,London,30
+GBR,Java,Manchester,1
+GBR,Java,Nottingham,1
+GBR,Java,Southampton,6
+GBR,JavaScript,Birmingham,2
+GBR,JavaScript,Brighton,6
+GBR,JavaScript,Bristol,2
+GBR,JavaScript,Cambridge,31
+GBR,JavaScript,Coventry,2
+GBR,JavaScript,Edinburgh,28
+GBR,JavaScript,Leeds,1
+GBR,JavaScript,London,92
+GBR,JavaScript,Manchester,8
+GBR,JavaScript,Nottingham,3
+GBR,JavaScript,Southampton,7
+GBR,Makefile,Cambridge,1
+GBR,Objective-C,Birmingham,1
+GBR,Objective-C,Cambridge,3
+GBR,Objective-C,Coventry,1
+GBR,Objective-C,London,3
+GBR,Objective-C,Manchester,1
+GBR,Objective-C,Southampton,5
+GBR,PHP,Birmingham,7
+GBR,PHP,Brighton,1
+GBR,PHP,Cambridge,6
+GBR,PHP,Leeds,7
+GBR,PHP,London,14
+GBR,PHP,Norwich,20
+GBR,Perl,Cambridge,2
+GBR,Perl,Edinburgh,25
+GBR,Perl,London,9
+GBR,Perl,Manchester,1
+GBR,Perl6,Edinburgh,1
+GBR,Perl6,London,20
+GBR,PostScript,London,2
+GBR,Processing,Manchester,2
+GBR,Prolog,London,1
+GBR,Puppet,Manchester,5
+GBR,PureScript,Edinburgh,1
+GBR,Python,Brighton,4
+GBR,Python,Cambridge,14
+GBR,Python,Coventry,1
+GBR,Python,Edinburgh,4
+GBR,Python,London,51
+GBR,Python,Manchester,4
+GBR,Python,Nottingham,1
+GBR,Python,Southampton,14
+GBR,R,Cambridge,5
+GBR,Ruby,Bristol,5
+GBR,Ruby,Cambridge,8
+GBR,Ruby,Leeds,2
+GBR,Ruby,London,19
+GBR,Ruby,Manchester,4
+GBR,Ruby,Nottingham,22
+GBR,Ruby,Southampton,1
+GBR,Rust,London,2
+GBR,Scala,London,15
+GBR,Shell,Brighton,1
+GBR,Shell,Cambridge,2
+GBR,Shell,Edinburgh,2
+GBR,Shell,London,15
+GBR,Shell,Manchester,1
+GBR,Shell,Southampton,3
+GBR,Swift,Coventry,3
+GBR,TypeScript,Edinburgh,1
+GBR,TypeScript,London,1
+GBR,VimL,Birmingham,1
+GBR,VimL,Cambridge,2
+GBR,VimL,London,1
+GBR,Yacc,Southampton,1
+GEO,HTML,Tbilisi,1
+GHA,C,Accra,1
+GHA,Erlang,Accra,5
+GHA,Go,Accra,1
+GHA,HTML,Accra,1
+GRC,CSS,Athens,3
+GRC,Go,Athens,1
+GRC,HTML,Athens,4
+GRC,JavaScript,Athens,8
+GRC,JavaScript,Volos,1
+GRC,PHP,Athens,1
+GRC,Python,Athens,22
+GRC,Ruby,Athens,1
+GRC,Shell,Athens,3
+GTM,C,San Jose,9
+GTM,C#,San Jose,1
+GTM,C++,San Jose,2
+GTM,Go,San Jose,2
+GTM,HTML,San Jose,1
+GTM,Haskell,San Jose,1
+GTM,Java,San Jose,5
+GTM,JavaScript,San Jose,5
+GTM,JavaScript,San Marcos,2
+GTM,Makefile,San Jose,1
+GTM,Python,San Jose,3
+GTM,Ruby,San Jose,1
+GTM,Shell,San Jose,1
+GTM,TeX,San Jose,1
+GTM,VHDL,San Jose,3
+GTM,Verilog,San Jose,10
+GTM,VimL,San Jose,1
+HKG,Go,Hong Kong,1
+HKG,HTML,Hong Kong,3
+HKG,JavaScript,Hong Kong,9
+HKG,PHP,Hong Kong,2
+HUN,API Blueprint,Budapest,1
+HUN,Assembly,Budapest,1
+HUN,C,Szeged,1
+HUN,C#,Szeged,1
+HUN,C++,Budapest,3
+HUN,C++,Szeged,5
+HUN,Clojure,Budapest,1
+HUN,CoffeeScript,Budapest,1
+HUN,Go,Budapest,3
+HUN,HTML,Budapest,1
+HUN,Java,Budapest,8
+HUN,Java,Szeged,1
+HUN,JavaScript,Budapest,6
+HUN,Objective-C,Budapest,3
+HUN,PHP,Budapest,1
+HUN,Python,Budapest,3
+HUN,QML,Szeged,3
+HUN,Ruby,Budapest,3
+HUN,Rust,Budapest,2
+HUN,Scala,Budapest,1
+HUN,Shell,Budapest,1
+HUN,TeX,Szeged,1
+IDN,ActionScript,Yogyakarta,1
+IDN,C#,Jakarta,1
+IDN,CSS,Bogor,1
+IDN,CSS,Jakarta,2
+IDN,Go,Jakarta,1
+IDN,HTML,Jakarta,4
+IDN,Java,Jakarta,4
+IDN,Java,Yogyakarta,1
+IDN,JavaScript,Jakarta,13
+IDN,JavaScript,Yogyakarta,17
+IDN,PHP,Bogor,1
+IDN,PHP,Jakarta,15
+IDN,PHP,Yogyakarta,4
+IDN,Ruby,Jakarta,2
+IDN,Ruby,Yogyakarta,1
+IDN,Shell,Jakarta,5
+IND,C,Chennai,1
+IND,C#,Gurgaon,2
+IND,CSS,Bangalore,1
+IND,CSS,Hyderabad,2
+IND,CoffeeScript,Hyderabad,1
+IND,HTML,Bangalore,1
+IND,HTML,Chennai,2
+IND,Java,Bangalore,4
+IND,Java,Chennai,4
+IND,Java,Hyderabad,1
+IND,Java,New Delhi,1
+IND,JavaScript,Bangalore,36
+IND,JavaScript,Chennai,7
+IND,JavaScript,Gurgaon,1
+IND,JavaScript,Hyderabad,7
+IND,JavaScript,New Delhi,1
+IND,Objective-C,Chennai,1
+IND,Objective-C,Hyderabad,1
+IND,PHP,Bangalore,5
+IND,PHP,Chandigarh,1
+IND,PHP,Chennai,7
+IND,PHP,Delhi,2
+IND,PHP,Hyderabad,1
+IND,Puppet,Bangalore,1
+IND,Python,Bangalore,7
+IND,Python,Chennai,8
+IND,Python,Hyderabad,12
+IND,Python,New Delhi,1
+IND,R,Chennai,1
+IND,Ruby,Bangalore,10
+IND,Ruby,Hyderabad,10
+IND,Shell,Bangalore,2
+IND,Shell,Hyderabad,1
+IND,Swift,Hyderabad,1
+IND,TypeScript,Hyderabad,1
+IND,VimL,Bangalore,2
+IND,VimL,Chennai,1
+IRL,C,Dublin,4
+IRL,C,Galway,1
+IRL,C++,Dublin,1
+IRL,CSS,Dublin,1
+IRL,Go,Dublin,1
+IRL,Objective-C,Dublin,1
+IRL,Perl,Dublin,3
+IRL,Python,Dublin,5
+IRL,Shell,Dublin,1
+ITA,Ada,Bologna,1
+ITA,Arduino,Milan,1
+ITA,C,Catania,15
+ITA,C,Milan,16
+ITA,C,Pisa,5
+ITA,C,Rome,1
+ITA,C#,Milan,2
+ITA,C++,Bologna,1
+ITA,C++,Catania,2
+ITA,C++,Pisa,7
+ITA,CMake,Pisa,2
+ITA,CSS,Bologna,1
+ITA,Erlang,Milan,4
+ITA,Java,Bologna,8
+ITA,Java,Milan,13
+ITA,JavaScript,Catania,1
+ITA,JavaScript,Milan,4
+ITA,JavaScript,Venice,1
+ITA,Lua,Milan,4
+ITA,OCaml,Catania,1
+ITA,Objective-C,Milan,4
+ITA,Perl,Catania,1
+ITA,Python,Bologna,1
+ITA,Python,Milan,1
+ITA,Python,Pisa,1
+ITA,Racket,Milan,1
+ITA,Ruby,Catania,8
+ITA,Ruby,Milan,2
+ITA,Ruby,Venice,2
+ITA,Shell,Bologna,2
+ITA,Shell,Milan,2
+ITA,Shell,Venice,1
+ITA,Swift,Milan,1
+ITA,Swift,Venice,2
+ITA,TeX,Bologna,1
+ITA,VimL,Milan,1
+JOR,JavaScript,Amman,1
+JOR,PHP,Amman,2
+JOR,Ruby,Amman,2
+JPN,Arduino,Tokyo,1
+JPN,C,Nagano,1
+JPN,C,Tokyo,7
+JPN,C#,Tokyo,6
+JPN,C++,Kanazawa,1
+JPN,C++,Tokyo,12
+JPN,CMake,Tokyo,1
+JPN,CSS,Fukuoka,2
+JPN,CSS,Nagoya,5
+JPN,CSS,Tokyo,4
+JPN,Clojure,Tokyo,2
+JPN,CoffeeScript,Fukuoka,4
+JPN,CoffeeScript,Nagoya,2
+JPN,CoffeeScript,Tokyo,1
+JPN,Emacs Lisp,Fukuoka,1
+JPN,Emacs Lisp,Tokyo,3
+JPN,Erlang,Tokyo,6
+JPN,Go,Nagoya,5
+JPN,Go,Tokyo,17
+JPN,HTML,Tokyo,9
+JPN,Haskell,Tokyo,5
+JPN,Java,Tokyo,6
+JPN,JavaScript,Fukuoka,13
+JPN,JavaScript,Kanazawa,1
+JPN,JavaScript,Nagano,7
+JPN,JavaScript,Nagoya,3
+JPN,JavaScript,Tokyo,65
+JPN,Jupyter Notebook,Tokyo,1
+JPN,Objective-C,Tokyo,6
+JPN,PHP,Fukuoka,1
+JPN,PHP,Tokyo,2
+JPN,Perl,Tokyo,12
+JPN,Puppet,Tokyo,1
+JPN,Python,Fukuoka,1
+JPN,Python,Kanazawa,3
+JPN,Python,Tokyo,10
+JPN,Ruby,Fukuoka,4
+JPN,Ruby,Nagoya,11
+JPN,Ruby,Tokyo,40
+JPN,Rust,Tokyo,2
+JPN,Shell,Kanazawa,2
+JPN,Shell,Tokyo,6
+JPN,VimL,Tokyo,1
+KOR,HTML,Seoul,1
+KOR,Java,Seoul,3
+KOR,JavaScript,Seoul,4
+KOR,Objective-C,Seoul,1
+KOR,Python,Seoul,16
+KOR,Rust,Seoul,1
+KOR,Shell,Seoul,2
+KOR,Swift,Seoul,1
+LBR,C,Greenville,1
+LBR,C++,Greenville,1
+LBR,CSS,Greenville,1
+LBR,JavaScript,Greenville,1
+LBR,Python,Greenville,1
+LBR,TeX,Greenville,1
+LTU,C++,Vilnius,1
+LTU,Clojure,Vilnius,1
+LTU,CoffeeScript,Vilnius,1
+LTU,Java,Vilnius,4
+LTU,JavaScript,Vilnius,4
+LTU,Logos,Vilnius,1
+LTU,Lua,Vilnius,5
+LTU,PHP,Vilnius,9
+LTU,Python,Vilnius,2
+LTU,Ruby,Vilnius,5
+LTU,TeX,Vilnius,1
+LTU,VimL,Vilnius,1
+LVA,C++,Riga,1
+LVA,JavaScript,Riga,4
+LVA,PHP,Riga,2
+MEX,CSS,Mexico City,1
+MEX,Java,Mexico City,5
+MEX,JavaScript,Mexico City,12
+MEX,Liquid,Mexico City,1
+MEX,Objective-C,Mexico City,7
+MEX,PHP,Mexico City,3
+MEX,Ruby,Mexico City,7
+MYS,C++,Kuala Lumpur,1
+MYS,CSS,Kuala Lumpur,4
+MYS,CoffeeScript,Kuala Lumpur,3
+MYS,HTML,Kuala Lumpur,2
+MYS,JavaScript,Kuala Lumpur,26
+MYS,PHP,Kuala Lumpur,11
+MYS,Python,Kuala Lumpur,2
+MYS,Ruby,Kuala Lumpur,1
+MYS,Shell,Kuala Lumpur,1
+MYS,VimL,Kuala Lumpur,1
+NGA,Java,Lagos,2
+NGA,JavaScript,Lagos,5
+NGA,PHP,Lagos,2
+NGA,Python,Lagos,2
+NGA,Ruby,Lagos,3
+NIC,C,Granada,1
+NIC,HTML,Granada,2
+NIC,Java,Granada,3
+NIC,PHP,Granada,8
+NIC,Python,Granada,1
+NIC,Ruby,Granada,1
+NIC,Shell,Granada,1
+NLD,ActionScript,Amsterdam,1
+NLD,C,The Hague,1
+NLD,C++,Amsterdam,4
+NLD,CSS,Amsterdam,2
+NLD,Go,Amsterdam,30
+NLD,HTML,Amsterdam,1
+NLD,Java,Amsterdam,3
+NLD,Java,The Hague,3
+NLD,JavaScript,Amsterdam,19
+NLD,JavaScript,The Hague,4
+NLD,PHP,Amsterdam,5
+NLD,PHP,The Hague,3
+NLD,Perl,Amsterdam,2
+NLD,Python,Amsterdam,9
+NLD,Python,The Hague,5
+NLD,Ruby,Amsterdam,2
+NLD,Scala,Amsterdam,1
+NLD,Shell,Amsterdam,1
+NLD,Shell,The Hague,1
+NOR,Arduino,Stavanger,1
+NOR,C,Oslo,1
+NOR,C,Stavanger,1
+NOR,C#,Ålesund,1
+NOR,C++,Oslo,1
+NOR,C++,Stavanger,1
+NOR,CSS,Oslo,1
+NOR,CSS,Stavanger,1
+NOR,CoffeeScript,Oslo,1
+NOR,Emacs Lisp,Oslo,6
+NOR,Go,Stavanger,1
+NOR,Groovy,Ålesund,1
+NOR,HTML,Oslo,4
+NOR,HTML,Stavanger,2
+NOR,Java,Oslo,7
+NOR,Java,Stavanger,10
+NOR,Java,Ålesund,1
+NOR,JavaScript,Oslo,5
+NOR,JavaScript,Stavanger,4
+NOR,JavaScript,Ålesund,4
+NOR,Lex,Oslo,1
+NOR,Nimrod,Stavanger,7
+NOR,PHP,Stavanger,1
+NOR,Perl,Stavanger,1
+NOR,Perl,Ålesund,1
+NOR,Python,Oslo,5
+NOR,Python,Stavanger,7
+NOR,Python,Ålesund,2
+NOR,R,Stavanger,4
+NOR,Ruby,Stavanger,1
+NOR,Ruby,Ålesund,1
+NOR,Scala,Stavanger,3
+NOR,Shell,Oslo,6
+NOR,Shell,Stavanger,1
+NOR,Shell,Ålesund,1
+NOR,TeX,Oslo,1
+NOR,TypeScript,Stavanger,1
+NOR,VimL,Stavanger,1
+NOR,VimL,Ålesund,1
+NOR,XProc,Oslo,1
+NZL,C,Auckland,1
+NZL,CSS,Auckland,3
+NZL,CSS,Wellington,2
+NZL,CoffeeScript,Auckland,2
+NZL,HTML,Wellington,2
+NZL,Java,Auckland,3
+NZL,JavaScript,Auckland,9
+NZL,JavaScript,Wellington,15
+NZL,JavaScript,Westport,1
+NZL,Objective-C,Wellington,1
+NZL,Objective-C,Westport,9
+NZL,PHP,Auckland,4
+NZL,PHP,Wellington,17
+NZL,Python,Auckland,3
+NZL,Python,Wellington,3
+NZL,Ruby,Auckland,2
+NZL,Ruby,Westport,4
+NZL,Rust,Wellington,1
+NZL,SQLPL,Westport,1
+NZL,Shell,Wellington,2
+NZL,Swift,Westport,11
+NZL,TeX,Wellington,1
+NZL,TypeScript,Wellington,1
+NZL,VimL,Auckland,1
+NZL,VimL,Wellington,1
+PAK,CSS,Hyderabad,2
+PAK,CoffeeScript,Hyderabad,1
+PAK,Java,Hyderabad,1
+PAK,JavaScript,Hyderabad,7
+PAK,Objective-C,Hyderabad,1
+PAK,PHP,Hyderabad,1
+PAK,Python,Hyderabad,12
+PAK,Ruby,Hyderabad,10
+PAK,Shell,Hyderabad,1
+PAK,Swift,Hyderabad,1
+PAK,TypeScript,Hyderabad,1
+PAN,CSS,Santiago,1
+PAN,CoffeeScript,Santiago,2
+PAN,HTML,Santiago,1
+PAN,JavaScript,Santiago,15
+PAN,PHP,Santiago,2
+PAN,Python,Santiago,4
+PAN,Ruby,Santiago,19
+PAN,Shell,Santiago,2
+PAN,VimL,Santiago,1
+PER,CSS,Santiago,1
+PER,CoffeeScript,Santiago,2
+PER,HTML,Santiago,1
+PER,JavaScript,Santiago,15
+PER,PHP,Santiago,2
+PER,Python,Santiago,4
+PER,Ruby,Santiago,19
+PER,Shell,Santiago,2
+PER,VimL,Santiago,1
+POL,C#,Szczecin,1
+POL,C++,Wroclaw,6
+POL,Go,Warsaw,1
+POL,HTML,Szczecin,1
+POL,Java,Szczecin,6
+POL,Java,Wroclaw,2
+POL,JavaScript,Kraków,1
+POL,JavaScript,Szczecin,4
+POL,JavaScript,Wroclaw,2
+POL,Objective-C,Katowice,3
+POL,Objective-C,Kraków,2
+POL,PHP,Katowice,1
+POL,Python,Warsaw,1
+POL,Python,Wroclaw,1
+POL,Ruby,Wroclaw,2
+POL,Swift,Katowice,1
+PRT,CSS,Lisbon,1
+PRT,CoffeeScript,Lisbon,1
+PRT,HTML,Lisbon,1
+PRT,Java,Lisbon,2
+PRT,JavaScript,Lisbon,15
+PRT,PHP,Lisbon,4
+PRT,Perl,Lisbon,1
+PRT,Python,Lisbon,4
+PRT,Ruby,Lisbon,3
+PRT,Shell,Lisbon,3
+PRT,VimL,Lisbon,1
+PRY,Java,Rosario,2
+PRY,JavaScript,Rosario,6
+PRY,Lua,Rosario,1
+PRY,PHP,Rosario,19
+PRY,Python,Rosario,1
+ROU,JavaScript,Cluj-Napoca,13
+ROU,Objective-C,Bucharest,1
+ROU,PHP,Bucharest,1
+ROU,PHP,Cluj-Napoca,3
+ROU,Python,Alexandria,1
+ROU,Python,Bucharest,1
+ROU,Python,Cluj-Napoca,8
+ROU,Ruby,Alexandria,2
+ROU,Ruby,Cluj-Napoca,2
+ROU,Shell,Cluj-Napoca,1
+ROU,VimL,Cluj-Napoca,1
+RUS,C,Chelyabinsk,3
+RUS,C,Moscow,1
+RUS,C#,St. Petersburg,1
+RUS,C++,Chelyabinsk,1
+RUS,C++,Moscow,3
+RUS,CSS,Chelyabinsk,1
+RUS,CSS,Moscow,4
+RUS,CSS,St. Petersburg,1
+RUS,CoffeeScript,St. Petersburg,1
+RUS,HTML,Chelyabinsk,1
+RUS,HTML,Moscow,1
+RUS,Java,Moscow,6
+RUS,JavaScript,Chelyabinsk,2
+RUS,JavaScript,Moscow,12
+RUS,JavaScript,St. Petersburg,30
+RUS,Objective-C,Chelyabinsk,3
+RUS,Objective-C,Moscow,1
+RUS,PHP,Moscow,39
+RUS,Perl,Moscow,1
+RUS,Python,Chelyabinsk,1
+RUS,Python,Moscow,13
+RUS,Ruby,Moscow,8
+RUS,Shell,Moscow,3
+RUS,Swift,Chelyabinsk,7
+RUS,TypeScript,Moscow,1
+RUS,VimL,Moscow,3
+RWA,Arduino,Kigali,2
+RWA,C,Kigali,2
+RWA,C#,Kigali,3
+RWA,C++,Kigali,1
+RWA,Eagle,Kigali,2
+RWA,JavaScript,Kigali,2
+RWA,Python,Kigali,4
+RWA,Ruby,Kigali,1
+RWA,Shell,Kigali,2
+SAU,Swift,Buraydah,4
+SGP,C,Singapore,1
+SGP,C++,Singapore,3
+SGP,CSS,Singapore,3
+SGP,Go,Singapore,1
+SGP,HTML,Singapore,12
+SGP,Java,Singapore,4
+SGP,JavaScript,Singapore,29
+SGP,Objective-C,Singapore,1
+SGP,PHP,Singapore,1
+SGP,Perl,Singapore,2
+SGP,Python,Singapore,4
+SGP,R,Singapore,4
+SGP,Ruby,Singapore,14
+SGP,Rust,Singapore,1
+SGP,Scala,Singapore,2
+SGP,Shell,Singapore,3
+SGP,Swift,Singapore,3
+SGP,TeX,Singapore,1
+SGP,VimL,Singapore,1
+SRB,ActionScript,Novi Sad,1
+SRB,C#,Novi Sad,3
+SRB,CoffeeScript,Belgrade,2
+SRB,Java,Novi Sad,4
+SRB,JavaScript,Belgrade,8
+SRB,JavaScript,Novi Sad,6
+SRB,Matlab,Belgrade,1
+SRB,PHP,Novi Sad,1
+SRB,Python,Belgrade,2
+SRB,Python,Novi Sad,1
+SRB,Ruby,Belgrade,2
+SRB,Shell,Belgrade,1
+SWE,C#,Stockholm,5
+SWE,Erlang,Stockholm,20
+SWE,HTML,Stockholm,2
+SWE,Java,Halmstad,2
+SWE,Java,Stockholm,13
+SWE,JavaScript,Stockholm,13
+SWE,JavaScript,Växjö,1
+SWE,PHP,Halmstad,1
+SWE,PHP,Stockholm,5
+SWE,PHP,Växjö,1
+SWE,Protocol Buffer,Stockholm,1
+SWE,Python,Stockholm,3
+SWE,Ruby,Växjö,2
+SWE,Shell,Stockholm,10
+SWE,VimL,Stockholm,2
+THA,CSS,Bangkok,1
+THA,Go,Bangkok,1
+THA,HTML,Bangkok,2
+THA,JavaScript,Bangkok,3
+THA,Jupyter Notebook,Bangkok,1
+THA,PHP,Bangkok,1
+THA,Perl,Bangkok,1
+THA,R,Bangkok,1
+THA,Ruby,Bangkok,18
+THA,Shell,Bangkok,1
+TUR,Arduino,Istanbul,1
+TUR,HTML,Istanbul,1
+TUR,Java,Istanbul,2
+TUR,PHP,Istanbul,2
+TUR,Python,Istanbul,4
+TUR,VimL,Istanbul,1
+TWN,C,Taipei,4
+TWN,C++,Taipei,6
+TWN,CSS,Taipei,1
+TWN,Cuda,Taipei,1
+TWN,Go,Taipei,1
+TWN,HTML,Taipei,3
+TWN,JavaScript,Taipei,6
+TWN,Jupyter Notebook,Taipei,1
+TWN,Lua,Taipei,3
+TWN,Matlab,Taipei,1
+TWN,PHP,Taipei,1
+TWN,Python,Taipei,5
+TWN,Ruby,Taipei,1
+TWN,Scala,Taipei,1
+TWN,Shell,Taipei,2
+TWN,VimL,Taipei,1
+UGA,CSS,Kampala,1
+UGA,Go,Kampala,2
+UGA,Java,Kampala,6
+UGA,JavaScript,Kampala,6
+UGA,Objective-C,Kampala,2
+UGA,PHP,Kampala,1
+UGA,Puppet,Kampala,1
+UGA,Python,Kampala,3
+UGA,Ruby,Kampala,3
+UGA,VimL,Kampala,1
+UKR,C,Kiev,3
+UKR,C++,Kiev,2
+UKR,CSS,Kiev,1
+UKR,HTML,Kiev,1
+UKR,HaXe,Kiev,1
+UKR,Java,Kiev,2
+UKR,JavaScript,Kiev,9
+UKR,Python,Kiev,2
+UKR,TeX,Kiev,1
+URY,C#,Florida,5
+URY,Clojure,Montevideo,1
+URY,JavaScript,Florida,2
+USA,ASP,Cleveland,1
+USA,ActionScript,Harrisburg,1
+USA,ActionScript,New York,1
+USA,ActionScript,San Francisco,1
+USA,ApacheConf,London,1
+USA,ApacheConf,San Francisco,1
+USA,AppleScript,Melbourne,1
+USA,AppleScript,Nashville,1
+USA,Arduino,Ann Arbor,2
+USA,Arduino,Austin,1
+USA,Arduino,Boston,1
+USA,Arduino,Carlsbad,1
+USA,Arduino,Chicago,1
+USA,Arduino,Cleveland,1
+USA,Arduino,London,5
+USA,Arduino,Manchester,1
+USA,Arduino,Melbourne,1
+USA,Arduino,Oakland,1
+USA,Arduino,Philadelphia,1
+USA,Arduino,San Francisco,2
+USA,Assembly,San Diego,1
+USA,Assembly,Vancouver,2
+USA,Awk,San Francisco,1
+USA,Brainfuck,San Francisco,1
+USA,C,Anchorage,1
+USA,C,Ann Arbor,7
+USA,C,Austin,2
+USA,C,Bend,1
+USA,C,Carlsbad,2
+USA,C,Chicago,1
+USA,C,Cleveland,1
+USA,C,Dallas,6
+USA,C,Denver,5
+USA,C,Detroit,1
+USA,C,Dublin,4
+USA,C,Durham,1
+USA,C,Evanston,1
+USA,C,Greenville,1
+USA,C,Lawrence,1
+USA,C,Lexington,1
+USA,C,London,8
+USA,C,Manchester,1
+USA,C,Melbourne,6
+USA,C,Minneapolis,3
+USA,C,New York,3
+USA,C,Ontario,2
+USA,C,Philadelphia,3
+USA,C,Portland,6
+USA,C,Provo,1
+USA,C,Sacramento,4
+USA,C,San Antonio,1
+USA,C,San Diego,1
+USA,C,San Francisco,29
+USA,C,San Jose,9
+USA,C,Seattle,5
+USA,C,Tulsa,2
+USA,C,Vancouver,5
+USA,C#,Akron,3
+USA,C#,Atlanta,12
+USA,C#,Austin,6
+USA,C#,Baltimore,3
+USA,C#,Birmingham,1
+USA,C#,Bloomington,1
+USA,C#,Burlington,2
+USA,C#,Cleveland,7
+USA,C#,Detroit,1
+USA,C#,Duluth,1
+USA,C#,Fort Collins,1
+USA,C#,Harrisburg,1
+USA,C#,Indianapolis,2
+USA,C#,London,6
+USA,C#,Melbourne,5
+USA,C#,Minneapolis,1
+USA,C#,New York,6
+USA,C#,San Diego,1
+USA,C#,San Francisco,7
+USA,C#,San Jose,1
+USA,C#,Scottsdale,5
+USA,C#,Seattle,5
+USA,C#,St. Paul,2
+USA,C#,St. Petersburg,1
+USA,C#,Tampa,12
+USA,C#,Vancouver,5
+USA,C#,Waterloo,1
+USA,C++,Ann Arbor,3
+USA,C++,Atlanta,2
+USA,C++,Birmingham,1
+USA,C++,Columbia,1
+USA,C++,Denver,2
+USA,C++,Detroit,2
+USA,C++,Dublin,1
+USA,C++,Durham,1
+USA,C++,Evanston,4
+USA,C++,Fort Collins,1
+USA,C++,Fort Wayne,7
+USA,C++,Grand Rapids,1
+USA,C++,Greenville,1
+USA,C++,Lexington,1
+USA,C++,London,8
+USA,C++,Los Angeles,1
+USA,C++,Manchester,2
+USA,C++,Melbourne,6
+USA,C++,Minneapolis,2
+USA,C++,New York,4
+USA,C++,Ontario,4
+USA,C++,Philadelphia,5
+USA,C++,Pittsburgh,4
+USA,C++,Portland,5
+USA,C++,Sacramento,5
+USA,C++,San Diego,4
+USA,C++,San Francisco,12
+USA,C++,San Jose,2
+USA,C++,Santa Rosa,1
+USA,C++,Seattle,1
+USA,C++,Spokane,1
+USA,C++,Tampa,2
+USA,C++,Vancouver,7
+USA,CSS,Akron,1
+USA,CSS,Ann Arbor,6
+USA,CSS,Athens,3
+USA,CSS,Atlanta,5
+USA,CSS,Austin,8
+USA,CSS,Bend,1
+USA,CSS,Berkeley,2
+USA,CSS,Birmingham,1
+USA,CSS,Boston,13
+USA,CSS,Boulder,2
+USA,CSS,Burlington,1
+USA,CSS,Chicago,12
+USA,CSS,Concord,2
+USA,CSS,Dallas,2
+USA,CSS,Denver,4
+USA,CSS,Detroit,2
+USA,CSS,Dublin,1
+USA,CSS,Durham,2
+USA,CSS,Grand Rapids,1
+USA,CSS,Greenville,1
+USA,CSS,Indianapolis,1
+USA,CSS,Irvine,2
+USA,CSS,Knoxville,2
+USA,CSS,Las Vegas,4
+USA,CSS,London,12
+USA,CSS,Los Angeles,4
+USA,CSS,Louisville,2
+USA,CSS,Manchester,5
+USA,CSS,Melbourne,6
+USA,CSS,Minneapolis,4
+USA,CSS,Nashville,1
+USA,CSS,New Haven,1
+USA,CSS,New York,14
+USA,CSS,Philadelphia,5
+USA,CSS,Pittsburgh,3
+USA,CSS,Portland,6
+USA,CSS,Providence,7
+USA,CSS,Salt Lake City,2
+USA,CSS,San Diego,1
+USA,CSS,San Francisco,16
+USA,CSS,Seattle,2
+USA,CSS,St. Paul,1
+USA,CSS,St. Petersburg,1
+USA,CSS,Tampa,2
+USA,CSS,Tulsa,1
+USA,CSS,Virginia,1
+USA,CSS,Wales,2
+USA,Clojure,Buffalo,3
+USA,Clojure,Durham,17
+USA,Clojure,Los Angeles,1
+USA,Clojure,Minneapolis,12
+USA,Clojure,Philadelphia,3
+USA,Clojure,San Francisco,1
+USA,Clojure,Sioux Falls,1
+USA,Clojure,Vancouver,2
+USA,CoffeeScript,Austin,1
+USA,CoffeeScript,Bend,1
+USA,CoffeeScript,Boise,1
+USA,CoffeeScript,Boston,1
+USA,CoffeeScript,Burlington,1
+USA,CoffeeScript,Carlsbad,4
+USA,CoffeeScript,Chicago,6
+USA,CoffeeScript,Concord,1
+USA,CoffeeScript,Dallas,1
+USA,CoffeeScript,London,2
+USA,CoffeeScript,Los Angeles,1
+USA,CoffeeScript,Melbourne,1
+USA,CoffeeScript,Minneapolis,1
+USA,CoffeeScript,New York,1
+USA,CoffeeScript,Oakland,1
+USA,CoffeeScript,Ontario,1
+USA,CoffeeScript,Philadelphia,1
+USA,CoffeeScript,Portland,5
+USA,CoffeeScript,San Diego,2
+USA,CoffeeScript,San Francisco,2
+USA,CoffeeScript,Seattle,1
+USA,CoffeeScript,St. Petersburg,1
+USA,CoffeeScript,Tulsa,1
+USA,ColdFusion,Davenport,1
+USA,Common Lisp,Durham,2
+USA,Common Lisp,Sacramento,1
+USA,Elixir,Chicago,4
+USA,Elixir,London,1
+USA,Elixir,Los Angeles,1
+USA,Elixir,Portland,1
+USA,Elixir,Salt Lake City,3
+USA,Elm,San Francisco,2
+USA,Emacs Lisp,Chicago,2
+USA,Emacs Lisp,Durham,2
+USA,Emacs Lisp,London,2
+USA,Emacs Lisp,Melbourne,1
+USA,Emacs Lisp,Minneapolis,1
+USA,Emacs Lisp,New Haven,1
+USA,Emacs Lisp,Portland,6
+USA,Emacs Lisp,San Francisco,4
+USA,Emacs Lisp,Sioux Falls,1
+USA,F#,Akron,1
+USA,F#,Atlanta,1
+USA,F#,Melbourne,2
+USA,F#,New York,1
+USA,F#,San Francisco,1
+USA,Gnuplot,Missoula,2
+USA,Go,Ann Arbor,3
+USA,Go,Athens,1
+USA,Go,Austin,1
+USA,Go,Boulder,1
+USA,Go,Burlington,3
+USA,Go,Chicago,5
+USA,Go,Columbia,5
+USA,Go,Denver,1
+USA,Go,Dublin,1
+USA,Go,Fort Collins,3
+USA,Go,Irvine,1
+USA,Go,Lawrence,1
+USA,Go,London,9
+USA,Go,Los Angeles,4
+USA,Go,Manchester,3
+USA,Go,Minneapolis,1
+USA,Go,Nashville,2
+USA,Go,New York,18
+USA,Go,Philadelphia,1
+USA,Go,Portland,2
+USA,Go,Provo,2
+USA,Go,San Diego,1
+USA,Go,San Francisco,4
+USA,Go,San Jose,2
+USA,Go,Seattle,10
+USA,Go,Tampa,1
+USA,Go,Vancouver,1
+USA,Go,Virginia,2
+USA,Groovy,Atlanta,1
+USA,Groovy,Detroit,1
+USA,Groovy,Lawrence,1
+USA,Groovy,London,4
+USA,Groovy,Melbourne,1
+USA,Groovy,Minneapolis,2
+USA,Groovy,Portland,1
+USA,Groovy,San Francisco,2
+USA,HCL,Austin,1
+USA,HCL,Manchester,1
+USA,HTML,Anchorage,1
+USA,HTML,Ann Arbor,3
+USA,HTML,Athens,4
+USA,HTML,Atlanta,1
+USA,HTML,Austin,7
+USA,HTML,Boston,9
+USA,HTML,Boulder,1
+USA,HTML,Buffalo,3
+USA,HTML,Charlotte,1
+USA,HTML,Chicago,7
+USA,HTML,Cleveland,3
+USA,HTML,Columbia,2
+USA,HTML,Detroit,2
+USA,HTML,Grand Rapids,1
+USA,HTML,London,15
+USA,HTML,Los Angeles,1
+USA,HTML,Manchester,4
+USA,HTML,Melbourne,1
+USA,HTML,Minneapolis,2
+USA,HTML,Missoula,1
+USA,HTML,New York,7
+USA,HTML,Oakland,1
+USA,HTML,Philadelphia,3
+USA,HTML,Pittsburgh,1
+USA,HTML,Portland,5
+USA,HTML,Sacramento,1
+USA,HTML,San Francisco,9
+USA,HTML,San Jose,1
+USA,HTML,Santa Cruz,1
+USA,HTML,Seattle,3
+USA,HTML,Tampa,1
+USA,HTML,Vancouver,2
+USA,HTML,Wales,1
+USA,HaXe,Portland,1
+USA,Haskell,Ann Arbor,2
+USA,Haskell,London,2
+USA,Haskell,Los Angeles,1
+USA,Haskell,Melbourne,2
+USA,Haskell,New York,1
+USA,Haskell,San Francisco,1
+USA,Haskell,San Jose,1
+USA,Haxe,Austin,3
+USA,Haxe,Manchester,4
+USA,Haxe,Philadelphia,1
+USA,Jasmin,Durham,1
+USA,Java,Anchorage,2
+USA,Java,Ann Arbor,1
+USA,Java,Annapolis,4
+USA,Java,Atlanta,1
+USA,Java,Austin,8
+USA,Java,Berkeley,1
+USA,Java,Boston,1
+USA,Java,Buffalo,11
+USA,Java,Burlington,1
+USA,Java,Carlsbad,13
+USA,Java,Chicago,7
+USA,Java,Cleveland,1
+USA,Java,Columbus,1
+USA,Java,Concord,1
+USA,Java,Dallas,2
+USA,Java,Durham,2
+USA,Java,Eugene,1
+USA,Java,Fort Collins,2
+USA,Java,Grand Rapids,1
+USA,Java,Houston,1
+USA,Java,Huntsville,4
+USA,Java,Irvine,2
+USA,Java,Lexington,5
+USA,Java,London,30
+USA,Java,Los Angeles,6
+USA,Java,Manchester,1
+USA,Java,Melbourne,4
+USA,Java,Memphis,1
+USA,Java,Milwaukee,1
+USA,Java,Minneapolis,6
+USA,Java,Missoula,1
+USA,Java,New York,9
+USA,Java,Oakland,1
+USA,Java,Omaha,13
+USA,Java,Ontario,4
+USA,Java,Philadelphia,12
+USA,Java,Pittsburgh,1
+USA,Java,Portland,6
+USA,Java,Provo,5
+USA,Java,Raleigh,1
+USA,Java,Sacramento,4
+USA,Java,Salt Lake City,4
+USA,Java,San Diego,3
+USA,Java,San Francisco,43
+USA,Java,San Jose,5
+USA,Java,Santa Rosa,1
+USA,Java,Seattle,1
+USA,Java,Spokane,3
+USA,Java,Tampa,1
+USA,Java,Tulsa,1
+USA,Java,Vancouver,1
+USA,Java,Virginia,2
+USA,Java,Waterloo,1
+USA,JavaScript,Ann Arbor,19
+USA,JavaScript,Annapolis,2
+USA,JavaScript,Athens,8
+USA,JavaScript,Atlanta,13
+USA,JavaScript,Austin,49
+USA,JavaScript,Baltimore,1
+USA,JavaScript,Berkeley,2
+USA,JavaScript,Birmingham,2
+USA,JavaScript,Bloomington,2
+USA,JavaScript,Boise,6
+USA,JavaScript,Boston,29
+USA,JavaScript,Boulder,2
+USA,JavaScript,Bristol,2
+USA,JavaScript,Buffalo,4
+USA,JavaScript,Burlington,3
+USA,JavaScript,Carlsbad,5
+USA,JavaScript,Charlotte,3
+USA,JavaScript,Chicago,81
+USA,JavaScript,Cleveland,4
+USA,JavaScript,Concord,9
+USA,JavaScript,Denver,3
+USA,JavaScript,Detroit,10
+USA,JavaScript,Duluth,1
+USA,JavaScript,Durham,18
+USA,JavaScript,Eugene,14
+USA,JavaScript,Evanston,1
+USA,JavaScript,Fort Collins,2
+USA,JavaScript,Grand Rapids,5
+USA,JavaScript,Greenville,1
+USA,JavaScript,Harrisburg,1
+USA,JavaScript,Houston,6
+USA,JavaScript,Indianapolis,6
+USA,JavaScript,Irvine,9
+USA,JavaScript,Las Vegas,4
+USA,JavaScript,Lexington,3
+USA,JavaScript,London,92
+USA,JavaScript,Los Angeles,7
+USA,JavaScript,Louisville,6
+USA,JavaScript,Madison,3
+USA,JavaScript,Manchester,8
+USA,JavaScript,Melbourne,24
+USA,JavaScript,Milwaukee,3
+USA,JavaScript,Minneapolis,38
+USA,JavaScript,Nashville,5
+USA,JavaScript,New Haven,7
+USA,JavaScript,New Orleans,3
+USA,JavaScript,New York,61
+USA,JavaScript,Omaha,1
+USA,JavaScript,Philadelphia,20
+USA,JavaScript,Phoenix,3
+USA,JavaScript,Pittsburgh,2
+USA,JavaScript,Portland,34
+USA,JavaScript,Providence,8
+USA,JavaScript,Provo,1
+USA,JavaScript,Sacramento,3
+USA,JavaScript,Salt Lake City,4
+USA,JavaScript,San Antonio,1
+USA,JavaScript,San Diego,38
+USA,JavaScript,San Francisco,164
+USA,JavaScript,San Jose,5
+USA,JavaScript,San Marcos,2
+USA,JavaScript,Santa Rosa,17
+USA,JavaScript,Scottsdale,3
+USA,JavaScript,Seattle,18
+USA,JavaScript,Spokane,5
+USA,JavaScript,St. Petersburg,30
+USA,JavaScript,Tampa,2
+USA,JavaScript,Tulsa,4
+USA,JavaScript,Vancouver,25
+USA,JavaScript,Virginia,3
+USA,JavaScript,Wales,1
+USA,JavaScript,Waterloo,12
+USA,Jupyter Notebook,Boulder,1
+USA,Jupyter Notebook,Los Angeles,1
+USA,Jupyter Notebook,Missoula,6
+USA,Jupyter Notebook,San Francisco,1
+USA,Jupyter Notebook,Seattle,2
+USA,Jupyter Notebook,Vancouver,2
+USA,KiCad,Austin,1
+USA,Kotlin,Burlington,1
+USA,Kotlin,Carlsbad,1
+USA,Kotlin,Chicago,1
+USA,Kotlin,Omaha,1
+USA,Kotlin,Seattle,1
+USA,Lua,Ann Arbor,2
+USA,Lua,Chicago,1
+USA,Lua,Pittsburgh,1
+USA,Lua,Tulsa,1
+USA,Makefile,Atlanta,1
+USA,Makefile,Berkeley,1
+USA,Makefile,San Francisco,2
+USA,Makefile,San Jose,1
+USA,Makefile,Vancouver,2
+USA,Matlab,Evanston,1
+USA,Matlab,Los Angeles,1
+USA,Matlab,Melbourne,1
+USA,Matlab,Pittsburgh,1
+USA,Matlab,Sacramento,1
+USA,Nginx,San Francisco,1
+USA,Nginx,Seattle,1
+USA,Nimrod,New York,1
+USA,Nix,Ann Arbor,1
+USA,OCaml,Los Angeles,1
+USA,OCaml,New York,1
+USA,OCaml,Portland,3
+USA,OCaml,Sacramento,1
+USA,Objective-C,Ann Arbor,1
+USA,Objective-C,Austin,4
+USA,Objective-C,Birmingham,1
+USA,Objective-C,Burlington,8
+USA,Objective-C,Chicago,1
+USA,Objective-C,Denver,8
+USA,Objective-C,Dublin,1
+USA,Objective-C,Fort Wayne,2
+USA,Objective-C,Houston,3
+USA,Objective-C,Las Vegas,1
+USA,Objective-C,London,3
+USA,Objective-C,Los Angeles,1
+USA,Objective-C,Manchester,1
+USA,Objective-C,Melbourne,22
+USA,Objective-C,Minneapolis,2
+USA,Objective-C,New York,9
+USA,Objective-C,Omaha,2
+USA,Objective-C,Philadelphia,1
+USA,Objective-C,Pittsburgh,2
+USA,Objective-C,Portland,29
+USA,Objective-C,Salt Lake City,2
+USA,Objective-C,San Diego,5
+USA,Objective-C,San Francisco,14
+USA,Objective-C,Scottsdale,1
+USA,Objective-C,Seattle,3
+USA,Objective-C,Tulsa,8
+USA,Objective-C,Vancouver,3
+USA,Objective-C,Virginia,3
+USA,OpenEdge ABL,Missoula,1
+USA,OpenEdge ABL,New York,1
+USA,PHP,Ann Arbor,2
+USA,PHP,Annapolis,2
+USA,PHP,Athens,1
+USA,PHP,Atlanta,2
+USA,PHP,Austin,14
+USA,PHP,Birmingham,7
+USA,PHP,Boston,25
+USA,PHP,Buffalo,2
+USA,PHP,Chicago,3
+USA,PHP,Columbia,8
+USA,PHP,Concord,1
+USA,PHP,Davenport,1
+USA,PHP,Detroit,15
+USA,PHP,Durham,2
+USA,PHP,Eugene,2
+USA,PHP,Grand Rapids,16
+USA,PHP,Houston,1
+USA,PHP,Irvine,9
+USA,PHP,Lincoln,1
+USA,PHP,London,14
+USA,PHP,Los Angeles,1
+USA,PHP,Madison,1
+USA,PHP,Melbourne,11
+USA,PHP,Minneapolis,8
+USA,PHP,Nashville,3
+USA,PHP,New Orleans,5
+USA,PHP,New York,13
+USA,PHP,Omaha,1
+USA,PHP,Philadelphia,2
+USA,PHP,Portland,5
+USA,PHP,Sacramento,16
+USA,PHP,San Antonio,1
+USA,PHP,San Diego,6
+USA,PHP,San Francisco,23
+USA,PHP,Scottsdale,2
+USA,PHP,Seattle,13
+USA,PHP,Spokane,15
+USA,PHP,Tulsa,1
+USA,PHP,Wales,12
+USA,PLpgSQL,Chicago,1
+USA,PLpgSQL,Philadelphia,1
+USA,Perl,Ann Arbor,1
+USA,Perl,Atlanta,4
+USA,Perl,Berkeley,6
+USA,Perl,Buffalo,2
+USA,Perl,Chicago,4
+USA,Perl,Columbia,1
+USA,Perl,Denver,1
+USA,Perl,Dublin,3
+USA,Perl,Durham,1
+USA,Perl,Fort Collins,1
+USA,Perl,London,9
+USA,Perl,Los Angeles,27
+USA,Perl,Manchester,1
+USA,Perl,Nashville,2
+USA,Perl,New York,1
+USA,Perl,Portland,2
+USA,Perl,San Diego,1
+USA,Perl,San Francisco,15
+USA,Perl,Virginia,1
+USA,Perl6,Columbia,1
+USA,Perl6,London,20
+USA,PostScript,London,2
+USA,PowerShell,Akron,5
+USA,PowerShell,Austin,3
+USA,PowerShell,Minneapolis,1
+USA,PowerShell,Seattle,1
+USA,Processing,Manchester,2
+USA,Processing,Minneapolis,1
+USA,Prolog,Berkeley,5
+USA,Prolog,Chicago,1
+USA,Prolog,London,1
+USA,Prolog,Philadelphia,2
+USA,Prolog,Sacramento,1
+USA,Puppet,Austin,1
+USA,Puppet,Detroit,1
+USA,Puppet,Manchester,5
+USA,Puppet,Philadelphia,1
+USA,Puppet,Sacramento,3
+USA,Python,Akron,3
+USA,Python,Alexandria,1
+USA,Python,Anchorage,12
+USA,Python,Ann Arbor,10
+USA,Python,Athens,22
+USA,Python,Austin,13
+USA,Python,Berkeley,4
+USA,Python,Boise,1
+USA,Python,Boston,34
+USA,Python,Buffalo,1
+USA,Python,Chicago,17
+USA,Python,Dallas,1
+USA,Python,Detroit,1
+USA,Python,Dublin,5
+USA,Python,Evanston,14
+USA,Python,Fort Collins,1
+USA,Python,Fort Wayne,3
+USA,Python,Greenville,1
+USA,Python,Houston,6
+USA,Python,Irvine,2
+USA,Python,Lawrence,13
+USA,Python,Lexington,1
+USA,Python,London,51
+USA,Python,Los Angeles,2
+USA,Python,Manchester,4
+USA,Python,Melbourne,5
+USA,Python,Minneapolis,5
+USA,Python,Missoula,10
+USA,Python,Nashville,6
+USA,Python,New Haven,1
+USA,Python,New York,28
+USA,Python,Oakland,1
+USA,Python,Ontario,7
+USA,Python,Philadelphia,4
+USA,Python,Pittsburgh,9
+USA,Python,Portland,14
+USA,Python,Providence,2
+USA,Python,Provo,1
+USA,Python,Sacramento,2
+USA,Python,Salt Lake City,1
+USA,Python,San Antonio,13
+USA,Python,San Diego,14
+USA,Python,San Francisco,83
+USA,Python,San Jose,3
+USA,Python,Santa Rosa,8
+USA,Python,Seattle,27
+USA,Python,Spokane,3
+USA,Python,St. Paul,2
+USA,Python,Vancouver,5
+USA,R,Ann Arbor,1
+USA,R,Boulder,1
+USA,R,Los Angeles,1
+USA,R,Nashville,1
+USA,R,Sacramento,2
+USA,R,San Francisco,3
+USA,REALbasic,Pittsburgh,1
+USA,Racket,San Francisco,1
+USA,Ruby,Alexandria,2
+USA,Ruby,Anchorage,6
+USA,Ruby,Ann Arbor,3
+USA,Ruby,Annapolis,6
+USA,Ruby,Athens,1
+USA,Ruby,Atlanta,13
+USA,Ruby,Austin,8
+USA,Ruby,Baltimore,4
+USA,Ruby,Bend,16
+USA,Ruby,Boston,35
+USA,Ruby,Boulder,14
+USA,Ruby,Bristol,5
+USA,Ruby,Burlington,4
+USA,Ruby,Charlotte,14
+USA,Ruby,Chicago,57
+USA,Ruby,Columbia,1
+USA,Ruby,Denver,4
+USA,Ruby,Detroit,4
+USA,Ruby,Duluth,1
+USA,Ruby,Durham,5
+USA,Ruby,Evanston,3
+USA,Ruby,Fort Smith,3
+USA,Ruby,Fort Wayne,2
+USA,Ruby,Indianapolis,1
+USA,Ruby,Lexington,1
+USA,Ruby,London,19
+USA,Ruby,Los Angeles,6
+USA,Ruby,Lowell,2
+USA,Ruby,Madison,13
+USA,Ruby,Manchester,4
+USA,Ruby,Melbourne,18
+USA,Ruby,Minneapolis,41
+USA,Ruby,New Haven,15
+USA,Ruby,New York,28
+USA,Ruby,Oakland,9
+USA,Ruby,Omaha,2
+USA,Ruby,Ontario,2
+USA,Ruby,Philadelphia,23
+USA,Ruby,Pittsburgh,3
+USA,Ruby,Portland,19
+USA,Ruby,Provo,21
+USA,Ruby,Sacramento,4
+USA,Ruby,Salt Lake City,10
+USA,Ruby,San Antonio,2
+USA,Ruby,San Diego,12
+USA,Ruby,San Francisco,102
+USA,Ruby,San Jose,1
+USA,Ruby,Santa Rosa,2
+USA,Ruby,Seattle,17
+USA,Ruby,Tampa,4
+USA,Ruby,Tulsa,8
+USA,Ruby,Virginia,3
+USA,Ruby,Wales,2
+USA,Rust,Ann Arbor,3
+USA,Rust,Fort Collins,1
+USA,Rust,London,2
+USA,Rust,New York,1
+USA,Rust,San Francisco,3
+USA,Rust,Vancouver,3
+USA,Scala,Detroit,1
+USA,Scala,London,15
+USA,Scala,New York,2
+USA,Scala,Portland,3
+USA,Scala,San Francisco,5
+USA,Scala,Seattle,1
+USA,Scheme,Anchorage,1
+USA,Shell,Anchorage,2
+USA,Shell,Ann Arbor,1
+USA,Shell,Athens,3
+USA,Shell,Austin,1
+USA,Shell,Berkeley,1
+USA,Shell,Boston,5
+USA,Shell,Boulder,1
+USA,Shell,Carlsbad,1
+USA,Shell,Charlotte,3
+USA,Shell,Chicago,12
+USA,Shell,Columbia,2
+USA,Shell,Dallas,1
+USA,Shell,Denver,2
+USA,Shell,Dublin,1
+USA,Shell,Durham,3
+USA,Shell,Fort Collins,1
+USA,Shell,Huntsville,1
+USA,Shell,Irvine,1
+USA,Shell,Lawrence,2
+USA,Shell,London,15
+USA,Shell,Los Angeles,1
+USA,Shell,Louisville,1
+USA,Shell,Manchester,1
+USA,Shell,Melbourne,3
+USA,Shell,Minneapolis,6
+USA,Shell,Missoula,2
+USA,Shell,Nashville,2
+USA,Shell,New Haven,3
+USA,Shell,New York,6
+USA,Shell,Omaha,1
+USA,Shell,Philadelphia,2
+USA,Shell,Pittsburgh,4
+USA,Shell,Portland,10
+USA,Shell,Provo,1
+USA,Shell,Sacramento,3
+USA,Shell,Salt Lake City,1
+USA,Shell,San Antonio,5
+USA,Shell,San Diego,1
+USA,Shell,San Francisco,11
+USA,Shell,San Jose,1
+USA,Shell,Santa Rosa,1
+USA,Shell,Seattle,7
+USA,Shell,Tampa,1
+USA,Shell,Tulsa,1
+USA,Shell,Vancouver,3
+USA,Swift,Melbourne,9
+USA,Swift,New York,5
+USA,Swift,San Francisco,20
+USA,Swift,Vancouver,3
+USA,TeX,Evanston,1
+USA,TeX,Greenville,1
+USA,TeX,Minneapolis,1
+USA,TeX,Portland,1
+USA,TeX,San Francisco,2
+USA,TeX,San Jose,1
+USA,TeX,Seattle,3
+USA,TypeScript,Boise,1
+USA,TypeScript,Chicago,1
+USA,TypeScript,London,1
+USA,TypeScript,Melbourne,2
+USA,TypeScript,Milwaukee,1
+USA,TypeScript,New York,1
+USA,TypeScript,San Francisco,2
+USA,TypeScript,Tulsa,1
+USA,VHDL,San Jose,3
+USA,Verilog,San Jose,10
+USA,VimL,Akron,2
+USA,VimL,Atlanta,1
+USA,VimL,Austin,1
+USA,VimL,Baltimore,1
+USA,VimL,Birmingham,1
+USA,VimL,Boston,1
+USA,VimL,Chicago,9
+USA,VimL,Huntsville,1
+USA,VimL,Irvine,2
+USA,VimL,Las Vegas,1
+USA,VimL,Lawrence,1
+USA,VimL,London,1
+USA,VimL,Los Angeles,2
+USA,VimL,Melbourne,1
+USA,VimL,Minneapolis,1
+USA,VimL,New Haven,1
+USA,VimL,New York,1
+USA,VimL,Philadelphia,3
+USA,VimL,Portland,1
+USA,VimL,Provo,2
+USA,VimL,Sacramento,1
+USA,VimL,Salt Lake City,1
+USA,VimL,San Francisco,12
+USA,VimL,San Jose,1
+USA,Web Ontology Language,Berkeley,5
+USA,XQuery,New York,7
+USA,XSLT,New York,1
+UZB,JavaScript,Tashkent,3
+VEN,C,Caracas,1
+VEN,C#,Barcelona,4
+VEN,C++,Barcelona,10
+VEN,C++,Caracas,2
+VEN,CSS,Barcelona,1
+VEN,Cuda,Barcelona,1
+VEN,D,Barcelona,1
+VEN,Emacs Lisp,Barcelona,1
+VEN,HTML,Barcelona,1
+VEN,Java,Caracas,3
+VEN,JavaScript,Barcelona,14
+VEN,PHP,Barcelona,8
+VEN,Python,Barcelona,1
+VEN,Python,Caracas,2
+VEN,Ruby,Barcelona,1
+VEN,Ruby,Caracas,4
+VEN,Scala,Barcelona,3
+VEN,Shell,Barcelona,3
+VEN,VimL,Caracas,1
+VNM,JavaScript,Ho Chi Minh City,6
+VNM,Ruby,Ho Chi Minh City,21
+ZAF,C,Cape Town,3
+ZAF,C#,Cape Town,3
+ZAF,CSS,Cape Town,5
+ZAF,CoffeeScript,Cape Town,1
+ZAF,Emacs Lisp,Cape Town,3
+ZAF,HTML,Cape Town,2
+ZAF,JavaScript,Cape Town,18
+ZAF,PHP,Cape Town,1
+ZAF,Python,Cape Town,2
+ZAF,Ruby,Cape Town,4
+ZAF,Rust,Cape Town,1
+ZAF,Scheme,Cape Town,1
+ZAF,Shell,Cape Town,3

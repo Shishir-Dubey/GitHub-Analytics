@@ -1,0 +1,31 @@
+input {
+    stdin {}
+}
+filter {
+  # Step 1, drop the csv header line
+  if [message] =~ /^#/ {
+    drop {}
+  }
+ 
+  # Step 2, split latitude and longitude
+  csv {
+    separator => ','
+    columns => [ 'city','latitude', 'longitude','language','language_count' ]
+  }
+ 
+  # Step 3
+  # move lat and lon into location object 
+  # for defined geo_point type in ES
+  mutate {  
+    rename => [ "latitude", "[location][latitude]", "longitude", "[location][longitude]" ]
+  }
+}
+output {
+  elasticsearch {
+    host => 'localhost'
+    index => 'geostore'
+    document_type  => "locality"
+    flush_size => 1000
+    protocol => 'http'
+  }
+}

@@ -1,0 +1,2220 @@
+language,city,iso2,iso3,Repositories_Count
+C,Accra,GH,GHA,2218
+Ruby,Duluth,US,USA,2217
+C,Durham,US,USA,2216
+C++,Durham,US,USA,2215
+Arduino,Philadelphia,US,USA,2214
+Common Lisp,Medellin,CO,COL,2213
+Jasmin,Durham,US,USA,2212
+C,Medellin,CO,COL,2211
+Perl,Durham,US,USA,2210
+JavaScript,Duluth,US,USA,2209
+C,Edinburgh,GB,GBR,2208
+Perl6,Edinburgh,GB,GBR,2207
+PureScript,Edinburgh,GB,GBR,2206
+HTML,Santa Cruz,US,USA,2205
+HTML,Santa Cruz,EC,ECU,2204
+HTML,Santa Cruz,BR,BRA,2203
+HTML,Santa Cruz,BO,BOL,2202
+Shell,San Rafael,BO,BOL,2201
+Shell,San Rafael,AR,ARG,2200
+C++,Edinburgh,GB,GBR,2199
+C#,Duluth,US,USA,2198
+C#,Perth,GB,GBR,2197
+C#,Perth,AU,AUS,2196
+Puppet,Detroit,US,USA,2195
+Python,Detroit,US,USA,2194
+Scala,Detroit,US,USA,2193
+PHP,Dhaka,BD,BGD,2192
+Shell,Medellin,CO,COL,2191
+CSS,Dublin,IE,IRL,2190
+CSS,Dublin,US,USA,2189
+HTML,Santiago,PE,PER,2188
+HTML,Santiago,PA,PAN,2187
+HTML,Santiago,DO,DOM,2186
+HTML,Santiago,CL,CHL,2185
+HTML,Medellin,CO,COL,2184
+Emacs Lisp,Medellin,CO,COL,2183
+TypeScript,Paris,FR,FRA,2182
+XSLT,Paris,FR,FRA,2181
+CSS,Santiago,PE,PER,2180
+CSS,Santiago,PA,PAN,2179
+CSS,Santiago,DO,DOM,2178
+CSS,Santiago,CL,CHL,2177
+CoffeeScript,Philadelphia,US,USA,2176
+AppleScript,Melbourne,AU,AUS,2175
+TypeScript,Edinburgh,GB,GBR,2174
+Python,San Rafael,AR,ARG,2173
+Objective-C,Philadelphia,US,USA,2172
+PLpgSQL,Philadelphia,US,USA,2171
+Emacs Lisp,Fukuoka,JP,JPN,2170
+PHP,Fukuoka,JP,JPN,2169
+Python,Fukuoka,JP,JPN,2168
+C,Galway,IE,IRL,2167
+Objective-C,Manchester,US,USA,2166
+Puppet,Philadelphia,US,USA,2165
+Java,Fortaleza,BR,BRA,2164
+Objective-C,Manchester,GB,GBR,2163
+Java,Manchester,GB,GBR,2162
+Haskell,San Jose,US,USA,2161
+Haskell,San Jose,GT,GTM,2160
+Haskell,San Jose,CR,CRI,2159
+C,Manchester,US,USA,2158
+Python,Pisa,IT,ITA,2157
+C++,Grand Rapids,US,USA,2156
+CSS,Grand Rapids,US,USA,2155
+Java,Manchester,US,USA,2154
+Shell,Fort Collins,US,USA,2153
+TeX,San Jose,CR,CRI,2152
+TeX,San Jose,GT,GTM,2151
+Java,San Rafael,BO,BOL,2150
+Java,San Rafael,AR,ARG,2149
+Objective-C,Edmonton,CA,CAN,2148
+Shell,Edmonton,CA,CAN,2147
+Emacs Lisp,San Rafael,BO,BOL,2146
+Emacs Lisp,San Rafael,AR,ARG,2145
+Java,Eugene,US,USA,2144
+Go,Philadelphia,US,USA,2143
+C,Evanston,US,USA,2142
+JavaScript,Evanston,US,USA,2141
+Matlab,Evanston,US,USA,2140
+TeX,Evanston,US,USA,2139
+C#,Fort Collins,US,USA,2138
+C++,Fort Collins,US,USA,2137
+Haxe,Philadelphia,US,USA,2136
+Perl,Fort Collins,US,USA,2135
+Python,Fort Collins,US,USA,2134
+Rust,Fort Collins,US,USA,2133
+TeX,San Jose,US,USA,2132
+Python,San Rafael,BO,BOL,2131
+Groovy,Detroit,US,USA,2130
+Objective-C,Paris,FR,FRA,2129
+Matlab,Paris,FR,FRA,2128
+Go,Singapore,SG,SGP,2127
+Kotlin,Carlsbad,US,USA,2126
+C,Singapore,SG,SGP,2125
+Shell,Carlsbad,US,USA,2124
+Rust,Shanghai,CN,CHN,2123
+Groovy,Melbourne,US,USA,2122
+Lua,Ottawa,CA,CAN,2121
+C++,Chelyabinsk,RU,RUS,2120
+Arduino,Carlsbad,US,USA,2119
+CSS,Chelyabinsk,RU,RUS,2118
+Groovy,Melbourne,AU,AUS,2117
+Python,Chelyabinsk,RU,RUS,2116
+C,Chennai,IN,IND,2115
+C,Shanghai,CN,CHN,2114
+Ruby,Seville,ES,ESP,2113
+PHP,Ottawa,CA,CAN,2112
+Objective-C,Chennai,IN,IND,2111
+R,Chennai,IN,IND,2110
+HTML,Chelyabinsk,RU,RUS,2109
+TeX,Oslo,NO,NOR,2108
+Objective-C,Singapore,SG,SGP,2107
+PHP,Singapore,SG,SGP,2106
+HTML,Sofia,BG,BGR,2105
+Go,Sofia,BG,BGR,2104
+C,Campina Grande,BR,BRA,2103
+CSS,Campina Grande,BR,BRA,2102
+CSS,Sofia,BG,BGR,2101
+PHP,Campina Grande,BR,BRA,2100
+VimL,Campina Grande,BR,BRA,2099
+PHP,Canberra,AU,AUS,2098
+Emacs Lisp,Sioux Falls,US,USA,2097
+Clojure,Sioux Falls,US,USA,2096
+VimL,Singapore,SG,SGP,2095
+TeX,Singapore,SG,SGP,2094
+Ruby,Canberra,AU,AUS,2093
+CoffeeScript,Cape Town,ZA,ZAF,2092
+Shell,Porto Alegre,BR,BRA,2091
+Rust,Singapore,SG,SGP,2090
+PHP,Cape Town,ZA,ZAF,2089
+Rust,Cape Town,ZA,ZAF,2088
+Scheme,Cape Town,ZA,ZAF,2087
+Swift,Seoul,KR,KOR,2086
+VimL,Chennai,IN,IND,2085
+Rust,Seoul,KR,KOR,2084
+Arduino,Chicago,US,USA,2083
+Emacs Lisp,Melbourne,AU,AUS,2082
+CoffeeScript,Melbourne,US,USA,2081
+VimL,Curitiba,BR,BRA,2080
+CoffeeScript,Melbourne,AU,AUS,2079
+CoffeeScript,Dallas,US,USA,2078
+Arduino,Melbourne,US,USA,2077
+Python,Dallas,US,USA,2076
+VimL,Santiago,PE,PER,2075
+VimL,Santiago,PA,PAN,2074
+VimL,Santiago,DO,DOM,2073
+VimL,Santiago,CL,CHL,2072
+Shell,Dallas,US,USA,2071
+Arduino,Melbourne,AU,AUS,2070
+AppleScript,Melbourne,US,USA,2069
+Go,Denver,US,USA,2068
+Perl,Denver,US,USA,2067
+Lasso,Paris,FR,FRA,2066
+C,Detroit,US,USA,2065
+C#,Detroit,US,USA,2064
+Emacs Lisp,Melbourne,US,USA,2063
+HTML,Grand Rapids,US,USA,2062
+VimL,Cluj-Napoca,RO,ROU,2061
+Shell,Cluj-Napoca,RO,ROU,2060
+Objective-C,Seoul,KR,KOR,2059
+C,Chicago,US,USA,2058
+Kotlin,Chicago,US,USA,2057
+HTML,Seoul,KR,KOR,2056
+Lua,Chicago,US,USA,2055
+Python,Ottawa,CA,CAN,2054
+Scala,Seattle,US,USA,2053
+PLpgSQL,Chicago,US,USA,2052
+Prolog,Chicago,US,USA,2051
+PowerShell,Seattle,US,USA,2050
+TypeScript,Chicago,US,USA,2049
+ASP,Cleveland,US,USA,2048
+Nginx,Seattle,US,USA,2047
+Kotlin,Seattle,US,USA,2046
+Arduino,Cleveland,US,USA,2045
+C,Cleveland,US,USA,2044
+Java,Seattle,US,USA,2043
+Java,Cleveland,US,USA,2042
+CoffeeScript,Seattle,US,USA,2041
+C++,Seattle,US,USA,2040
+Matlab,Melbourne,AU,AUS,2039
+Java,Grand Rapids,US,USA,2038
+C++,Greenville,LR,LBR,2037
+Elixir,Los Angeles,CL,CHL,2036
+CoffeeScript,Los Angeles,US,USA,2035
+Python,Lausanne,CH,CHE,2034
+Shell,Lausanne,CH,CHE,2033
+Python,Rosario,PY,PRY,2032
+Python,Rosario,BR,BRA,2031
+Python,Rosario,AR,ARG,2030
+VimL,Lausanne,CH,CHE,2029
+Elixir,Los Angeles,US,USA,2028
+C,Lawrence,US,USA,2027
+Lua,Rosario,PY,PRY,2026
+Lua,Rosario,BR,BRA,2025
+Lua,Rosario,AR,ARG,2024
+Groovy,Lawrence,US,USA,2023
+CoffeeScript,Los Angeles,CL,CHL,2022
+VimL,Lawrence,US,USA,2021
+JavaScript,Leeds,GB,GBR,2020
+Clojure,Los Angeles,US,USA,2019
+Go,Lawrence,US,USA,2018
+HTML,Los Angeles,CL,CHL,2017
+HTML,Los Angeles,US,USA,2016
+Haskell,Los Angeles,CL,CHL,2015
+JavaScript,San Antonio,US,USA,2014
+JavaScript,San Antonio,CL,CHL,2013
+C,San Antonio,US,USA,2012
+C,San Antonio,CL,CHL,2011
+HTML,Kiev,UA,UKR,2010
+HaXe,Kiev,UA,UKR,2009
+Objective-C,Los Angeles,CL,CHL,2008
+HaXe,Portland,AU,AUS,2007
+TeX,Kiev,UA,UKR,2006
+OCaml,Los Angeles,US,USA,2005
+OCaml,Los Angeles,CL,CHL,2004
+C++,Kigali,RW,RWA,2003
+Ruby,Kigali,RW,RWA,2002
+VimL,Sacramento,US,USA,2001
+JavaScript,Kraków,PL,POL,2000
+Haskell,Los Angeles,US,USA,1999
+C++,Kuala Lumpur,MY,MYS,1998
+Ruby,Kuala Lumpur,MY,MYS,1997
+VimL,Kuala Lumpur,MY,MYS,1996
+C,Lexington,US,USA,1995
+PHP,San Antonio,CL,CHL,1994
+C,Rome,IT,ITA,1993
+Python,Lexington,US,USA,1992
+C,Provo,US,USA,1991
+Elixir,London,GB,GBR,1990
+Elixir,London,US,USA,1989
+VimL,London,GB,GBR,1988
+VimL,London,CA,CAN,1987
+TeX,Portland,AU,AUS,1986
+TypeScript,London,US,USA,1985
+Python,Prague,CZ,CZE,1984
+Elixir,London,CA,CAN,1983
+VimL,Portland,AU,AUS,1982
+Lua,Prague,CZ,CZE,1981
+Batchfile,Porto Alegre,BR,BRA,1980
+TypeScript,London,CA,CAN,1979
+HTML,Prague,CZ,CZE,1978
+Prolog,London,US,USA,1977
+Prolog,London,CA,CAN,1976
+C++,Prague,CZ,CZE,1975
+Prolog,London,GB,GBR,1974
+TypeScript,London,GB,GBR,1973
+VimL,London,US,USA,1972
+JavaScript,Provo,US,USA,1971
+Python,Provo,US,USA,1970
+Ruby,Lexington,US,USA,1969
+PHP,Lincoln,AR,ARG,1968
+PHP,Lincoln,US,USA,1967
+CSS,Lisbon,PT,PRT,1966
+CoffeeScript,Lisbon,PT,PRT,1965
+VimL,Rio de Janeiro,BR,BRA,1964
+HTML,Lisbon,PT,PRT,1963
+Clojure,Los Angeles,CL,CHL,1962
+Perl,Lisbon,PT,PRT,1961
+Java,Rio de Janeiro,BR,BRA,1960
+CoffeeScript,Rio de Janeiro,BR,BRA,1959
+CSS,Rio de Janeiro,BR,BRA,1958
+VimL,Lisbon,PT,PRT,1957
+ApacheConf,London,CA,CAN,1956
+ApacheConf,London,GB,GBR,1955
+JavaScript,Red Deer,CA,CAN,1954
+ApacheConf,London,US,USA,1953
+Java,Raleigh,US,USA,1952
+Shell,Provo,US,USA,1951
+C++,Lexington,US,USA,1950
+PHP,San Antonio,US,USA,1949
+CSS,Kiev,UA,UKR,1948
+Objective-C,Los Angeles,US,USA,1947
+REALbasic,Pittsburgh,US,USA,1946
+Java,Houston,US,USA,1945
+PHP,Houston,US,USA,1944
+Objective-C,Madrid,ES,ESP,1943
+HTML,Madrid,ES,ESP,1942
+CoffeeScript,Hyderabad,IN,IND,1941
+CoffeeScript,Hyderabad,PK,PAK,1940
+Java,Hyderabad,IN,IND,1939
+Go,Hong Kong,HK,HKG,1938
+Java,Hyderabad,PK,PAK,1937
+Objective-C,Hyderabad,PK,PAK,1936
+Jupyter Notebook,San Francisco,US,USA,1935
+Jupyter Notebook,San Francisco,AR,ARG,1934
+PHP,Hyderabad,IN,IND,1933
+PHP,Hyderabad,PK,PAK,1932
+Shell,Hyderabad,IN,IND,1931
+Shell,Hyderabad,PK,PAK,1930
+Haskell,San Francisco,US,USA,1929
+Objective-C,Hyderabad,IN,IND,1928
+Swift,Helsinki,FI,FIN,1927
+JavaScript,Harrisburg,US,USA,1926
+C#,Harrisburg,US,USA,1925
+CSS,Greenville,LR,LBR,1924
+JavaScript,Greenville,LR,LBR,1923
+Python,Greenville,LR,LBR,1922
+TeX,Greenville,LR,LBR,1921
+C,Manchester,GB,GBR,1920
+Arduino,Manchester,US,USA,1919
+JavaScript,Gurgaon,IN,IND,1918
+HTML,Pittsburgh,US,USA,1917
+Java,Halifax,CA,CAN,1916
+Java,Pittsburgh,US,USA,1915
+Scala,Halifax,CA,CAN,1914
+VimL,Halifax,CA,CAN,1913
+Arduino,Manchester,GB,GBR,1912
+PHP,Halmstad,SE,SWE,1911
+Lua,Pittsburgh,US,USA,1910
+Kotlin,Hamburg,DE,DEU,1909
+Matlab,Pittsburgh,US,USA,1908
+Shell,Hangzhou,CN,CHN,1907
+ActionScript,Harrisburg,US,USA,1906
+Haskell,San Francisco,AR,ARG,1905
+Swift,Hyderabad,IN,IND,1904
+Swift,Hyderabad,PK,PAK,1903
+TypeScript,Hyderabad,IN,IND,1902
+ApacheConf,San Francisco,AR,ARG,1901
+ActionScript,San Francisco,US,USA,1900
+ActionScript,San Francisco,AR,ARG,1899
+Shell,San Diego,US,USA,1898
+Shell,Los Angeles,US,USA,1897
+Shell,Los Angeles,CL,CHL,1896
+CSS,Kampala,UG,UGA,1895
+PHP,Los Angeles,US,USA,1894
+PHP,Kampala,UG,UGA,1893
+Puppet,Kampala,UG,UGA,1892
+CSS,San Diego,US,USA,1891
+VimL,Kampala,UG,UGA,1890
+C++,Kanazawa,JP,JPN,1889
+C,San Diego,US,USA,1888
+Assembly,San Diego,US,USA,1887
+JavaScript,Kanazawa,JP,JPN,1886
+PHP,Los Angeles,CL,CHL,1885
+PHP,Katowice,PL,POL,1884
+Swift,Katowice,PL,POL,1883
+ApacheConf,San Francisco,US,USA,1882
+C,Greenville,LR,LBR,1881
+Go,Jakarta,ID,IDN,1880
+Awk,San Francisco,AR,ARG,1879
+TypeScript,Hyderabad,PK,PAK,1878
+C,Madrid,ES,ESP,1877
+CSS,Indianapolis,US,USA,1876
+F#,San Francisco,US,USA,1875
+F#,San Francisco,AR,ARG,1874
+Ruby,Indianapolis,US,USA,1873
+C++,Innsbruck,AT,AUT,1872
+PHP,Madison,US,USA,1871
+Go,Irvine,US,USA,1870
+Clojure,San Francisco,US,USA,1869
+Clojure,San Francisco,AR,ARG,1868
+Shell,Irvine,US,USA,1867
+Arduino,Istanbul,TR,TUR,1866
+HTML,Istanbul,TR,TUR,1865
+VimL,Istanbul,TR,TUR,1864
+C#,Jakarta,ID,IDN,1863
+Brainfuck,San Francisco,US,USA,1862
+Brainfuck,San Francisco,AR,ARG,1861
+Awk,San Francisco,US,USA,1860
+Elixir,Portland,AU,AUS,1859
+Matlab,Melbourne,US,USA,1858
+C++,Porto Alegre,BR,BRA,1857
+Puppet,Tokyo,JP,JPN,1856
+Lua,Tulsa,US,USA,1855
+Ruby,Barcelona,VE,VEN,1854
+Java,Tulsa,US,USA,1853
+CoffeeScript,Tulsa,US,USA,1852
+CSS,Tulsa,US,USA,1851
+HTML,Missoula,US,USA,1850
+TypeScript,New York,US,USA,1849
+PHP,Beijing,CN,CHN,1848
+R,Beijing,CN,CHN,1847
+Python,Wroclaw,PL,POL,1846
+Scala,Beijing,CN,CHN,1845
+Swift,Beijing,CN,CHN,1844
+VimL,New York,US,USA,1843
+VimL,Toronto,CA,CAN,1842
+UnrealScript,Toronto,CA,CAN,1841
+Swift,Toronto,CA,CAN,1840
+ActionScript,Amsterdam,NL,NLD,1839
+Ruby,Barcelona,ES,ESP,1838
+PHP,Tulsa,US,USA,1837
+Python,Barcelona,VE,VEN,1836
+Shell,Tulsa,US,USA,1835
+Go,Vancouver,CA,CAN,1834
+CSS,Barcelona,ES,ESP,1833
+CSS,Barcelona,VE,VEN,1832
+HTML,Amsterdam,NL,NLD,1831
+VimL,New Haven,US,USA,1830
+Cuda,Barcelona,ES,ESP,1829
+Cuda,Barcelona,VE,VEN,1828
+D,Barcelona,ES,ESP,1827
+Nix,Munich,DE,DEU,1826
+D,Barcelona,VE,VEN,1825
+Emacs Lisp,Barcelona,VE,VEN,1824
+HTML,Barcelona,ES,ESP,1823
+HTML,Barcelona,VE,VEN,1822
+PHP,Turku,FI,FIN,1821
+Python,Barcelona,ES,ESP,1820
+C++,Turku,FI,FIN,1819
+C,Turku,FI,FIN,1818
+TypeScript,Tulsa,US,USA,1817
+Emacs Lisp,Barcelona,ES,ESP,1816
+Lua,Munich,DE,DEU,1815
+Matlab,Belgrade,RS,SRB,1814
+Shell,Belgrade,RS,SRB,1813
+Jupyter Notebook,Tokyo,JP,JPN,1812
+ActionScript,Berlin,DE,DEU,1811
+TeX,Minneapolis,US,USA,1810
+C++,Xiamen,CN,CHN,1809
+Haskell,Berlin,DE,DEU,1808
+Jupyter Notebook,Berlin,DE,DEU,1807
+Makefile,Berlin,DE,DEU,1806
+JavaScript,Amman,JO,JOR,1805
+HTML,Xiamen,CN,CHN,1804
+Nginx,Berlin,DE,DEU,1803
+PostScript,Berlin,DE,DEU,1802
+CoffeeScript,Tokyo,JP,JPN,1801
+TeX,Berlin,DE,DEU,1800
+HTML,Nottingham,GB,GBR,1799
+CMake,Tokyo,JP,JPN,1798
+D,Bern,CH,CHE,1797
+Java,Bern,CH,CHE,1796
+Shell,Berkeley,US,USA,1795
+Makefile,Berkeley,US,USA,1794
+VimL,Minneapolis,US,USA,1793
+Lua,Sofia,BG,BGR,1792
+Processing,Toronto,CA,CAN,1791
+Shell,Minsk,BY,BLR,1790
+CSS,Belo Horizonte,BR,BRA,1789
+Clojure,Belo Horizonte,BR,BRA,1788
+Haskell,Toronto,CA,CAN,1787
+JavaScript,Niteroi,BR,BRA,1786
+TeX,Belo Horizonte,BR,BRA,1785
+Go,Toronto,CA,CAN,1784
+XSLT,New York,US,USA,1783
+Clojure,Toronto,CA,CAN,1782
+C++,Toronto,CA,CAN,1781
+C#,Toronto,CA,CAN,1780
+C,Bend,US,USA,1779
+VimL,Tokyo,JP,JPN,1778
+CSS,Bend,US,USA,1777
+CoffeeScript,Bend,US,USA,1776
+Ruby,Niteroi,BR,BRA,1775
+Java,Berkeley,US,USA,1774
+CSS,Toronto,CA,CAN,1773
+Go,Vancouver,US,USA,1772
+Shell,Bangkok,TH,THA,1771
+CoffeeScript,Munich,DE,DEU,1770
+Go,Athens,GR,GRC,1769
+C++,Vitória,BR,BRA,1768
+Go,Athens,US,USA,1767
+Perl,Virginia,US,USA,1766
+PHP,Athens,GR,GRC,1765
+PHP,Athens,US,USA,1764
+Ruby,Athens,GR,GRC,1763
+TypeScript,Moscow,RU,RUS,1762
+C#,Munich,DE,DEU,1761
+Ruby,Athens,US,USA,1760
+CSS,Virginia,US,USA,1759
+C++,Munich,DE,DEU,1758
+Scheme,Anchorage,US,USA,1757
+VimL,Vilnius,LT,LTU,1756
+TeX,Vilnius,LT,LTU,1755
+TypeScript,Wellington,NZ,NZL,1754
+F#,Atlanta,US,USA,1753
+PHP,Armenia,CO,COL,1752
+JavaScript,Armenia,CO,COL,1751
+PHP,Vitória,BR,BRA,1750
+Haskell,New York,US,USA,1749
+Nix,Ann Arbor,US,USA,1748
+Objective-C,Ann Arbor,US,USA,1747
+CoffeeScript,New York,US,USA,1746
+Perl,Ann Arbor,US,USA,1745
+Java,Waterloo,US,USA,1744
+C#,Waterloo,US,USA,1743
+Python,Warsaw,PL,POL,1742
+Go,Warsaw,PL,POL,1741
+Lasso,Montréal,CA,CAN,1740
+R,Ann Arbor,US,USA,1739
+JavaScript,Wales,US,USA,1738
+HTML,Wales,US,USA,1737
+F#,New York,US,USA,1736
+Objective-C,Moscow,RU,RUS,1735
+PHP,Växjö,SE,SWE,1734
+JavaScript,Växjö,SE,SWE,1733
+JavaScript,Volos,GR,GRC,1732
+HTML,Moscow,RU,RUS,1731
+Shell,Ann Arbor,US,USA,1730
+HTML,Atlanta,US,USA,1729
+Logos,Vilnius,LT,LTU,1728
+Nimrod,New York,US,USA,1727
+HTML,Anchorage,US,USA,1726
+VimL,Baltimore,US,USA,1725
+CSS,Bangalore,IN,IND,1724
+C,Anchorage,US,USA,1723
+HTML,Bangalore,IN,IND,1722
+Puppet,Bangalore,IN,IND,1721
+Perl,New York,US,USA,1720
+Clojure,Montevideo,UY,URY,1719
+JavaScript,Baltimore,US,USA,1718
+Shell,Amsterdam,NL,NLD,1717
+Rust,New York,US,USA,1716
+OpenEdge ABL,Missoula,US,USA,1715
+PHP,Bangkok,TH,THA,1714
+Perl,Bangkok,TH,THA,1713
+Java,Vancouver,US,USA,1712
+Java,Vancouver,CA,CAN,1711
+Java,Missoula,US,USA,1710
+Scala,Amsterdam,NL,NLD,1709
+Go,Bangkok,TH,THA,1708
+Perl,Moscow,RU,RUS,1707
+ActionScript,New York,US,USA,1706
+Shell,Austin,US,USA,1705
+Makefile,Atlanta,US,USA,1704
+CoffeeScript,Vilnius,LT,LTU,1703
+Clojure,Vilnius,LT,LTU,1702
+C++,Vilnius,LT,LTU,1701
+OCaml,New York,US,USA,1700
+C,Auckland,NZ,NZL,1699
+CSS,Montréal,CA,CAN,1698
+OpenEdge ABL,New York,US,USA,1697
+VimL,Austin,US,USA,1696
+VimL,Auckland,NZ,NZL,1695
+Arduino,Austin,US,USA,1694
+CoffeeScript,Austin,US,USA,1693
+Go,Austin,US,USA,1692
+HCL,Austin,US,USA,1691
+Shell,Venice,IT,ITA,1690
+C,Montréal,CA,CAN,1689
+JavaScript,Venice,IT,ITA,1688
+Puppet,Austin,US,USA,1687
+HTML,Vienna,AT,AUT,1686
+Arduino,Tokyo,JP,JPN,1685
+C#,Birmingham,GB,GBR,1684
+Shell,The Hague,NL,NLD,1683
+Protocol Buffer,Stockholm,SE,SWE,1682
+Python,Oakland,US,USA,1681
+Ruby,Bucaramanga,CO,COL,1680
+Objective-C,Bucharest,RO,ROU,1679
+C,Zürich,CH,CHE,1678
+Python,Bucharest,RO,ROU,1677
+C#,Minneapolis,US,USA,1676
+VimL,Stavanger,NO,NOR,1675
+HTML,Bucaramanga,CO,COL,1674
+TypeScript,Stavanger,NO,NOR,1673
+Ruby,Stavanger,NO,NOR,1672
+F#,Akron,US,USA,1671
+VimL,Milan,IT,ITA,1670
+Perl,Stavanger,NO,NOR,1669
+PHP,Stavanger,NO,NOR,1668
+Swift,Milan,IT,ITA,1667
+PHP,Budapest,HU,HUN,1666
+CSS,Akron,US,USA,1665
+Shell,Stavanger,NO,NOR,1664
+Racket,Milan,IT,ITA,1663
+Go,Bucaramanga,CO,COL,1662
+Ruby,Yogyakarta,ID,IDN,1661
+Java,Oakland,US,USA,1660
+Arduino,Brussels,BE,BEL,1659
+C++,Brussels,BE,BEL,1658
+CSS,Brussels,BE,BEL,1657
+ApacheConf,Sydney,CA,CAN,1656
+ApacheConf,Sydney,AU,AUS,1655
+Eagle,Brussels,BE,BEL,1654
+Go,Brussels,BE,BEL,1653
+C,Bucaramanga,CO,COL,1652
+HTML,Brussels,BE,BEL,1651
+Objective-C,Stuttgart,DE,DEU,1650
+Makefile,Brussels,BE,BEL,1649
+HTML,Stuttgart,DE,DEU,1648
+Python,Alexandria,EG,EGY,1647
+Processing,Brussels,BE,BEL,1646
+Python,Brussels,BE,BEL,1645
+Scala,Brussels,BE,BEL,1644
+TeX,Brussels,BE,BEL,1643
+Java,Brussels,BE,BEL,1642
+Shell,Brisbane,AU,AUS,1641
+Go,Stavanger,NO,NOR,1640
+C++,Stavanger,NO,NOR,1639
+HTML,Accra,GH,GHA,1638
+Ruby,Southampton,GB,GBR,1637
+CSS,Mexico City,MX,MEX,1636
+Python,Buffalo,US,USA,1635
+Java,Memphis,US,USA,1634
+VimL,Melbourne,US,USA,1633
+VimL,Melbourne,AU,AUS,1632
+Clojure,Southampton,GB,GBR,1631
+Liquid,Mexico City,MX,MEX,1630
+CSS,Southampton,GB,GBR,1629
+C#,Southampton,GB,GBR,1628
+CSS,Calgary,CA,CAN,1627
+VimL,Calgary,CA,CAN,1626
+ActionScript,Cambridge,GB,GBR,1625
+C++,Cambridge,GB,GBR,1624
+CoffeeScript,Cambridge,GB,GBR,1623
+Go,Accra,GH,GHA,1622
+Perl,Sofia,BG,BGR,1621
+CoffeeScript,Oslo,NO,NOR,1620
+CSS,Stavanger,NO,NOR,1619
+Yacc,Southampton,GB,GBR,1618
+TeX,Buenos Aires,AR,ARG,1617
+C,Stavanger,NO,NOR,1616
+Arduino,Stavanger,NO,NOR,1615
+Python,Milan,IT,ITA,1614
+Clojure,Buenos Aires,AR,ARG,1613
+CoffeeScript,St. Petersburg,US,USA,1612
+CoffeeScript,St. Petersburg,RU,RUS,1611
+CSS,St. Petersburg,US,USA,1610
+CSS,St. Petersburg,RU,RUS,1609
+C++,Spokane,US,USA,1608
+C#,St. Petersburg,US,USA,1607
+Emacs Lisp,Buenos Aires,AR,ARG,1606
+CSS,St. Paul,US,USA,1605
+Go,Buenos Aires,AR,ARG,1604
+XSLT,Adelaide,AU,AUS,1603
+Python,New Delhi,IN,IND,1602
+CoffeeScript,Ontario,US,USA,1601
+Arduino,Milan,IT,ITA,1600
+JavaScript,New Delhi,IN,IND,1599
+C#,St. Petersburg,RU,RUS,1598
+Python,New Haven,US,USA,1597
+HTML,Oakland,US,USA,1596
+Arduino,Oakland,US,USA,1595
+Java,Tallinn,EE,EST,1594
+VimL,Taipei,TW,TWN,1593
+Ada,Bologna,IT,ITA,1592
+Scala,Taipei,TW,TWN,1591
+Ruby,Taipei,TW,TWN,1590
+C++,Bologna,IT,ITA,1589
+PHP,Taipei,TW,TWN,1588
+Matlab,Taipei,TW,TWN,1587
+CSS,Bologna,IT,ITA,1586
+Jupyter Notebook,Taipei,TW,TWN,1585
+Python,Bologna,IT,ITA,1584
+PowerShell,Minneapolis,US,USA,1583
+Go,Taipei,TW,TWN,1582
+Cuda,Taipei,TW,TWN,1581
+CSS,Taipei,TW,TWN,1580
+Ruby,Xiamen,CN,CHN,1579
+Swift,Xiamen,CN,CHN,1578
+TypeScript,Boise,US,USA,1577
+Python,Boise,US,USA,1576
+CoffeeScript,Boise,US,USA,1575
+PHP,Bogor,ID,IDN,1574
+C#,Birmingham,US,USA,1573
+C,Nagano,JP,JPN,1572
+C++,Birmingham,GB,GBR,1571
+C++,Birmingham,US,USA,1570
+CSS,Birmingham,GB,GBR,1569
+C,The Hague,NL,NLD,1568
+HTML,Tbilisi,GE,GEO,1567
+CSS,Birmingham,US,USA,1566
+CoffeeScript,Oakland,US,USA,1565
+Java,Nottingham,GB,GBR,1564
+Python,Xiamen,CN,CHN,1563
+Processing,Minneapolis,US,USA,1562
+Objective-C,Birmingham,GB,GBR,1561
+Objective-C,Birmingham,US,USA,1560
+VimL,Birmingham,GB,GBR,1559
+VimL,Birmingham,US,USA,1558
+Python,Nottingham,GB,GBR,1557
+CSS,Bogor,ID,IDN,1556
+CoffeeScript,Tampere,FI,FIN,1555
+Arduino,Boston,US,USA,1554
+TeX,Bologna,IT,ITA,1553
+TeX,Szeged,HU,HUN,1552
+CSS,Brasilia,BR,BRA,1551
+JavaScript,Nova Friburgo,BR,BRA,1550
+Objective-C++,Sydney,CA,CAN,1549
+Objective-C++,Sydney,AU,AUS,1548
+Java,Yogyakarta,ID,IDN,1547
+Python,Alexandria,RO,ROU,1546
+Processing,Bremen,DE,DEU,1545
+Lua,Sydney,CA,CAN,1544
+Lua,Sydney,AU,AUS,1543
+ActionScript,Novi Sad,RS,SRB,1542
+Go,Minneapolis,US,USA,1541
+Emacs Lisp,Minneapolis,US,USA,1540
+CoffeeScript,Minneapolis,US,USA,1539
+HTML,Sydney,CA,CAN,1538
+HTML,Sydney,AU,AUS,1537
+PHP,Novi Sad,RS,SRB,1536
+Python,Novi Sad,RS,SRB,1535
+Pascal,Sydney,AU,AUS,1534
+Shell,Boulder,US,USA,1533
+Pascal,Sydney,CA,CAN,1532
+Jupyter Notebook,Boulder,US,USA,1531
+CoffeeScript,Boston,US,USA,1530
+Java,Szeged,HU,HUN,1529
+Java,Boston,US,USA,1528
+C#,Szeged,HU,HUN,1527
+C,Szeged,HU,HUN,1526
+VimL,Boston,US,USA,1525
+ActionScript,Yogyakarta,ID,IDN,1524
+R,Boulder,US,USA,1523
+C#,Szczecin,PL,POL,1522
+HTML,Szczecin,PL,POL,1521
+VimL,Sydney,AU,AUS,1520
+Swift,Sydney,CA,CAN,1519
+Swift,Sydney,AU,AUS,1518
+Go,Boulder,US,USA,1517
+HTML,Boulder,US,USA,1516
+Java,Nova Friburgo,BR,BRA,1515
+VimL,Sydney,CA,CAN,1514
+Java,Ann Arbor,US,USA,1513
+C++,Los Angeles,CL,CHL,1512
+AppleScript,Nashville,US,USA,1511
+C++,Los Angeles,US,USA,1510
+Java,Nantes,FR,FRA,1509
+TeX,Munich,DE,DEU,1508
+TypeScript,Melbourne,AU,AUS,1507
+Jupyter Notebook,Los Angeles,US,USA,1506
+Processing,Manchester,GB,GBR,1505
+Processing,Manchester,US,USA,1504
+Shell,Manchester,GB,GBR,1503
+Shell,Manchester,US,USA,1502
+Objective-C,Minneapolis,US,USA,1501
+JavaScript,Medellin,CO,COL,1500
+HTML,Minneapolis,US,USA,1499
+F#,Melbourne,AU,AUS,1498
+Perl,Manchester,US,USA,1497
+F#,Melbourne,US,USA,1496
+TypeScript,Milwaukee,US,USA,1495
+Java,Milwaukee,US,USA,1494
+Ruby,Milan,IT,ITA,1493
+HTML,Melbourne,AU,AUS,1492
+C#,Milan,IT,ITA,1491
+HTML,Melbourne,US,USA,1490
+Haskell,Melbourne,AU,AUS,1489
+TypeScript,Melbourne,US,USA,1488
+C++,Minneapolis,US,USA,1487
+Perl,Manchester,GB,GBR,1486
+HCL,Manchester,US,USA,1485
+HCL,Manchester,GB,GBR,1484
+Matlab,Los Angeles,CL,CHL,1483
+Matlab,Los Angeles,US,USA,1482
+C,Moscow,RU,RUS,1481
+R,Los Angeles,CL,CHL,1480
+R,Los Angeles,US,USA,1479
+VimL,Los Angeles,CL,CHL,1478
+Shell,Missoula,US,USA,1477
+VimL,Los Angeles,US,USA,1476
+CSS,Louisville,US,USA,1475
+Ruby,Lowell,US,USA,1474
+JavaScript,Luzern,CH,CHE,1473
+PHP,Luzern,CH,CHE,1472
+C++,Madrid,ES,ESP,1471
+PHP,Madrid,ES,ESP,1470
+Ruby,Madrid,ES,ESP,1469
+Gnuplot,Missoula,US,USA,1468
+Java,Minsk,BY,BLR,1467
+C++,Manchester,GB,GBR,1466
+C++,Manchester,US,USA,1465
+Jupyter Notebook,Los Angeles,CL,CHL,1464
+Haskell,Melbourne,US,USA,1463
+Shell,Dublin,IE,IRL,1462
+PostScript,London,GB,GBR,1461
+Scala,Budapest,HU,HUN,1460
+HTML,Budapest,HU,HUN,1459
+CoffeeScript,Budapest,HU,HUN,1458
+Clojure,Budapest,HU,HUN,1457
+Assembly,Budapest,HU,HUN,1456
+API Blueprint,Budapest,HU,HUN,1455
+PHP,Bucharest,RO,ROU,1454
+JavaScript,Bucaramanga,CO,COL,1453
+Visual Basic,Brisbane,AU,AUS,1452
+Rust,Brisbane,AU,AUS,1451
+Python,Brisbane,AU,AUS,1450
+Puppet,Brisbane,AU,AUS,1449
+Haskell,Brisbane,AU,AUS,1448
+F#,Brisbane,AU,AUS,1447
+Shell,Brighton,GB,GBR,1446
+PHP,Brighton,GB,GBR,1445
+Elixir,Brighton,GB,GBR,1444
+C,Brighton,GB,GBR,1443
+Objective-C,Bremen,DE,DEU,1442
+JavaScript,Brasilia,BR,BRA,1441
+JavaScript,Boulder,US,USA,1440
+Shell,Budapest,HU,HUN,1439
+C++,Buenos Aires,AR,ARG,1438
+HTML,Buenos Aires,AR,ARG,1437
+Haskell,Buenos Aires,AR,ARG,1436
+Ruby,Cluj-Napoca,RO,ROU,1435
+Objective-C,Chicago,US,USA,1434
+HTML,Chennai,IN,IND,1433
+JavaScript,Chelyabinsk,RU,RUS,1432
+HTML,Charlotte,US,USA,1431
+PHP,Chandigarh,IN,IND,1430
+C,Carlsbad,US,USA,1429
+VimL,Caracas,VE,VEN,1428
+C,Caracas,VE,VEN,1427
+Python,Cape Town,ZA,ZAF,1426
+CSS,Boulder,US,USA,1425
+HTML,Cape Town,ZA,ZAF,1424
+Shell,Cambridge,GB,GBR,1423
+Perl,Cambridge,GB,GBR,1422
+Makefile,Cambridge,GB,GBR,1421
+Kotlin,Burlington,US,USA,1420
+Java,Burlington,US,USA,1419
+CoffeeScript,Burlington,US,USA,1418
+CSS,Burlington,US,USA,1417
+Perl,Buffalo,US,USA,1416
+PHP,Buffalo,US,USA,1415
+Perl,Buenos Aires,AR,ARG,1414
+VimL,Cambridge,GB,GBR,1413
+Java,Columbus,US,USA,1412
+Shell,Bologna,IT,ITA,1411
+JavaScript,Birmingham,US,USA,1410
+Java,Annecy,FR,FRA,1409
+C++,Annecy,FR,FRA,1408
+PHP,Annapolis,US,USA,1407
+JavaScript,Annapolis,US,USA,1406
+PHP,Ann Arbor,US,USA,1405
+Lua,Ann Arbor,US,USA,1404
+Haskell,Ann Arbor,US,USA,1403
+Arduino,Ann Arbor,US,USA,1402
+Shell,Anchorage,US,USA,1401
+Java,Anchorage,US,USA,1400
+Ruby,Amsterdam,NL,NLD,1399
+Perl,Amsterdam,NL,NLD,1398
+CSS,Amsterdam,NL,NLD,1397
+Ruby,Amman,JO,JOR,1396
+PHP,Amman,JO,JOR,1395
+Ruby,Alexandria,RO,ROU,1394
+Ruby,Alexandria,EG,EGY,1393
+Python,Alexandria,US,USA,1392
+VimL,Akron,US,USA,1391
+R,Adelaide,AU,AUS,1390
+HTML,Adelaide,AU,AUS,1389
+C++,Atlanta,US,USA,1388
+Groovy,Atlanta,US,USA,1387
+Java,Atlanta,US,USA,1386
+VimL,Atlanta,US,USA,1385
+JavaScript,Birmingham,GB,GBR,1384
+C++,Bern,CH,CHE,1383
+Common Lisp,Berlin,DE,DEU,1382
+JavaScript,Berkeley,US,USA,1381
+CSS,Berkeley,US,USA,1380
+Shell,Belo Horizonte,BR,BRA,1379
+Ruby,Belo Horizonte,BR,BRA,1378
+C++,Belo Horizonte,BR,BRA,1377
+Ruby,Belgrade,RS,SRB,1376
+Python,Belgrade,RS,SRB,1375
+C#,Bloomington,US,USA,1374
+CoffeeScript,Belgrade,RS,SRB,1373
+C,Beijing,CN,CHN,1372
+R,Bangkok,TH,THA,1371
+Jupyter Notebook,Bangkok,TH,THA,1370
+HTML,Bangkok,TH,THA,1369
+CSS,Bangkok,TH,THA,1368
+VimL,Bangalore,IN,IND,1367
+Shell,Bangalore,IN,IND,1366
+KiCad,Austin,US,USA,1365
+Ruby,Auckland,NZ,NZL,1364
+CoffeeScript,Auckland,NZ,NZL,1363
+Cuda,Beijing,CN,CHN,1362
+PostScript,London,US,USA,1361
+CoffeeScript,Concord,US,USA,1360
+PHP,Concord,US,USA,1359
+Python,Kiev,UA,UKR,1358
+Java,Kiev,UA,UKR,1357
+C++,Kiev,UA,UKR,1356
+Shell,Kanazawa,JP,JPN,1355
+Objective-C,Kampala,UG,UGA,1354
+Go,Kampala,UG,UGA,1353
+Ruby,Jyväskylä,FI,FIN,1352
+Lua,Jyväskylä,FI,FIN,1351
+CoffeeScript,Jyväskylä,FI,FIN,1350
+Ruby,Jakarta,ID,IDN,1349
+CSS,Jakarta,ID,IDN,1348
+PHP,Istanbul,TR,TUR,1347
+Java,Istanbul,TR,TUR,1346
+VimL,Irvine,US,USA,1345
+Python,Irvine,US,USA,1344
+Java,Irvine,US,USA,1343
+CSS,Irvine,US,USA,1342
+C#,Indianapolis,US,USA,1341
+CSS,Hyderabad,PK,PAK,1340
+CSS,Hyderabad,IN,IND,1339
+VimL,Huntsville,US,USA,1338
+Arduino,Kigali,RW,RWA,1337
+C,Kigali,RW,RWA,1336
+Eagle,Kigali,RW,RWA,1335
+JavaScript,Kigali,RW,RWA,1334
+PostScript,London,CA,CAN,1333
+Haskell,London,US,USA,1332
+Haskell,London,GB,GBR,1331
+Haskell,London,CA,CAN,1330
+Emacs Lisp,London,US,USA,1329
+Emacs Lisp,London,GB,GBR,1328
+Emacs Lisp,London,CA,CAN,1327
+CoffeeScript,London,US,USA,1326
+CoffeeScript,London,GB,GBR,1325
+CoffeeScript,London,CA,CAN,1324
+PHP,Hong Kong,HK,HKG,1323
+Java,Lisbon,PT,PRT,1322
+Shell,Lawrence,US,USA,1321
+JavaScript,Lausanne,CH,CHE,1320
+VimL,Las Vegas,US,USA,1319
+Objective-C,Las Vegas,US,USA,1318
+Python,Lagos,NG,NGA,1317
+PHP,Lagos,NG,NGA,1316
+Java,Lagos,NG,NGA,1315
+Objective-C,Kraków,PL,POL,1314
+CSS,Knoxville,US,USA,1313
+Shell,Kigali,RW,RWA,1312
+Ruby,Leeds,GB,GBR,1311
+Java,Concord,US,USA,1310
+CoffeeScript,Hobart,AU,AUS,1309
+Shell,Hamburg,DE,DEU,1308
+CoffeeScript,Edinburgh,GB,GBR,1307
+CSS,Edinburgh,GB,GBR,1306
+Java,Durham,US,USA,1305
+Emacs Lisp,Durham,US,USA,1304
+Common Lisp,Durham,US,USA,1303
+Shell,Dublin,US,USA,1302
+CSS,Nashville,US,USA,1301
+Objective-C,Dublin,US,USA,1300
+Objective-C,Dublin,IE,IRL,1299
+Go,Dublin,US,USA,1298
+Go,Dublin,IE,IRL,1297
+C++,Dublin,US,USA,1296
+C++,Dublin,IE,IRL,1295
+HTML,Detroit,US,USA,1294
+CSS,Detroit,US,USA,1293
+C++,Detroit,US,USA,1292
+Shell,Denver,US,USA,1291
+C++,Denver,US,USA,1290
+PHP,Delhi,IN,IND,1289
+Java,Dallas,US,USA,1288
+CSS,Dallas,US,USA,1287
+Shell,Edinburgh,GB,GBR,1286
+PHP,Eugene,US,USA,1285
+Java,Fort Collins,US,USA,1284
+JavaScript,Fort Collins,US,USA,1283
+C,Hamburg,DE,DEU,1282
+Java,Halmstad,SE,SWE,1281
+Ruby,Halifax,CA,CAN,1280
+C,Halifax,CA,CAN,1279
+C#,Gurgaon,IN,IND,1278
+Python,Grenoble,FR,FRA,1277
+Shell,Granada,NI,NIC,1276
+Shell,Granada,ES,ESP,1275
+Ruby,Granada,NI,NIC,1274
+Ruby,Granada,ES,ESP,1273
+C,Hobart,AU,AUS,1272
+Python,Granada,NI,NIC,1271
+C,Granada,NI,NIC,1270
+C,Granada,ES,ESP,1269
+Ruby,Goiania,BR,BRA,1268
+JavaScript,Goiania,BR,BRA,1267
+HTML,Goiania,BR,BRA,1266
+CSS,Fukuoka,JP,JPN,1265
+ColdFusion,Frauenfeld,CH,CHE,1264
+JavaScript,Fortaleza,BR,BRA,1263
+Ruby,Fort Wayne,US,USA,1262
+Objective-C,Fort Wayne,US,USA,1261
+Python,Granada,ES,ESP,1260
+R,Nashville,US,USA,1259
+VimL,Ålesund,NO,NOR,1258
+HTML,San Jose,US,USA,1257
+Go,San Diego,US,USA,1256
+VimL,Sofia,BG,BGR,1255
+Elixir,Paris,FR,FRA,1254
+C#,San Diego,US,USA,1253
+Rust,Wellington,NZ,NZL,1252
+C,Toronto,CA,CAN,1251
+Ruby,San Antonio,US,USA,1250
+Ruby,San Antonio,CL,CHL,1249
+Emacs Lisp,Sofia,BG,BGR,1248
+C++,Sofia,BG,BGR,1247
+Shell,Santa Rosa,AR,ARG,1246
+Shell,Santa Rosa,BR,BRA,1245
+C,Sofia,BG,BGR,1244
+Shell,Santa Rosa,US,USA,1243
+CoffeeScript,Santiago,CL,CHL,1242
+HTML,Sale,AU,AUS,1241
+CoffeeScript,Santiago,DO,DOM,1240
+CoffeeScript,Santiago,PA,PAN,1239
+CoffeeScript,Santiago,PE,PER,1238
+Objective-C,Wellington,NZ,NZL,1237
+Rust,Tokyo,JP,JPN,1236
+Prolog,Philadelphia,US,USA,1235
+Scala,Singapore,SG,SGP,1234
+HTML,San Jose,GT,GTM,1233
+CSS,Wellington,NZ,NZL,1232
+JavaScript,Ottawa,CA,CAN,1231
+Perl,San Diego,US,USA,1230
+Ruby,Ontario,US,USA,1229
+C,Oslo,NO,NOR,1228
+C++,Oslo,NO,NOR,1227
+CSS,Oslo,NO,NOR,1226
+CoffeeScript,San Francisco,US,USA,1225
+C++,Santa Rosa,BR,BRA,1224
+CoffeeScript,San Francisco,AR,ARG,1223
+HTML,Vancouver,CA,CAN,1222
+HTML,Vancouver,US,USA,1221
+C++,Santa Rosa,US,USA,1220
+SQLPL,Westport,NZ,NZL,1219
+Makefile,Vancouver,CA,CAN,1218
+Arduino,San Francisco,US,USA,1217
+Arduino,San Francisco,AR,ARG,1216
+JavaScript,Westport,NZ,NZL,1215
+VimL,Wellington,NZ,NZL,1214
+Makefile,Vancouver,US,USA,1213
+HTML,Southampton,GB,GBR,1212
+TeX,Wellington,NZ,NZL,1211
+Java,Santa Rosa,AR,ARG,1210
+Java,Santa Rosa,BR,BRA,1209
+Lex,Oslo,NO,NOR,1208
+Java,Santa Rosa,US,USA,1207
+XProc,Oslo,NO,NOR,1206
+Elm,San Francisco,AR,ARG,1205
+PHP,Tokyo,JP,JPN,1204
+PHP,Santiago,CL,CHL,1203
+Objective-C,Scottsdale,AU,AUS,1202
+HTML,Shanghai,CN,CHN,1201
+HaXe,Portland,US,USA,1200
+Emacs Lisp,Shanghai,CN,CHN,1199
+Shell,Vitória,BR,BRA,1198
+Swift,Venice,IT,ITA,1197
+C++,Shanghai,CN,CHN,1196
+Objective-C,Scottsdale,US,USA,1195
+VimL,Provo,US,USA,1194
+Go,Provo,US,USA,1193
+Shell,Seoul,KR,KOR,1192
+Python,Providence,US,USA,1191
+JavaScript,Vitória,BR,BRA,1190
+Perl,Portland,AU,AUS,1189
+TeX,Portland,US,USA,1188
+VimL,Portland,US,USA,1187
+C,Porto Alegre,BR,BRA,1186
+Clojure,Tokyo,JP,JPN,1185
+Python,Vilnius,LT,LTU,1184
+F#,Prague,CZ,CZE,1183
+CoffeeScript,Prague,CZ,CZE,1182
+Java,Virginia,US,USA,1181
+Go,Virginia,US,USA,1180
+Groovy,Portland,AU,AUS,1179
+Perl,Singapore,SG,SGP,1178
+Java,Shanghai,CN,CHN,1177
+Shell,Santiago,PE,PER,1176
+PHP,Santiago,DO,DOM,1175
+CMake,Pisa,IT,ITA,1174
+JavaScript,Pittsburgh,US,USA,1173
+Objective-C,Pittsburgh,US,USA,1172
+Ruby,Venice,IT,ITA,1171
+PHP,Santiago,PA,PAN,1170
+PHP,Santiago,PE,PER,1169
+Ruby,Wales,US,USA,1168
+Java,Rosario,PY,PRY,1167
+Java,Rosario,BR,BRA,1166
+Java,Rosario,AR,ARG,1165
+Shell,Roma,AU,AUS,1164
+Makefile,Roma,AU,AUS,1163
+ActionScript,Roma,AU,AUS,1162
+Shell,Shanghai,CN,CHN,1161
+C++,Riga,LV,LVA,1160
+Shell,Santiago,CL,CHL,1159
+Elixir,Portland,US,USA,1158
+Shell,Santiago,DO,DOM,1157
+CSS,Wales,US,USA,1156
+Python,Shanghai,CN,CHN,1155
+Shell,Santiago,PA,PAN,1154
+Go,Portland,AU,AUS,1153
+Ruby,Växjö,SE,SWE,1152
+Elm,San Francisco,US,USA,1151
+Arduino,Paris,FR,FRA,1150
+Python,St. Paul,US,USA,1149
+Ruby,Nice,FR,FRA,1148
+PHP,Toulouse,FR,FRA,1147
+TypeScript,San Francisco,US,USA,1146
+JavaScript,Toulouse,FR,FRA,1145
+C#,Nottingham,GB,GBR,1144
+Ruby,San Jose,US,USA,1143
+Python,Sydney,CA,CAN,1142
+Shell,San Jose,US,USA,1141
+CSS,Stuttgart,DE,DEU,1140
+Java,Ålesund,NO,NOR,1139
+TypeScript,San Francisco,AR,ARG,1138
+Makefile,San Jose,CR,CRI,1137
+Ruby,Wroclaw,PL,POL,1136
+C,Tulsa,US,USA,1135
+HTML,Nova Friburgo,BR,BRA,1134
+PHP,Nice,FR,FRA,1133
+HTML,Stockholm,SE,SWE,1132
+Shell,Sydney,AU,AUS,1131
+JavaScript,Turku,FI,FIN,1130
+Matlab,Toulouse,FR,FRA,1129
+Racket,San Francisco,US,USA,1128
+Objective-C,Xiamen,CN,CHN,1127
+C#,San Jose,CR,CRI,1126
+Shell,San Jose,GT,GTM,1125
+Shell,San Jose,CR,CRI,1124
+C#,St. Paul,US,USA,1123
+Makefile,San Jose,GT,GTM,1122
+Racket,San Francisco,AR,ARG,1121
+Go,Xiamen,CN,CHN,1120
+Objective-C,Toulouse,FR,FRA,1119
+VimL,Stockholm,SE,SWE,1118
+Ruby,Ålesund,NO,NOR,1117
+C#,San Jose,US,USA,1116
+Scala,New York,US,USA,1115
+Shell,Sydney,CA,CAN,1114
+C#,San Jose,GT,GTM,1113
+Ruby,San Jose,GT,GTM,1112
+C#,Ålesund,NO,NOR,1111
+Python,Sydney,AU,AUS,1110
+Kotlin,Omaha,US,USA,1109
+Makefile,San Francisco,AR,ARG,1108
+PHP,Omaha,US,USA,1107
+Clojure,Vancouver,CA,CAN,1106
+Clojure,Vancouver,US,USA,1105
+Shell,Omaha,US,USA,1104
+C,Ontario,US,USA,1103
+Groovy,San Francisco,US,USA,1102
+Makefile,San Francisco,US,USA,1101
+Groovy,San Francisco,AR,ARG,1100
+Ruby,San Jose,CR,CRI,1099
+Java,New Delhi,IN,IND,1098
+C++,San Jose,CR,CRI,1097
+C++,San Jose,GT,GTM,1096
+C++,San Jose,US,USA,1095
+C++,Santa Rosa,AR,ARG,1094
+Shell,Taipei,TW,TWN,1093
+HTML,San Jose,CR,CRI,1092
+HTML,Stavanger,NO,NOR,1091
+Assembly,Vancouver,CA,CAN,1090
+Perl,Ålesund,NO,NOR,1089
+VimL,San Jose,US,USA,1088
+Shell,Ålesund,NO,NOR,1087
+Emacs Lisp,New Haven,US,USA,1086
+Assembly,Vancouver,US,USA,1085
+CSS,New Haven,US,USA,1084
+Puppet,Stuttgart,DE,DEU,1083
+JavaScript,Omaha,US,USA,1082
+VimL,San Jose,GT,GTM,1081
+VimL,San Jose,CR,CRI,1080
+JavaScript,Wroclaw,PL,POL,1079
+Nginx,San Francisco,US,USA,1078
+Nginx,San Francisco,AR,ARG,1077
+Java,Wroclaw,PL,POL,1076
+Groovy,Ålesund,NO,NOR,1075
+Makefile,San Jose,US,USA,1074
+PHP,Davenport,US,USA,1073
+TeX,San Francisco,US,USA,1072
+TeX,San Francisco,AR,ARG,1071
+ColdFusion,Davenport,US,USA,1070
+TeX,Greenville,US,USA,1069
+JavaScript,Denver,US,USA,1068
+Perl,Columbia,US,USA,1067
+Python,Coventry,GB,GBR,1066
+HTML,Cleveland,US,USA,1065
+F#,Berlin,DE,DEU,1064
+PHP,Cluj-Napoca,RO,ROU,1063
+Objective-C,London,US,USA,1062
+Objective-C,London,GB,GBR,1061
+Objective-C,London,CA,CAN,1060
+Ruby,Vienna,AT,AUT,1059
+CSS,Auckland,NZ,NZL,1058
+Java,Auckland,NZ,NZL,1057
+Emacs Lisp,Berlin,DE,DEU,1056
+Python,Auckland,NZ,NZL,1055
+Objective-C,Prague,CZ,CZE,1054
+CSS,Seattle,US,USA,1053
+Java,Vienna,AT,AUT,1052
+C++,Vienna,AT,AUT,1051
+C++,Columbia,US,USA,1050
+C,Greenville,US,USA,1049
+Perl6,Columbia,US,USA,1048
+VimL,Prague,CZ,CZE,1047
+Ruby,Columbia,US,USA,1046
+C++,Greenville,US,USA,1045
+CSS,Greenville,US,USA,1044
+CSS,Coventry,GB,GBR,1043
+Objective-C,Coventry,GB,GBR,1042
+JavaScript,Greenville,US,USA,1041
+Python,Greenville,US,USA,1040
+C,Berlin,DE,DEU,1039
+Swift,Vancouver,US,USA,1038
+Ruby,Lisbon,PT,PRT,1037
+Python,Salt Lake City,US,USA,1036
+Ruby,Fort Smith,CA,CAN,1035
+Rust,Vancouver,CA,CAN,1034
+Shell,Salt Lake City,US,USA,1033
+VimL,Salt Lake City,US,USA,1032
+C,Kiev,UA,UKR,1031
+VHDL,San Jose,CR,CRI,1030
+VHDL,San Jose,GT,GTM,1029
+Objective-C,Katowice,PL,POL,1028
+Python,Kanazawa,JP,JPN,1027
+Objective-C,Houston,US,USA,1026
+CSS,Durham,US,USA,1025
+Ruby,Kampala,UG,UGA,1024
+HTML,Hong Kong,HK,HKG,1023
+Python,Kampala,UG,UGA,1022
+Go,Fort Collins,US,USA,1021
+Java,San Diego,US,USA,1020
+Groovy,Toronto,CA,CAN,1019
+JavaScript,Belo Horizonte,BR,BRA,1018
+Ruby,Evanston,US,USA,1017
+Objective-C,Vancouver,US,USA,1016
+Objective-C,Vancouver,CA,CAN,1015
+Lua,Toronto,CA,CAN,1014
+Puppet,Toronto,CA,CAN,1013
+JavaScript,Edmonton,CA,CAN,1012
+C,Belo Horizonte,BR,BRA,1011
+JavaScript,Iqaluit,CA,CAN,1010
+VimL,Iqaluit,CA,CAN,1009
+VHDL,San Jose,US,USA,1008
+Shell,Lisbon,PT,PRT,1007
+Rust,Vancouver,US,USA,1006
+R,San Francisco,AR,ARG,1005
+C++,Beijing,CN,CHN,1004
+JavaScript,Lexington,US,USA,1003
+JavaScript,Leipzig,DE,DEU,1002
+Shell,Barcelona,VE,VEN,1001
+Haxe,Austin,US,USA,1000
+Shell,Barcelona,ES,ESP,999
+Scala,Barcelona,VE,VEN,998
+Dart,Helsinki,FI,FIN,997
+PowerShell,Austin,US,USA,996
+Common Lisp,Sacramento,US,USA,995
+HTML,Lausanne,CH,CHE,994
+Scala,Barcelona,ES,ESP,993
+HTML,Sacramento,US,USA,992
+C#,Kigali,RW,RWA,991
+Ruby,Lagos,NG,NGA,990
+Matlab,Sacramento,US,USA,989
+Python,Fort Wayne,US,USA,988
+OCaml,Sacramento,US,USA,987
+Swift,Vancouver,CA,CAN,986
+Shell,Kuala Lumpur,MY,MYS,985
+Prolog,Sacramento,US,USA,984
+Shell,Vancouver,US,USA,983
+C#,Baltimore,US,USA,982
+R,San Francisco,US,USA,981
+CoffeeScript,Kuala Lumpur,MY,MYS,980
+Shell,Vancouver,CA,CAN,979
+Puppet,Sacramento,US,USA,978
+Ruby,Fort Smith,US,USA,977
+JavaScript,Sacramento,US,USA,976
+C#,Porto Alegre,BR,BRA,975
+Python,Innsbruck,AT,AUT,974
+HTML,Tampa,US,USA,973
+C,Philadelphia,US,USA,972
+Python,Campina Grande,BR,BRA,971
+Ruby,Paris,FR,FRA,970
+Go,Ann Arbor,US,USA,969
+Java,Sofia,BG,BGR,968
+C++,Ann Arbor,US,USA,967
+Clojure,Philadelphia,US,USA,966
+Java,Tampa,US,USA,965
+Go,Tampa,US,USA,964
+CSS,Paris,FR,FRA,963
+ActionScript,Paris,FR,FRA,962
+Python,Calgary,CA,CAN,961
+C++,Southampton,GB,GBR,960
+Shell,Wellington,NZ,NZL,959
+Emacs Lisp,Tokyo,JP,JPN,958
+Shell,Southampton,GB,GBR,957
+Swift,Singapore,SG,SGP,956
+C#,Cape Town,ZA,ZAF,955
+C++,Singapore,SG,SGP,954
+Rust,Ann Arbor,US,USA,953
+CSS,Madrid,ES,ESP,952
+Ruby,Pittsburgh,US,USA,951
+CSS,Singapore,SG,SGP,950
+Java,The Hague,NL,NLD,949
+C,Cape Town,ZA,ZAF,948
+CSS,Pittsburgh,US,USA,947
+Shell,Cape Town,ZA,ZAF,946
+JavaScript,Phoenix,US,USA,945
+Shell,Tampa,US,USA,944
+HTML,Philadelphia,US,USA,943
+Emacs Lisp,Cape Town,ZA,ZAF,942
+Shell,Singapore,SG,SGP,941
+JavaScript,Tashkent,UZ,UZB,940
+HTML,Buffalo,US,USA,939
+Shell,Melbourne,AU,AUS,938
+Shell,Melbourne,US,USA,937
+Java,Xiamen,CN,CHN,936
+JavaScript,Xiamen,CN,CHN,935
+JavaScript,Strasbourg,FR,FRA,934
+PHP,Strasbourg,FR,FRA,933
+Python,Montréal,CA,CAN,932
+C++,Moscow,RU,RUS,931
+Python,Stockholm,SE,SWE,930
+Python,Akron,US,USA,929
+C,Sydney,CA,CAN,928
+VimL,Moscow,RU,RUS,927
+QML,Szeged,HU,HUN,926
+C,New York,US,USA,925
+Go,Munich,DE,DEU,924
+C#,Akron,US,USA,923
+C,Sydney,AU,AUS,922
+HTML,Taipei,TW,TWN,921
+C,Xiamen,CN,CHN,920
+JavaScript,New Orleans,US,USA,919
+Clojure,Buffalo,US,USA,918
+Java,Spokane,US,USA,917
+Shell,Tallinn,EE,EST,916
+Python,Spokane,US,USA,915
+PHP,Mexico City,MX,MEX,914
+PHP,Munich,DE,DEU,913
+Java,Amsterdam,NL,NLD,912
+C,Minneapolis,US,USA,911
+Objective-C,Budapest,HU,HUN,910
+C#,Novi Sad,RS,SRB,909
+Groovy,Minneapolis,US,USA,908
+Lua,Taipei,TW,TWN,907
+JavaScript,Nottingham,GB,GBR,906
+Scala,Stavanger,NO,NOR,905
+ActionScript,Xiamen,CN,CHN,904
+JavaScript,Madison,US,USA,903
+Ruby,Luzern,CH,CHE,902
+HTML,Ann Arbor,US,USA,901
+Python,Los Angeles,CL,CHL,900
+JavaScript,Catania,IT,ITA,899
+OCaml,Catania,IT,ITA,898
+Objective-C,Chelyabinsk,RU,RUS,897
+Perl,Catania,IT,ITA,896
+Java,Seville,ES,ESP,895
+Objective-C,Virginia,US,USA,894
+Ruby,Brasilia,BR,BRA,893
+JavaScript,Seville,ES,ESP,892
+C,Chelyabinsk,RU,RUS,891
+PHP,Chicago,US,USA,890
+Java,Seoul,KR,KOR,889
+Python,Los Angeles,US,USA,888
+Ruby,Virginia,US,USA,887
+Scala,Portland,AU,AUS,886
+OCaml,Portland,AU,AUS,885
+Shell,Louisville,US,USA,884
+JavaScript,Virginia,US,USA,883
+CSS,Shanghai,CN,CHN,882
+Swift,Armenia,CO,COL,881
+Rust,London,GB,GBR,880
+Rust,London,US,USA,879
+Rust,London,CA,CAN,878
+PHP,The Hague,NL,NLD,877
+PHP,Auckland,NZ,NZL,876
+Go,San Jose,US,USA,875
+Emacs Lisp,Chicago,US,USA,874
+C,Austin,US,USA,873
+Java,Ontario,US,USA,872
+JavaScript,Stavanger,NO,NOR,871
+Java,Vitória,BR,BRA,870
+JavaScript,Florida,UY,URY,869
+Java,Novi Sad,RS,SRB,868
+Groovy,London,US,USA,867
+CSS,Athens,US,USA,866
+Elixir,Chicago,US,USA,865
+Shell,Buenos Aires,AR,ARG,864
+Python,Edinburgh,GB,GBR,863
+Shell,Huntsville,US,USA,862
+Objective-C,Milan,IT,ITA,861
+CSS,Athens,GR,GRC,860
+JavaScript,San Marcos,GT,GTM,859
+C#,Barcelona,ES,ESP,858
+C#,Barcelona,VE,VEN,857
+Shell,Nashville,US,USA,856
+Rust,Budapest,HU,HUN,855
+C,San Rafael,BO,BOL,854
+Shell,Toronto,CA,CAN,853
+C,San Rafael,AR,ARG,852
+TypeScript,Brisbane,AU,AUS,851
+Go,San Francisco,US,USA,850
+Erlang,Milan,IT,ITA,849
+Shell,Milan,IT,ITA,848
+JavaScript,San Marcos,US,USA,847
+C++,Evanston,US,USA,846
+Objective-C,Omaha,US,USA,845
+C++,Ontario,US,USA,844
+Objective-C,Munich,DE,DEU,843
+Go,San Francisco,AR,ARG,842
+Ruby,Omaha,US,USA,841
+Puppet,Brasilia,BR,BRA,840
+C++,Amsterdam,NL,NLD,839
+PHP,Yogyakarta,ID,IDN,838
+TypeScript,Hamburg,DE,DEU,837
+JavaScript,Vilnius,LT,LTU,836
+Python,Hamburg,DE,DEU,835
+PHP,Fortaleza,BR,BRA,834
+Jupyter Notebook,Seattle,US,USA,833
+JavaScript,Frauenfeld,CH,CHE,832
+CoffeeScript,Fukuoka,JP,JPN,831
+C++,New York,US,USA,830
+Ruby,Fukuoka,JP,JPN,829
+C,Brussels,BE,BEL,828
+CSS,Munich,DE,DEU,827
+JavaScript,Bristol,GB,GBR,826
+JavaScript,Bristol,US,USA,825
+HTML,Granada,ES,ESP,824
+Shell,Athens,GR,GRC,823
+Shell,Athens,US,USA,822
+Rust,San Francisco,US,USA,821
+Rust,San Francisco,AR,ARG,820
+C,Taipei,TW,TWN,819
+JavaScript,Brussels,BE,BEL,818
+C++,Budapest,HU,HUN,817
+Perl,Nashville,US,USA,816
+HTML,Vitória,BR,BRA,815
+Groovy,London,GB,GBR,814
+Shell,Hobart,AU,AUS,813
+Ruby,Hobart,AU,AUS,812
+Objective-C,Hobart,AU,AUS,811
+Perl,Chicago,US,USA,810
+R,Stavanger,NO,NOR,809
+Ruby,Alexandria,US,USA,808
+Perl,Atlanta,US,USA,807
+JavaScript,Tulsa,US,USA,806
+PHP,Atlanta,US,USA,805
+JavaScript,Cleveland,US,USA,804
+HTML,Seattle,US,USA,803
+C,Stuttgart,DE,DEU,802
+Java,Vilnius,LT,LTU,801
+CSS,Moscow,RU,RUS,800
+JavaScript,Montpellier,FR,FRA,799
+Groovy,London,CA,CAN,798
+Go,Los Angeles,CL,CHL,797
+Go,San Jose,GT,GTM,796
+Python,Singapore,SG,SGP,795
+VimL,Philadelphia,US,USA,794
+Ruby,Cape Town,ZA,ZAF,793
+R,Singapore,SG,SGP,792
+Haxe,Manchester,GB,GBR,791
+Haxe,Manchester,US,USA,790
+Shell,Philadelphia,US,USA,789
+Python,Kuala Lumpur,MY,MYS,788
+C++,Caracas,VE,VEN,787
+Go,Nashville,US,USA,786
+PHP,Philadelphia,US,USA,785
+HTML,Wellington,NZ,NZL,784
+Go,San Jose,CR,CRI,783
+Python,Sacramento,US,USA,782
+CoffeeScript,Nagoya,JP,JPN,781
+Go,Portland,US,USA,780
+CSS,Sale,AU,AUS,779
+Python,Kigali,RW,RWA,778
+CSS,Denver,US,USA,777
+Perl,Portland,US,USA,776
+Python,Caracas,VE,VEN,775
+Java,Singapore,SG,SGP,774
+C,Roma,AU,AUS,773
+Java,Roma,AU,AUS,772
+Python,Santiago,PE,PER,771
+Ruby,Denver,US,USA,770
+PHP,Roma,AU,AUS,769
+PHP,Lisbon,PT,PRT,768
+Python,Santiago,PA,PAN,767
+JavaScript,Rio de Janeiro,BR,BRA,766
+C++,Pittsburgh,US,USA,765
+JavaScript,The Hague,NL,NLD,764
+Python,Santiago,DO,DOM,763
+Shell,Pittsburgh,US,USA,762
+Python,Santiago,CL,CHL,761
+CoffeeScript,Carlsbad,US,USA,760
+Java,Annapolis,US,USA,759
+PHP,Riga,LV,LVA,758
+Objective-C,Austin,US,USA,757
+Ruby,Detroit,US,USA,756
+Python,Lisbon,PT,PRT,755
+C#,Sofia,BG,BGR,754
+Groovy,Portland,US,USA,753
+Shell,Campina Grande,BR,BRA,752
+JavaScript,Calgary,CA,CAN,751
+CSS,Tokyo,JP,JPN,750
+Java,Melbourne,AU,AUS,749
+Java,Melbourne,US,USA,748
+JavaScript,Seoul,KR,KOR,747
+C#,Burlington,US,USA,746
+Swift,Buraydah,SA,SAU,745
+Java,Jakarta,ID,IDN,744
+Ruby,Baltimore,US,USA,743
+HTML,Jakarta,ID,IDN,742
+Go,Los Angeles,US,USA,741
+JavaScript,Buffalo,US,USA,740
+Jupyter Notebook,Vancouver,US,USA,739
+Python,Istanbul,TR,TUR,738
+Python,Berkeley,US,USA,737
+HTML,Belo Horizonte,BR,BRA,736
+JavaScript,Bangkok,TH,THA,735
+Jupyter Notebook,Vancouver,CA,CAN,734
+JavaScript,Szczecin,PL,POL,733
+PHP,Durham,US,USA,732
+CSS,Concord,US,USA,731
+Objective-C,Annecy,FR,FRA,730
+Clojure,Medellin,CO,COL,729
+Go,Shanghai,CN,CHN,728
+HTML,Munich,DE,DEU,727
+Ruby,Santa Rosa,US,USA,726
+Ruby,Santa Rosa,BR,BRA,725
+BitBake,Vienna,AT,AUT,724
+Java,Chennai,IN,IND,723
+PHP,Belo Horizonte,BR,BRA,722
+PowerShell,Brisbane,AU,AUS,721
+HTML,Paris,FR,FRA,720
+Objective-C,Cambridge,GB,GBR,719
+PHP,Scottsdale,AU,AUS,718
+PHP,Scottsdale,US,USA,717
+JavaScript,Bloomington,US,USA,716
+Python,Ålesund,NO,NOR,715
+CoffeeScript,San Diego,US,USA,714
+C,Paris,FR,FRA,713
+VimL,Belo Horizonte,BR,BRA,712
+Ruby,Santa Rosa,AR,ARG,711
+HTML,Granada,NI,NIC,710
+Java,San Jose,GT,GTM,709
+Java,San Jose,CR,CRI,708
+Shell,Beijing,CN,CHN,707
+C++,Szeged,HU,HUN,706
+Haskell,Tokyo,JP,JPN,705
+PHP,Stockholm,SE,SWE,704
+Go,Chicago,US,USA,703
+C#,Seattle,US,USA,702
+CoffeeScript,Berlin,DE,DEU,701
+C,Denver,US,USA,700
+Python,The Hague,NL,NLD,699
+Web Ontology Language,Berkeley,US,USA,698
+JavaScript,Carlsbad,US,USA,697
+Prolog,Berkeley,US,USA,696
+Java,San Jose,US,USA,695
+JavaScript,Tampere,FI,FIN,694
+R,Cambridge,GB,GBR,693
+Ruby,Sofia,BG,BGR,692
+Objective-C,Southampton,GB,GBR,691
+JavaScript,Spokane,US,USA,690
+Python,Taipei,TW,TWN,689
+Ruby,Budapest,HU,HUN,688
+Python,Budapest,HU,HUN,687
+C#,Stockholm,SE,SWE,686
+CSS,Cape Town,ZA,ZAF,685
+Objective-C,Seattle,US,USA,684
+Objective-C,Sydney,AU,AUS,683
+C,Pisa,IT,ITA,682
+Objective-C,San Diego,US,USA,681
+Python,Vancouver,CA,CAN,680
+CoffeeScript,Portland,AU,AUS,679
+Shell,Jakarta,ID,IDN,678
+C++,Portland,AU,AUS,677
+Arduino,London,GB,GBR,676
+Objective-C,Sydney,CA,CAN,675
+Emacs Lisp,San Francisco,AR,ARG,674
+Emacs Lisp,San Francisco,US,USA,673
+Python,Philadelphia,US,USA,672
+CSS,Philadelphia,US,USA,671
+C++,Philadelphia,US,USA,670
+C++,Medellin,CO,COL,669
+Erlang,Accra,GH,GHA,668
+CoffeeScript,Paris,FR,FRA,667
+PHP,Bangalore,IN,IND,666
+HTML,Portland,AU,AUS,665
+Python,Vitória,BR,BRA,664
+Shell,San Antonio,US,USA,663
+Arduino,London,CA,CAN,662
+JavaScript,Recife,BR,BRA,661
+Python,Rio de Janeiro,BR,BRA,660
+Java,Lexington,US,USA,659
+Java,Provo,US,USA,658
+Shell,Prague,CZ,CZE,657
+Shell,Vienna,AT,AUT,656
+C,Vancouver,US,USA,655
+Lua,Vilnius,LT,LTU,654
+Ruby,Vilnius,LT,LTU,653
+JavaScript,Grand Rapids,US,USA,652
+CSS,Los Angeles,CL,CHL,651
+CSS,Los Angeles,US,USA,650
+Python,Vancouver,US,USA,649
+Java,Bangalore,IN,IND,648
+Shell,San Antonio,CL,CHL,647
+JavaScript,Lagos,NG,NGA,646
+C,Vancouver,CA,CAN,645
+Arduino,London,US,USA,644
+Python,Minneapolis,US,USA,643
+PHP,Nova Friburgo,BR,BRA,642
+PowerShell,Akron,US,USA,641
+PHP,Amsterdam,NL,NLD,640
+Java,Mexico City,MX,MEX,639
+PHP,New Orleans,US,USA,638
+Shell,New Haven,US,USA,637
+CSS,Hamburg,DE,DEU,636
+Shell,Moscow,RU,RUS,635
+Python,Halifax,CA,CAN,634
+Objective-C,Beijing,CN,CHN,633
+C++,Hamburg,DE,DEU,632
+Swift,New York,US,USA,631
+HTML,Athens,GR,GRC,630
+Erlang,Tokyo,JP,JPN,629
+HTML,Athens,US,USA,628
+TeX,Seattle,US,USA,627
+CoffeeScript,Chicago,US,USA,626
+Scala,Berlin,DE,DEU,625
+PHP,Portland,AU,AUS,624
+Python,Annecy,FR,FRA,623
+Python,Stuttgart,DE,DEU,622
+Java,Moscow,RU,RUS,621
+C,Southampton,GB,GBR,620
+C,Munich,DE,DEU,619
+OCaml,Portland,US,USA,618
+PHP,Nashville,US,USA,617
+JavaScript,Nagoya,JP,JPN,616
+C#,London,CA,CAN,615
+C#,London,GB,GBR,614
+JavaScript,Scottsdale,AU,AUS,613
+Java,Szczecin,PL,POL,612
+JavaScript,Scottsdale,US,USA,611
+C,Dallas,US,USA,610
+C#,London,US,USA,609
+Shell,Boston,US,USA,608
+JavaScript,Coventry,GB,GBR,607
+C,Vienna,AT,AUT,606
+Shell,Columbia,US,USA,605
+HTML,Columbia,US,USA,604
+Java,Tokyo,JP,JPN,603
+C#,Austin,US,USA,602
+JavaScript,Vienna,AT,AUT,601
+CSS,Atlanta,US,USA,600
+C#,Tokyo,JP,JPN,599
+Shell,New York,US,USA,598
+JavaScript,Montréal,CA,CAN,597
+Emacs Lisp,Oslo,NO,NOR,596
+JavaScript,Boise,US,USA,595
+C++,Tampa,US,USA,594
+Python,Wellington,NZ,NZL,593
+Elixir,Sofia,BG,BGR,592
+CSS,Ann Arbor,US,USA,591
+JavaScript,Tampa,US,USA,590
+C,Melbourne,AU,AUS,589
+C,Melbourne,US,USA,588
+Ruby,Anchorage,US,USA,587
+CSS,Melbourne,AU,AUS,586
+CSS,Melbourne,US,USA,585
+Java,Southampton,GB,GBR,584
+Go,Burlington,US,USA,583
+JavaScript,Burlington,US,USA,582
+C++,Wroclaw,PL,POL,581
+Go,Manchester,US,USA,580
+JavaScript,Milwaukee,US,USA,579
+Go,Manchester,GB,GBR,578
+Jupyter Notebook,Missoula,US,USA,577
+CSS,Tampa,US,USA,576
+C,Annecy,FR,FRA,575
+Ruby,Annapolis,US,USA,574
+Ruby,Los Angeles,CL,CHL,573
+Shell,Charlotte,US,USA,572
+JavaScript,Taipei,TW,TWN,571
+C++,Taipei,TW,TWN,570
+JavaScript,Charlotte,US,USA,569
+Emacs Lisp,Portland,AU,AUS,568
+Go,Budapest,HU,HUN,567
+C++,Catania,IT,ITA,566
+JavaScript,Novi Sad,RS,SRB,565
+Ruby,Ann Arbor,US,USA,564
+Java,Caracas,VE,VEN,563
+CSS,Minneapolis,US,USA,562
+Ruby,Los Angeles,US,USA,561
+Ruby,Beijing,CN,CHN,560
+Scala,Portland,US,USA,559
+Ruby,Toronto,CA,CAN,558
+Python,San Jose,US,USA,557
+Java,Dhaka,BD,BGD,556
+CSS,Beijing,CN,CHN,555
+Ruby,Helsinki,FI,FIN,554
+Perl,Berkeley,US,USA,553
+HTML,Kuala Lumpur,MY,MYS,552
+Shell,Tokyo,JP,JPN,551
+R,Sacramento,US,USA,550
+Perl,Dublin,IE,IRL,549
+Perl,Dublin,US,USA,548
+Python,San Jose,GT,GTM,547
+Objective-C,Salt Lake City,US,USA,546
+JavaScript,Houston,US,USA,545
+Java,Kampala,UG,UGA,544
+HTML,Toronto,CA,CAN,543
+Java,Toronto,CA,CAN,542
+Python,Houston,US,USA,541
+Shell,Durham,US,USA,540
+C#,Vancouver,CA,CAN,539
+C#,Vancouver,US,USA,538
+PHP,Iqaluit,CA,CAN,537
+JavaScript,Indianapolis,US,USA,536
+JavaScript,Kampala,UG,UGA,535
+Python,San Jose,CR,CRI,534
+CSS,Salt Lake City,US,USA,533
+JavaScript,Rosario,PY,PRY,532
+Java,Granada,NI,NIC,531
+JavaScript,Rosario,BR,BRA,530
+Objective-C,Tokyo,JP,JPN,529
+Ruby,Rio de Janeiro,BR,BRA,528
+Go,Halifax,CA,CAN,527
+Lua,Roma,AU,AUS,526
+JavaScript,Rosario,AR,ARG,525
+Java,Granada,ES,ESP,524
+C,Tokyo,JP,JPN,523
+JavaScript,Southampton,GB,GBR,522
+Python,Melbourne,AU,AUS,521
+Swift,Chelyabinsk,RU,RUS,520
+JavaScript,Los Angeles,US,USA,519
+Python,Melbourne,US,USA,518
+Ruby,Montréal,CA,CAN,517
+JavaScript,Chennai,IN,IND,516
+Java,Los Angeles,US,USA,515
+CSS,Berlin,DE,DEU,514
+Shell,Sofia,BG,BGR,513
+C#,San Francisco,AR,ARG,512
+CSS,Cambridge,GB,GBR,511
+Shell,Paris,FR,FRA,510
+HTML,Manchester,US,USA,509
+HTML,Manchester,GB,GBR,508
+Python,Paris,FR,FRA,507
+JavaScript,Nagano,JP,JPN,506
+PHP,Birmingham,GB,GBR,505
+JavaScript,Hyderabad,PK,PAK,504
+PHP,Birmingham,US,USA,503
+JavaScript,Hyderabad,IN,IND,502
+C++,Pisa,IT,ITA,501
+C,Ann Arbor,US,USA,500
+Shell,Madrid,ES,ESP,499
+Python,Madrid,ES,ESP,498
+Python,Sofia,BG,BGR,497
+Go,Sydney,CA,CAN,496
+C#,San Francisco,US,USA,495
+Go,Sydney,AU,AUS,494
+PHP,Chennai,IN,IND,493
+HTML,Oslo,NO,NOR,492
+JavaScript,Los Angeles,CL,CHL,491
+Python,Munich,DE,DEU,490
+CSS,Providence,US,USA,489
+XQuery,New York,US,USA,488
+Shell,Minneapolis,US,USA,487
+HTML,New York,US,USA,486
+Java,Minneapolis,US,USA,485
+Python,Stavanger,NO,NOR,484
+C#,Cleveland,US,USA,483
+Nimrod,Stavanger,NO,NOR,482
+Lua,Milan,IT,ITA,481
+JavaScript,Milan,IT,ITA,480
+Java,Los Angeles,CL,CHL,479
+Clojure,Berlin,DE,DEU,478
+Ruby,Mexico City,MX,MEX,477
+Objective-C,Mexico City,MX,MEX,476
+Python,Manchester,GB,GBR,475
+Shell,Seattle,US,USA,474
+VimL,Berlin,DE,DEU,473
+Python,Manchester,US,USA,472
+Python,Ontario,US,USA,471
+Java,Chicago,US,USA,470
+Shell,Sacramento,US,USA,469
+C++,Fort Wayne,US,USA,468
+HTML,Chicago,US,USA,467
+C#,New York,US,USA,466
+Ruby,Manchester,GB,GBR,465
+Python,Brighton,GB,GBR,464
+Ruby,Manchester,US,USA,463
+Python,Toulouse,FR,FRA,462
+Python,Buenos Aires,AR,ARG,461
+Ruby,Tulsa,US,USA,460
+HTML,Beijing,CN,CHN,459
+Java,Bologna,IT,ITA,458
+Python,Oslo,NO,NOR,457
+Ruby,Tallinn,EE,EST,456
+Shell,Stuttgart,DE,DEU,455
+PHP,Minneapolis,US,USA,454
+JavaScript,Brisbane,AU,AUS,453
+Scala,San Francisco,US,USA,452
+Java,Huntsville,US,USA,451
+Ruby,Burlington,US,USA,450
+Scala,San Francisco,AR,ARG,449
+C++,Melbourne,AU,AUS,448
+JavaScript,Belgrade,RS,SRB,447
+Java,Goiania,BR,BRA,446
+Ruby,Westport,NZ,NZL,445
+Objective-C,Ottawa,CA,CAN,444
+JavaScript,Ålesund,NO,NOR,443
+Objective-C,Tulsa,US,USA,442
+C++,Melbourne,US,USA,441
+C++,San Diego,US,USA,440
+Go,Belo Horizonte,BR,BRA,439
+JavaScript,Louisville,US,USA,438
+JavaScript,Riga,LV,LVA,437
+Python,Cluj-Napoca,RO,ROU,436
+CSS,Las Vegas,US,USA,435
+C,Seattle,US,USA,434
+C,Portland,AU,AUS,433
+Java,Portland,AU,AUS,432
+C,Dublin,IE,IRL,431
+HTML,Berlin,DE,DEU,430
+Python,Chennai,IN,IND,429
+Ruby,Sacramento,US,USA,428
+Shell,Berlin,DE,DEU,427
+C,Dublin,US,USA,426
+JavaScript,Providence,US,USA,425
+Objective-C,Denver,US,USA,424
+JavaScript,Shanghai,CN,CHN,423
+Ruby,Caracas,VE,VEN,422
+Java,Austin,US,USA,421
+JavaScript,Las Vegas,US,USA,420
+CSS,Manchester,US,USA,419
+CSS,Manchester,GB,GBR,418
+C,Prague,CZ,CZE,417
+C,Cambridge,GB,GBR,416
+Swift,Melbourne,AU,AUS,415
+Swift,Melbourne,US,USA,414
+Python,Bucaramanga,CO,COL,413
+Ruby,Buenos Aires,AR,ARG,412
+Elixir,Salt Lake City,US,USA,411
+JavaScript,Hong Kong,HK,HKG,410
+C++,London,US,USA,409
+JavaScript,Buenos Aires,AR,ARG,408
+JavaScript,Halifax,CA,CAN,407
+PHP,Cambridge,GB,GBR,406
+PHP,Vilnius,LT,LTU,405
+Go,London,GB,GBR,404
+Ruby,Moscow,RU,RUS,403
+CSS,Austin,US,USA,402
+JavaScript,Manchester,US,USA,401
+Java,Helsinki,FI,FIN,400
+TypeScript,Helsinki,FI,FIN,399
+Python,Amsterdam,NL,NLD,398
+JavaScript,Irvine,US,USA,397
+Go,London,CA,CAN,396
+JavaScript,Manchester,GB,GBR,395
+TypeScript,Sofia,BG,BGR,394
+CSS,Portland,AU,AUS,393
+JavaScript,Auckland,NZ,NZL,392
+Shell,Oslo,NO,NOR,391
+CSS,Brisbane,AU,AUS,390
+JavaScript,New Haven,US,USA,389
+Python,Bangalore,IN,IND,388
+JavaScript,Kiev,UA,UKR,387
+Ruby,Oakland,US,USA,386
+Swift,Coventry,GB,GBR,385
+C++,London,CA,CAN,384
+C++,Vancouver,CA,CAN,383
+Java,New York,US,USA,382
+C++,London,GB,GBR,381
+C++,Vancouver,US,USA,380
+PHP,Irvine,US,USA,379
+Python,Pittsburgh,US,USA,378
+Java,Adelaide,AU,AUS,377
+Go,London,US,USA,376
+JavaScript,Detroit,US,USA,375
+Puppet,Manchester,GB,GBR,374
+JavaScript,San Jose,GT,GTM,373
+C,San Jose,US,USA,372
+JavaScript,Nashville,US,USA,371
+C,San Jose,GT,GTM,370
+Go,Nagoya,JP,JPN,369
+C,London,US,USA,368
+CSS,Nagoya,JP,JPN,367
+C#,Scottsdale,AU,AUS,366
+C#,Scottsdale,US,USA,365
+C,San Jose,CR,CRI,364
+HTML,Boston,US,USA,363
+PHP,Leeds,GB,GBR,362
+Ruby,Bristol,GB,GBR,361
+PHP,Montréal,CA,CAN,360
+Ruby,Bristol,US,USA,359
+JavaScript,San Jose,CR,CRI,358
+JavaScript,San Jose,US,USA,357
+Go,Beijing,CN,CHN,356
+Java,Stavanger,NO,NOR,355
+Shell,Stockholm,SE,SWE,354
+Verilog,San Jose,CR,CRI,353
+JavaScript,Oslo,NO,NOR,352
+Verilog,San Jose,GT,GTM,351
+CoffeeScript,Portland,US,USA,350
+Verilog,San Jose,US,USA,349
+Ruby,Bangalore,IN,IND,348
+Python,Missoula,US,USA,347
+C#,Florida,UY,URY,346
+Objective-C,Toronto,CA,CAN,345
+Ruby,Hyderabad,IN,IND,344
+Ruby,Hyderabad,PK,PAK,343
+C++,Barcelona,VE,VEN,342
+C++,Barcelona,ES,ESP,341
+C,London,CA,CAN,340
+C++,Portland,US,USA,339
+Python,Belo Horizonte,BR,BRA,338
+Ruby,Durham,US,USA,337
+HTML,Portland,US,USA,336
+C,Sacramento,US,USA,335
+Perl,London,CA,CAN,334
+Perl,London,GB,GBR,333
+Perl,London,US,USA,332
+JavaScript,Budapest,HU,HUN,331
+VimL,Chicago,US,USA,330
+Java,Oslo,NO,NOR,329
+Puppet,Manchester,US,USA,328
+Python,Dublin,IE,IRL,327
+Python,Dublin,US,USA,326
+PHP,Barcelona,VE,VEN,325
+PHP,Barcelona,ES,ESP,324
+HTML,Tokyo,JP,JPN,323
+C,London,GB,GBR,322
+JavaScript,Athens,US,USA,321
+Python,Ann Arbor,US,USA,320
+JavaScript,Athens,GR,GRC,319
+HTML,Austin,US,USA,318
+Erlang,San Rafael,AR,ARG,317
+Java,Paris,FR,FRA,316
+Go,Seattle,US,USA,315
+Objective-C,New York,US,USA,314
+Java,Buffalo,US,USA,313
+Ruby,San Rafael,BO,BOL,312
+Ruby,San Rafael,AR,ARG,311
+Erlang,San Rafael,BO,BOL,310
+Java,Salt Lake City,US,USA,309
+JavaScript,Salt Lake City,US,USA,308
+PHP,San Diego,US,USA,307
+HTML,San Francisco,AR,ARG,306
+HTML,San Francisco,US,USA,305
+Python,Hyderabad,PK,PAK,304
+Python,Hyderabad,IN,IND,303
+PHP,Hobart,AU,AUS,302
+Python,Nashville,US,USA,301
+JavaScript,Ho Chi Minh City,VN,VNM,300
+Ruby,Austin,US,USA,299
+Ruby,Tampa,US,USA,298
+HTML,Singapore,SG,SGP,297
+Python,Tokyo,JP,JPN,296
+Perl,Tokyo,JP,JPN,295
+C#,Berlin,DE,DEU,294
+C++,Tokyo,JP,JPN,293
+Ruby,Cambridge,GB,GBR,292
+Java,Sacramento,US,USA,291
+CSS,Kuala Lumpur,MY,MYS,290
+CSS,London,CA,CAN,289
+Shell,Munich,DE,DEU,288
+JavaScript,Brighton,GB,GBR,287
+Clojure,Minneapolis,US,USA,286
+JavaScript,Mexico City,MX,MEX,285
+Python,Anchorage,US,USA,284
+JavaScript,Waterloo,US,USA,283
+PHP,Wales,US,USA,282
+Emacs Lisp,Portland,US,USA,281
+PHP,Portland,US,USA,280
+Java,Philadelphia,US,USA,279
+C#,Atlanta,US,USA,278
+JavaScript,Stuttgart,DE,DEU,277
+CSS,London,GB,GBR,276
+CSS,London,US,USA,275
+Shell,Chicago,US,USA,274
+Java,Prague,CZ,CZE,273
+JavaScript,Cluj-Napoca,RO,ROU,272
+Python,San Antonio,US,USA,271
+Java,Munich,DE,DEU,270
+Groovy,Munich,DE,DEU,269
+PHP,Seattle,US,USA,268
+Ruby,Madison,US,USA,267
+Python,Lawrence,US,USA,266
+JavaScript,Jakarta,ID,IDN,265
+PHP,Melbourne,US,USA,264
+PHP,Melbourne,AU,AUS,263
+JavaScript,Fukuoka,JP,JPN,262
+Python,San Antonio,CL,CHL,261
+Ruby,Medellin,CO,COL,260
+Java,Milan,IT,ITA,259
+JavaScript,Toronto,CA,CAN,258
+Shell,Brasilia,BR,BRA,257
+Java,Carlsbad,US,USA,256
+Python,Bern,CH,CHE,255
+Java,Stockholm,SE,SWE,254
+JavaScript,Stockholm,SE,SWE,253
+Python,Evanston,US,USA,252
+Ruby,Atlanta,US,USA,251
+Python,San Diego,US,USA,250
+JavaScript,Eugene,US,USA,249
+PHP,London,GB,GBR,248
+PHP,London,US,USA,247
+Python,Southampton,GB,GBR,246
+VimL,San Francisco,AR,ARG,245
+Shell,San Francisco,US,USA,244
+VimL,San Francisco,US,USA,243
+PHP,London,CA,CAN,242
+CSS,Sydney,AU,AUS,241
+JavaScript,Hamburg,DE,DEU,240
+JavaScript,Moscow,RU,RUS,239
+PHP,New York,US,USA,238
+Ruby,Boulder,US,USA,237
+Shell,San Francisco,AR,ARG,236
+PHP,Austin,US,USA,235
+Ruby,Singapore,SG,SGP,234
+CSS,Sydney,CA,CAN,233
+Ruby,San Diego,US,USA,232
+C++,Sacramento,US,USA,231
+Python,Beijing,CN,CHN,230
+JavaScript,Santiago,CL,CHL,229
+Java,Edinburgh,GB,GBR,228
+PHP,Spokane,US,USA,227
+JavaScript,Santiago,DO,DOM,226
+JavaScript,Lisbon,PT,PRT,225
+Ruby,Edmonton,CA,CAN,224
+JavaScript,Barcelona,ES,ESP,223
+JavaScript,Barcelona,VE,VEN,222
+JavaScript,Santiago,PE,PER,221
+Perl,San Francisco,US,USA,220
+Perl,San Francisco,AR,ARG,219
+PHP,Sofia,BG,BGR,218
+Java,Cambridge,GB,GBR,217
+C#,Melbourne,US,USA,216
+C#,Melbourne,AU,AUS,215
+JavaScript,Santiago,PA,PAN,214
+PHP,Jakarta,ID,IDN,213
+CSS,Chicago,US,USA,212
+Python,Portland,AU,AUS,211
+Scala,London,US,USA,210
+Scala,London,GB,GBR,209
+Scala,London,CA,CAN,208
+C#,Sydney,CA,CAN,207
+C#,Sydney,AU,AUS,206
+Go,Columbia,US,USA,205
+PHP,Detroit,US,USA,204
+PHP,Grand Rapids,US,USA,203
+Objective-C,Burlington,US,USA,202
+PHP,Granada,NI,NIC,201
+PHP,Granada,ES,ESP,200
+Python,Santa Rosa,BR,BRA,199
+Python,Toronto,CA,CAN,198
+TeX,Paris,FR,FRA,197
+C,Portland,US,USA,196
+Java,Portland,US,USA,195
+Python,Seoul,KR,KOR,194
+C++,Toulouse,FR,FRA,193
+Ruby,Bend,US,USA,192
+Java,Sydney,AU,AUS,191
+Python,Santa Rosa,US,USA,190
+HTML,London,US,USA,189
+Python,Santa Rosa,AR,ARG,188
+HTML,London,GB,GBR,187
+HTML,London,CA,CAN,186
+Java,Budapest,HU,HUN,185
+PHP,Sacramento,US,USA,184
+Java,Sydney,CA,CAN,183
+JavaScript,Yogyakarta,ID,IDN,182
+Emacs Lisp,Munich,DE,DEU,181
+PHP,Prague,CZ,CZE,180
+PHP,Buenos Aires,AR,ARG,179
+Shell,Portland,AU,AUS,178
+Ruby,Seattle,US,USA,177
+Python,Austin,US,USA,176
+Go,Tokyo,JP,JPN,175
+Python,Seville,ES,ESP,174
+ActionScript,Beijing,CN,CHN,173
+CSS,New York,US,USA,172
+Go,New York,US,USA,171
+Clojure,Durham,US,USA,170
+CSS,San Francisco,US,USA,169
+Objective-C,San Francisco,AR,ARG,168
+Objective-C,San Francisco,US,USA,167
+JavaScript,Concord,US,USA,166
+CSS,San Francisco,AR,ARG,165
+CSS,Portland,US,USA,164
+Objective-C,Westport,NZ,NZL,163
+JavaScript,Curitiba,BR,BRA,162
+JavaScript,Cape Town,ZA,ZAF,161
+Java,Belo Horizonte,BR,BRA,160
+PHP,Rosario,AR,ARG,159
+JavaScript,Amsterdam,NL,NLD,158
+Ruby,Santiago,DO,DOM,157
+C++,San Francisco,US,USA,156
+PHP,Rosario,BR,BRA,155
+PHP,Rosario,PY,PRY,154
+Ruby,Santiago,PA,PAN,153
+Ruby,Santiago,PE,PER,152
+Ruby,Santiago,CL,CHL,151
+C++,San Francisco,AR,ARG,150
+Erlang,Stockholm,SE,SWE,149
+Ruby,London,CA,CAN,148
+JavaScript,Ann Arbor,US,USA,147
+Perl6,London,CA,CAN,146
+Perl6,London,GB,GBR,145
+Perl6,London,US,USA,144
+Ruby,London,GB,GBR,143
+Ruby,London,US,USA,142
+PHP,Wellington,NZ,NZL,141
+JavaScript,Seattle,US,USA,140
+Ruby,Portland,AU,AUS,139
+JavaScript,Sofia,BG,BGR,138
+Objective-C,Berlin,DE,DEU,137
+Go,Brighton,GB,GBR,136
+PHP,Norwich,GB,GBR,135
+Ruby,Provo,US,USA,134
+Python,Chicago,US,USA,133
+CSS,Boston,US,USA,132
+Shell,London,CA,CAN,131
+Shell,London,GB,GBR,130
+Clojure,Helsinki,FI,FIN,129
+Shell,London,US,USA,128
+Objective-C,Melbourne,AU,AUS,127
+Objective-C,Melbourne,US,USA,126
+Ruby,Nottingham,GB,GBR,125
+JavaScript,Munich,DE,DEU,124
+Python,Cambridge,GB,GBR,123
+JavaScript,Beijing,CN,CHN,122
+Swift,Westport,NZ,NZL,121
+Ruby,Nagoya,JP,JPN,120
+JavaScript,Prague,CZ,CZE,119
+PHP,San Francisco,US,USA,118
+PHP,San Francisco,AR,ARG,117
+JavaScript,Atlanta,US,USA,116
+Java,Madrid,ES,ESP,115
+Ruby,Melbourne,US,USA,114
+Ruby,Philadelphia,US,USA,113
+Java,Beijing,CN,CHN,112
+Objective-C,Hangzhou,CN,CHN,111
+Ruby,Melbourne,AU,AUS,110
+Go,Cambridge,GB,GBR,109
+Python,Moscow,RU,RUS,108
+Ruby,Catania,IT,ITA,107
+JavaScript,Wellington,NZ,NZL,106
+PHP,Columbia,US,USA,105
+C++,Berlin,DE,DEU,104
+PHP,Boston,US,USA,103
+Perl,Edinburgh,GB,GBR,102
+PHP,Hamburg,DE,DEU,101
+Ruby,New Haven,US,USA,100
+PHP,Stuttgart,DE,DEU,99
+Java,Omaha,US,USA,98
+Ruby,Bangkok,TH,THA,97
+Swift,San Francisco,US,USA,96
+Swift,San Francisco,AR,ARG,95
+Ruby,Prague,CZ,CZE,94
+Go,Berlin,DE,DEU,93
+Perl,Los Angeles,CL,CHL,92
+C,Milan,IT,ITA,91
+JavaScript,Vancouver,CA,CAN,90
+JavaScript,Vancouver,US,USA,89
+Swift,Berlin,DE,DEU,88
+Perl,Los Angeles,US,USA,87
+Python,New York,US,USA,86
+Ruby,Charlotte,US,USA,85
+Ruby,New York,US,USA,84
+Java,Berlin,DE,DEU,83
+JavaScript,Melbourne,AU,AUS,82
+JavaScript,Melbourne,US,USA,81
+JavaScript,Edinburgh,GB,GBR,80
+Objective-C,Portland,AU,AUS,79
+JavaScript,Madrid,ES,ESP,78
+JavaScript,Singapore,SG,SGP,77
+JavaScript,Philadelphia,US,USA,76
+Python,Portland,US,USA,75
+JavaScript,Hobart,AU,AUS,74
+Ruby,Salt Lake City,US,USA,73
+JavaScript,St. Petersburg,US,USA,72
+JavaScript,St. Petersburg,RU,RUS,71
+PHP,Kuala Lumpur,MY,MYS,70
+C,San Francisco,AR,ARG,69
+C,San Francisco,US,USA,68
+PHP,Sydney,AU,AUS,67
+Ruby,Berlin,DE,DEU,66
+PHP,Sydney,CA,CAN,65
+Clojure,Sydney,CA,CAN,64
+Clojure,Sydney,AU,AUS,63
+Java,London,GB,GBR,62
+Java,London,US,USA,61
+Python,Vienna,AT,AUT,60
+Java,London,CA,CAN,59
+JavaScript,Santa Rosa,AR,ARG,58
+JavaScript,Santa Rosa,BR,BRA,57
+JavaScript,Santa Rosa,US,USA,56
+Python,Boston,US,USA,55
+Python,Athens,GR,GRC,54
+Python,Athens,US,USA,53
+Shell,Portland,US,USA,52
+JavaScript,Durham,US,USA,51
+JavaScript,Boston,US,USA,50
+JavaScript,Helsinki,FI,FIN,49
+JavaScript,Cambridge,GB,GBR,48
+Ruby,Boston,US,USA,47
+JavaScript,Bangalore,IN,IND,46
+C#,Tampa,US,USA,45
+Ruby,Sydney,CA,CAN,44
+Ruby,Sydney,AU,AUS,43
+PHP,Moscow,RU,RUS,42
+JavaScript,Portland,AU,AUS,41
+Ruby,Portland,US,USA,40
+Python,Seattle,US,USA,39
+JavaScript,Sydney,AU,AUS,38
+JavaScript,Sydney,CA,CAN,37
+Ruby,Ho Chi Minh City,VN,VNM,36
+Ruby,Tokyo,JP,JPN,35
+Ruby,Minneapolis,US,USA,34
+C,Catania,IT,ITA,33
+Java,San Francisco,US,USA,32
+Java,San Francisco,AR,ARG,31
+JavaScript,Kuala Lumpur,MY,MYS,30
+PHP,Berlin,DE,DEU,29
+JavaScript,Austin,US,USA,28
+Python,Berlin,DE,DEU,27
+Ruby,Munich,DE,DEU,26
+JavaScript,Minneapolis,US,USA,25
+JavaScript,Jyväskylä,FI,FIN,24
+PHP,Paris,FR,FRA,23
+Python,London,US,USA,22
+Python,London,GB,GBR,21
+Python,London,CA,CAN,20
+Ruby,Chicago,US,USA,19
+C#,Brisbane,AU,AUS,18
+Objective-C,Portland,US,USA,17
+Go,Amsterdam,NL,NLD,16
+JavaScript,San Diego,US,USA,15
+JavaScript,Berlin,DE,DEU,14
+JavaScript,Paris,FR,FRA,13
+JavaScript,Tokyo,JP,JPN,12
+JavaScript,Portland,US,USA,11
+JavaScript,New York,US,USA,10
+JavaScript,Chicago,US,USA,9
+Python,San Francisco,AR,ARG,8
+Python,San Francisco,US,USA,7
+JavaScript,London,CA,CAN,6
+JavaScript,London,US,USA,5
+JavaScript,London,GB,GBR,4
+Ruby,San Francisco,US,USA,3
+Ruby,San Francisco,AR,ARG,2
+JavaScript,San Francisco,AR,ARG,1
+JavaScript,San Francisco,US,USA,0

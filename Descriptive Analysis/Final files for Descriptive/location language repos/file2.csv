@@ -1,0 +1,72 @@
+city,language,iso3,Repositories_Count
+San Francisco,JavaScript,USA,170
+London,JavaScript,GBR,110
+Tokyo,JavaScript,JPN,71
+Paris,JavaScript,FRA,67
+Berlin,JavaScript,DEU,63
+Amsterdam,Go,NLD,60
+Brisbane,C#,AUS,58
+Jyväskylä,JavaScript,FIN,52
+Kuala Lumpur,JavaScript,MYS,46
+Catania,C,ITA,45
+Ho Chi Minh City,Ruby,VNM,42
+Moscow,PHP,RUS,39
+Bangalore,JavaScript,IND,36
+Athens,Python,GRC,34
+Santa Rosa,JavaScript,BRA,33
+Vienna,Python,AUT,32
+Madrid,JavaScript,ESP,29
+Singapore,JavaScript,SGP,29
+Los Angeles,Perl,CHL,27
+Prague,Ruby,CZE,26
+Bangkok,Ruby,THA,26
+Wellington,JavaScript,NZL,24
+Beijing,Java,CHN,23
+Sofia,JavaScript,BGR,20
+Stockholm,Erlang,SWE,20
+Santiago,Ruby,DOM,19
+Santiago,Ruby,PAN,19
+Santiago,Ruby,PER,19
+Rosario,PHP,PRY,19
+Cape Town,JavaScript,ZAF,18
+Yogyakarta,JavaScript,IDN,17
+Seoul,Python,KOR,16
+Budapest,Java,HUN,16
+Granada,PHP,NIC,16
+Lisbon,JavaScript,PRT,15
+Barcelona,JavaScript,VEN,15
+Bern,Python,CHE,13
+Cluj-Napoca,JavaScript,ROU,13
+Medellin,Ruby,COL,13
+Mexico City,JavaScript,MEX,12
+Hyderabad,Python,PAK,12
+San Rafael,Ruby,BOL,11
+San Jose,Verilog,CRI,10
+San Jose,C,GTM,10
+Dublin,Python,IRL,10
+Florida,C#,URY,10
+Stavanger,Java,NOR,10
+Vilnius,PHP,LTU,9
+Hong Kong,JavaScript,HKG,9
+Kiev,JavaScript,UKR,9
+Riga,JavaScript,LVA,8
+Tallinn,Ruby,EST,8
+Belgrade,JavaScript,SRB,8
+Dhaka,Java,BGD,6
+Kampala,Java,UGA,6
+Wroclaw,C++,POL,6
+Taipei,C++,TWN,6
+Prizren,PHP,KOS,5
+Accra,Erlang,GHA,5
+Lagos,JavaScript,NGA,5
+Kigali,Python,RWA,4
+Istanbul,Python,TUR,4
+Buraydah,Swift,SAU,4
+Brussels,JavaScript,BEL,4
+Tashkent,JavaScript,UZB,3
+Alexandria,Ruby,EGY,2
+Amman,PHP,JOR,2
+Minsk,Java,BLR,2
+Tbilisi,HTML,GEO,1
+Greenville,C++,LBR,1
+Santa Cruz,HTML,ECU,1

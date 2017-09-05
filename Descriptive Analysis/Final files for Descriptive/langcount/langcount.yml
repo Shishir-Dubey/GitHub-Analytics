@@ -1,0 +1,9 @@
+in:
+  type: file
+  path_prefix: /home/shirz/home/shirz/Desktop/Final files for Descriptive/langcount/csv/company_Languages_repos.csv
+out:
+  type: elasticsearch
+  index: langcount
+  index_type: embulk
+  nodes:
+    - host: localhost

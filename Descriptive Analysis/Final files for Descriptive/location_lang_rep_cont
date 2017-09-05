@@ -1,0 +1,2220 @@
+language,city,iso2,Repositories_Count
+API Blueprint,Budapest,HU,1455
+ASP,Cleveland,US,2048
+ActionScript,Amsterdam,NL,1839
+ActionScript,Beijing,CN,173
+ActionScript,Berlin,DE,1811
+ActionScript,Cambridge,GB,1625
+ActionScript,Harrisburg,US,1906
+ActionScript,New York,US,1706
+ActionScript,Novi Sad,RS,1542
+ActionScript,Paris,FR,962
+ActionScript,Roma,AU,1162
+ActionScript,San Francisco,AR,1899
+ActionScript,San Francisco,US,1900
+ActionScript,Xiamen,CN,904
+ActionScript,Yogyakarta,ID,1524
+Ada,Bologna,IT,1592
+ApacheConf,London,CA,1956
+ApacheConf,London,GB,1955
+ApacheConf,London,US,1953
+ApacheConf,San Francisco,AR,1901
+ApacheConf,San Francisco,US,1882
+ApacheConf,Sydney,AU,1655
+ApacheConf,Sydney,CA,1656
+AppleScript,Melbourne,AU,2175
+AppleScript,Melbourne,US,2069
+AppleScript,Nashville,US,1511
+Arduino,Ann Arbor,US,1402
+Arduino,Austin,US,1694
+Arduino,Boston,US,1554
+Arduino,Brussels,BE,1659
+Arduino,Carlsbad,US,2119
+Arduino,Chicago,US,2083
+Arduino,Cleveland,US,2045
+Arduino,Istanbul,TR,1866
+Arduino,Kigali,RW,1337
+Arduino,London,CA,662
+Arduino,London,GB,676
+Arduino,London,US,644
+Arduino,Manchester,GB,1912
+Arduino,Manchester,US,1919
+Arduino,Melbourne,AU,2070
+Arduino,Melbourne,US,2077
+Arduino,Milan,IT,1600
+Arduino,Oakland,US,1595
+Arduino,Paris,FR,1150
+Arduino,Philadelphia,US,2214
+Arduino,San Francisco,AR,1216
+Arduino,San Francisco,US,1217
+Arduino,Stavanger,NO,1615
+Arduino,Tokyo,JP,1685
+Assembly,Budapest,HU,1456
+Assembly,San Diego,US,1887
+Assembly,Vancouver,CA,1090
+Assembly,Vancouver,US,1085
+Awk,San Francisco,AR,1879
+Awk,San Francisco,US,1860
+Batchfile,Porto Alegre,BR,1980
+BitBake,Vienna,AT,724
+Brainfuck,San Francisco,AR,1861
+Brainfuck,San Francisco,US,1862
+C,Accra,GH,2218
+C,Anchorage,US,1723
+C,Ann Arbor,US,500
+C,Annecy,FR,575
+C,Auckland,NZ,1699
+C,Austin,US,873
+C,Beijing,CN,1372
+C,Belo Horizonte,BR,1011
+C,Bend,US,1779
+C,Berlin,DE,1039
+C,Brighton,GB,1443
+C,Brussels,BE,828
+C,Bucaramanga,CO,1652
+C,Cambridge,GB,416
+C,Campina Grande,BR,2103
+C,Cape Town,ZA,948
+C,Caracas,VE,1427
+C,Carlsbad,US,1429
+C,Catania,IT,33
+C,Chelyabinsk,RU,891
+C,Chennai,IN,2115
+C,Chicago,US,2058
+C,Cleveland,US,2044
+C,Dallas,US,610
+C,Denver,US,700
+C,Detroit,US,2065
+C,Dublin,IE,431
+C,Dublin,US,426
+C,Durham,US,2216
+C,Edinburgh,GB,2208
+C,Evanston,US,2142
+C,Galway,IE,2167
+C,Granada,ES,1269
+C,Granada,NI,1270
+C,Greenville,LR,1881
+C,Greenville,US,1049
+C,Halifax,CA,1279
+C,Hamburg,DE,1282
+C,Hobart,AU,1272
+C,Kiev,UA,1031
+C,Kigali,RW,1336
+C,Lawrence,US,2027
+C,Lexington,US,1995
+C,London,CA,340
+C,London,GB,322
+C,London,US,368
+C,Madrid,ES,1877
+C,Manchester,GB,1920
+C,Manchester,US,2158
+C,Medellin,CO,2211
+C,Melbourne,AU,589
+C,Melbourne,US,588
+C,Milan,IT,91
+C,Minneapolis,US,911
+C,Montréal,CA,1689
+C,Moscow,RU,1481
+C,Munich,DE,619
+C,Nagano,JP,1572
+C,New York,US,925
+C,Ontario,US,1103
+C,Oslo,NO,1228
+C,Paris,FR,713
+C,Philadelphia,US,972
+C,Pisa,IT,682
+C,Portland,AU,433
+C,Portland,US,196
+C,Porto Alegre,BR,1186
+C,Prague,CZ,417
+C,Provo,US,1991
+C,Roma,AU,773
+C,Rome,IT,1993
+C,Sacramento,US,335
+C,San Antonio,CL,2011
+C,San Antonio,US,2012
+C,San Diego,US,1888
+C,San Francisco,AR,69
+C,San Francisco,US,68
+C,San Jose,CR,364
+C,San Jose,GT,370
+C,San Jose,US,372
+C,San Rafael,AR,852
+C,San Rafael,BO,854
+C,Seattle,US,434
+C,Shanghai,CN,2114
+C,Singapore,SG,2125
+C,Sofia,BG,1244
+C,Southampton,GB,620
+C,Stavanger,NO,1616
+C,Stuttgart,DE,802
+C,Sydney,AU,922
+C,Sydney,CA,928
+C,Szeged,HU,1526
+C,Taipei,TW,819
+C,The Hague,NL,1568
+C,Tokyo,JP,523
+C,Toronto,CA,1251
+C,Tulsa,US,1135
+C,Turku,FI,1818
+C,Vancouver,CA,645
+C,Vancouver,US,655
+C,Vienna,AT,606
+C,Xiamen,CN,920
+C,Zürich,CH,1678
+C#,Akron,US,923
+C#,Atlanta,US,278
+C#,Austin,US,602
+C#,Baltimore,US,982
+C#,Barcelona,ES,858
+C#,Barcelona,VE,857
+C#,Berlin,DE,294
+C#,Birmingham,GB,1684
+C#,Birmingham,US,1573
+C#,Bloomington,US,1374
+C#,Brisbane,AU,18
+C#,Burlington,US,746
+C#,Cape Town,ZA,955
+C#,Cleveland,US,483
+C#,Detroit,US,2064
+C#,Duluth,US,2198
+C#,Florida,UY,346
+C#,Fort Collins,US,2138
+C#,Gurgaon,IN,1278
+C#,Harrisburg,US,1925
+C#,Indianapolis,US,1341
+C#,Jakarta,ID,1863
+C#,Kigali,RW,991
+C#,London,CA,615
+C#,London,GB,614
+C#,London,US,609
+C#,Melbourne,AU,215
+C#,Melbourne,US,216
+C#,Milan,IT,1491
+C#,Minneapolis,US,1676
+C#,Munich,DE,1761
+C#,New York,US,466
+C#,Nottingham,GB,1144
+C#,Novi Sad,RS,909
+C#,Perth,AU,2196
+C#,Perth,GB,2197
+C#,Porto Alegre,BR,975
+C#,San Diego,US,1253
+C#,San Francisco,AR,512
+C#,San Francisco,US,495
+C#,San Jose,CR,1126
+C#,San Jose,GT,1113
+C#,San Jose,US,1116
+C#,Scottsdale,AU,366
+C#,Scottsdale,US,365
+C#,Seattle,US,702
+C#,Sofia,BG,754
+C#,Southampton,GB,1628
+C#,St. Paul,US,1123
+C#,St. Petersburg,RU,1598
+C#,St. Petersburg,US,1607
+C#,Stockholm,SE,686
+C#,Sydney,AU,206
+C#,Sydney,CA,207
+C#,Szczecin,PL,1522
+C#,Szeged,HU,1527
+C#,Tampa,US,45
+C#,Tokyo,JP,599
+C#,Toronto,CA,1780
+C#,Vancouver,CA,539
+C#,Vancouver,US,538
+C#,Waterloo,US,1743
+C#,Ålesund,NO,1111
+C++,Amsterdam,NL,839
+C++,Ann Arbor,US,967
+C++,Annecy,FR,1408
+C++,Atlanta,US,1388
+C++,Barcelona,ES,341
+C++,Barcelona,VE,342
+C++,Beijing,CN,1004
+C++,Belo Horizonte,BR,1377
+C++,Berlin,DE,104
+C++,Bern,CH,1383
+C++,Birmingham,GB,1571
+C++,Birmingham,US,1570
+C++,Bologna,IT,1589
+C++,Brussels,BE,1658
+C++,Budapest,HU,817
+C++,Buenos Aires,AR,1438
+C++,Cambridge,GB,1624
+C++,Caracas,VE,787
+C++,Catania,IT,566
+C++,Chelyabinsk,RU,2120
+C++,Columbia,US,1050
+C++,Denver,US,1290
+C++,Detroit,US,1292
+C++,Dublin,IE,1295
+C++,Dublin,US,1296
+C++,Durham,US,2215
+C++,Edinburgh,GB,2199
+C++,Evanston,US,846
+C++,Fort Collins,US,2137
+C++,Fort Wayne,US,468
+C++,Grand Rapids,US,2156
+C++,Greenville,LR,2037
+C++,Greenville,US,1045
+C++,Hamburg,DE,632
+C++,Innsbruck,AT,1872
+C++,Kanazawa,JP,1889
+C++,Kiev,UA,1356
+C++,Kigali,RW,2003
+C++,Kuala Lumpur,MY,1998
+C++,Lexington,US,1950
+C++,London,CA,384
+C++,London,GB,381
+C++,London,US,409
+C++,Los Angeles,CL,1512
+C++,Los Angeles,US,1510
+C++,Madrid,ES,1471
+C++,Manchester,GB,1466
+C++,Manchester,US,1465
+C++,Medellin,CO,669
+C++,Melbourne,AU,448
+C++,Melbourne,US,441
+C++,Minneapolis,US,1487
+C++,Moscow,RU,931
+C++,Munich,DE,1758
+C++,New York,US,830
+C++,Ontario,US,844
+C++,Oslo,NO,1227
+C++,Philadelphia,US,670
+C++,Pisa,IT,501
+C++,Pittsburgh,US,765
+C++,Portland,AU,677
+C++,Portland,US,339
+C++,Porto Alegre,BR,1857
+C++,Prague,CZ,1975
+C++,Riga,LV,1160
+C++,Sacramento,US,231
+C++,San Diego,US,440
+C++,San Francisco,AR,150
+C++,San Francisco,US,156
+C++,San Jose,CR,1097
+C++,San Jose,GT,1096
+C++,San Jose,US,1095
+C++,Santa Rosa,AR,1094
+C++,Santa Rosa,BR,1224
+C++,Santa Rosa,US,1220
+C++,Seattle,US,2040
+C++,Shanghai,CN,1196
+C++,Singapore,SG,954
+C++,Sofia,BG,1247
+C++,Southampton,GB,960
+C++,Spokane,US,1608
+C++,Stavanger,NO,1639
+C++,Szeged,HU,706
+C++,Taipei,TW,570
+C++,Tampa,US,594
+C++,Tokyo,JP,293
+C++,Toronto,CA,1781
+C++,Toulouse,FR,193
+C++,Turku,FI,1819
+C++,Vancouver,CA,383
+C++,Vancouver,US,380
+C++,Vienna,AT,1051
+C++,Vilnius,LT,1701
+C++,Vitória,BR,1768
+C++,Wroclaw,PL,581
+C++,Xiamen,CN,1809
+CMake,Pisa,IT,1174
+CMake,Tokyo,JP,1798
+CSS,Akron,US,1665
+CSS,Amsterdam,NL,1397
+CSS,Ann Arbor,US,591
+CSS,Athens,GR,860
+CSS,Athens,US,866
+CSS,Atlanta,US,600
+CSS,Auckland,NZ,1058
+CSS,Austin,US,402
+CSS,Bangalore,IN,1724
+CSS,Bangkok,TH,1368
+CSS,Barcelona,ES,1833
+CSS,Barcelona,VE,1832
+CSS,Beijing,CN,555
+CSS,Belo Horizonte,BR,1789
+CSS,Bend,US,1777
+CSS,Berkeley,US,1380
+CSS,Berlin,DE,514
+CSS,Birmingham,GB,1569
+CSS,Birmingham,US,1566
+CSS,Bogor,ID,1556
+CSS,Bologna,IT,1586
+CSS,Boston,US,132
+CSS,Boulder,US,1425
+CSS,Brasilia,BR,1551
+CSS,Brisbane,AU,390
+CSS,Brussels,BE,1657
+CSS,Burlington,US,1417
+CSS,Calgary,CA,1627
+CSS,Cambridge,GB,511
+CSS,Campina Grande,BR,2102
+CSS,Cape Town,ZA,685
+CSS,Chelyabinsk,RU,2118
+CSS,Chicago,US,212
+CSS,Concord,US,731
+CSS,Coventry,GB,1043
+CSS,Dallas,US,1287
+CSS,Denver,US,777
+CSS,Detroit,US,1293
+CSS,Dublin,IE,2190
+CSS,Dublin,US,2189
+CSS,Durham,US,1025
+CSS,Edinburgh,GB,1306
+CSS,Fukuoka,JP,1265
+CSS,Grand Rapids,US,2155
+CSS,Greenville,LR,1924
+CSS,Greenville,US,1044
+CSS,Hamburg,DE,636
+CSS,Hyderabad,IN,1339
+CSS,Hyderabad,PK,1340
+CSS,Indianapolis,US,1876
+CSS,Irvine,US,1342
+CSS,Jakarta,ID,1348
+CSS,Kampala,UG,1895
+CSS,Kiev,UA,1948
+CSS,Knoxville,US,1313
+CSS,Kuala Lumpur,MY,290
+CSS,Las Vegas,US,435
+CSS,Lisbon,PT,1966
+CSS,London,CA,289
+CSS,London,GB,276
+CSS,London,US,275
+CSS,Los Angeles,CL,651
+CSS,Los Angeles,US,650
+CSS,Louisville,US,1475
+CSS,Madrid,ES,952
+CSS,Manchester,GB,418
+CSS,Manchester,US,419
+CSS,Melbourne,AU,586
+CSS,Melbourne,US,585
+CSS,Mexico City,MX,1636
+CSS,Minneapolis,US,562
+CSS,Montréal,CA,1698
+CSS,Moscow,RU,800
+CSS,Munich,DE,827
+CSS,Nagoya,JP,367
+CSS,Nashville,US,1301
+CSS,New Haven,US,1084
+CSS,New York,US,172
+CSS,Oslo,NO,1226
+CSS,Paris,FR,963
+CSS,Philadelphia,US,671
+CSS,Pittsburgh,US,947
+CSS,Portland,AU,393
+CSS,Portland,US,164
+CSS,Providence,US,489
+CSS,Rio de Janeiro,BR,1958
+CSS,Sale,AU,779
+CSS,Salt Lake City,US,533
+CSS,San Diego,US,1891
+CSS,San Francisco,AR,165
+CSS,San Francisco,US,169
+CSS,Santiago,CL,2177
+CSS,Santiago,DO,2178
+CSS,Santiago,PA,2179
+CSS,Santiago,PE,2180
+CSS,Seattle,US,1053
+CSS,Shanghai,CN,882
+CSS,Singapore,SG,950
+CSS,Sofia,BG,2101
+CSS,Southampton,GB,1629
+CSS,St. Paul,US,1605
+CSS,St. Petersburg,RU,1609
+CSS,St. Petersburg,US,1610
+CSS,Stavanger,NO,1619
+CSS,Stuttgart,DE,1140
+CSS,Sydney,AU,241
+CSS,Sydney,CA,233
+CSS,Taipei,TW,1580
+CSS,Tampa,US,576
+CSS,Tokyo,JP,750
+CSS,Toronto,CA,1773
+CSS,Tulsa,US,1851
+CSS,Virginia,US,1759
+CSS,Wales,US,1156
+CSS,Wellington,NZ,1232
+Clojure,Belo Horizonte,BR,1788
+Clojure,Berlin,DE,478
+Clojure,Budapest,HU,1457
+Clojure,Buenos Aires,AR,1613
+Clojure,Buffalo,US,918
+Clojure,Durham,US,170
+Clojure,Helsinki,FI,129
+Clojure,Los Angeles,CL,1962
+Clojure,Los Angeles,US,2019
+Clojure,Medellin,CO,729
+Clojure,Minneapolis,US,286
+Clojure,Montevideo,UY,1719
+Clojure,Philadelphia,US,966
+Clojure,San Francisco,AR,1868
+Clojure,San Francisco,US,1869
+Clojure,Sioux Falls,US,2096
+Clojure,Southampton,GB,1631
+Clojure,Sydney,AU,63
+Clojure,Sydney,CA,64
+Clojure,Tokyo,JP,1185
+Clojure,Toronto,CA,1782
+Clojure,Vancouver,CA,1106
+Clojure,Vancouver,US,1105
+Clojure,Vilnius,LT,1702
+CoffeeScript,Auckland,NZ,1363
+CoffeeScript,Austin,US,1693
+CoffeeScript,Belgrade,RS,1373
+CoffeeScript,Bend,US,1776
+CoffeeScript,Berlin,DE,701
+CoffeeScript,Boise,US,1575
+CoffeeScript,Boston,US,1530
+CoffeeScript,Budapest,HU,1458
+CoffeeScript,Burlington,US,1418
+CoffeeScript,Cambridge,GB,1623
+CoffeeScript,Cape Town,ZA,2092
+CoffeeScript,Carlsbad,US,760
+CoffeeScript,Chicago,US,626
+CoffeeScript,Concord,US,1360
+CoffeeScript,Dallas,US,2078
+CoffeeScript,Edinburgh,GB,1307
+CoffeeScript,Fukuoka,JP,831
+CoffeeScript,Hobart,AU,1309
+CoffeeScript,Hyderabad,IN,1941
+CoffeeScript,Hyderabad,PK,1940
+CoffeeScript,Jyväskylä,FI,1350
+CoffeeScript,Kuala Lumpur,MY,980
+CoffeeScript,Lisbon,PT,1965
+CoffeeScript,London,CA,1324
+CoffeeScript,London,GB,1325
+CoffeeScript,London,US,1326
+CoffeeScript,Los Angeles,CL,2022
+CoffeeScript,Los Angeles,US,2035
+CoffeeScript,Melbourne,AU,2079
+CoffeeScript,Melbourne,US,2081
+CoffeeScript,Minneapolis,US,1539
+CoffeeScript,Munich,DE,1770
+CoffeeScript,Nagoya,JP,781
+CoffeeScript,New York,US,1746
+CoffeeScript,Oakland,US,1565
+CoffeeScript,Ontario,US,1601
+CoffeeScript,Oslo,NO,1620
+CoffeeScript,Paris,FR,667
+CoffeeScript,Philadelphia,US,2176
+CoffeeScript,Portland,AU,679
+CoffeeScript,Portland,US,350
+CoffeeScript,Prague,CZ,1182
+CoffeeScript,Rio de Janeiro,BR,1959
+CoffeeScript,San Diego,US,714
+CoffeeScript,San Francisco,AR,1223
+CoffeeScript,San Francisco,US,1225
+CoffeeScript,Santiago,CL,1242
+CoffeeScript,Santiago,DO,1240
+CoffeeScript,Santiago,PA,1239
+CoffeeScript,Santiago,PE,1238
+CoffeeScript,Seattle,US,2041
+CoffeeScript,St. Petersburg,RU,1611
+CoffeeScript,St. Petersburg,US,1612
+CoffeeScript,Tampere,FI,1555
+CoffeeScript,Tokyo,JP,1801
+CoffeeScript,Tulsa,US,1852
+CoffeeScript,Vilnius,LT,1703
+ColdFusion,Davenport,US,1070
+ColdFusion,Frauenfeld,CH,1264
+Common Lisp,Berlin,DE,1382
+Common Lisp,Durham,US,1303
+Common Lisp,Medellin,CO,2213
+Common Lisp,Sacramento,US,995
+Cuda,Barcelona,ES,1829
+Cuda,Barcelona,VE,1828
+Cuda,Beijing,CN,1362
+Cuda,Taipei,TW,1581
+D,Barcelona,ES,1827
+D,Barcelona,VE,1825
+D,Bern,CH,1797
+Dart,Helsinki,FI,997
+Eagle,Brussels,BE,1654
+Eagle,Kigali,RW,1335
+Elixir,Brighton,GB,1444
+Elixir,Chicago,US,865
+Elixir,London,CA,1983
+Elixir,London,GB,1990
+Elixir,London,US,1989
+Elixir,Los Angeles,CL,2036
+Elixir,Los Angeles,US,2028
+Elixir,Paris,FR,1254
+Elixir,Portland,AU,1859
+Elixir,Portland,US,1158
+Elixir,Salt Lake City,US,411
+Elixir,Sofia,BG,592
+Elm,San Francisco,AR,1205
+Elm,San Francisco,US,1151
+Emacs Lisp,Barcelona,ES,1816
+Emacs Lisp,Barcelona,VE,1824
+Emacs Lisp,Berlin,DE,1056
+Emacs Lisp,Buenos Aires,AR,1606
+Emacs Lisp,Cape Town,ZA,942
+Emacs Lisp,Chicago,US,874
+Emacs Lisp,Durham,US,1304
+Emacs Lisp,Fukuoka,JP,2170
+Emacs Lisp,London,CA,1327
+Emacs Lisp,London,GB,1328
+Emacs Lisp,London,US,1329
+Emacs Lisp,Medellin,CO,2183
+Emacs Lisp,Melbourne,AU,2082
+Emacs Lisp,Melbourne,US,2063
+Emacs Lisp,Minneapolis,US,1540
+Emacs Lisp,Munich,DE,181
+Emacs Lisp,New Haven,US,1086
+Emacs Lisp,Oslo,NO,596
+Emacs Lisp,Portland,AU,568
+Emacs Lisp,Portland,US,281
+Emacs Lisp,San Francisco,AR,674
+Emacs Lisp,San Francisco,US,673
+Emacs Lisp,San Rafael,AR,2145
+Emacs Lisp,San Rafael,BO,2146
+Emacs Lisp,Shanghai,CN,1199
+Emacs Lisp,Sioux Falls,US,2097
+Emacs Lisp,Sofia,BG,1248
+Emacs Lisp,Tokyo,JP,958
+Erlang,Accra,GH,668
+Erlang,Milan,IT,849
+Erlang,San Rafael,AR,317
+Erlang,San Rafael,BO,310
+Erlang,Stockholm,SE,149
+Erlang,Tokyo,JP,629
+F#,Akron,US,1671
+F#,Atlanta,US,1753
+F#,Berlin,DE,1064
+F#,Brisbane,AU,1447
+F#,Melbourne,AU,1498
+F#,Melbourne,US,1496
+F#,New York,US,1736
+F#,Prague,CZ,1183
+F#,San Francisco,AR,1874
+F#,San Francisco,US,1875
+Gnuplot,Missoula,US,1468
+Go,Accra,GH,1622
+Go,Amsterdam,NL,16
+Go,Ann Arbor,US,969
+Go,Athens,GR,1769
+Go,Athens,US,1767
+Go,Austin,US,1692
+Go,Bangkok,TH,1708
+Go,Beijing,CN,356
+Go,Belo Horizonte,BR,439
+Go,Berlin,DE,93
+Go,Boulder,US,1517
+Go,Brighton,GB,136
+Go,Brussels,BE,1653
+Go,Bucaramanga,CO,1662
+Go,Budapest,HU,567
+Go,Buenos Aires,AR,1604
+Go,Burlington,US,583
+Go,Cambridge,GB,109
+Go,Chicago,US,703
+Go,Columbia,US,205
+Go,Denver,US,2068
+Go,Dublin,IE,1297
+Go,Dublin,US,1298
+Go,Fort Collins,US,1021
+Go,Halifax,CA,527
+Go,Hong Kong,HK,1938
+Go,Irvine,US,1870
+Go,Jakarta,ID,1880
+Go,Kampala,UG,1353
+Go,Lawrence,US,2018
+Go,London,CA,396
+Go,London,GB,404
+Go,London,US,376
+Go,Los Angeles,CL,797
+Go,Los Angeles,US,741
+Go,Manchester,GB,578
+Go,Manchester,US,580
+Go,Minneapolis,US,1541
+Go,Munich,DE,924
+Go,Nagoya,JP,369
+Go,Nashville,US,786
+Go,New York,US,171
+Go,Philadelphia,US,2143
+Go,Portland,AU,1153
+Go,Portland,US,780
+Go,Provo,US,1193
+Go,San Diego,US,1256
+Go,San Francisco,AR,842
+Go,San Francisco,US,850
+Go,San Jose,CR,783
+Go,San Jose,GT,796
+Go,San Jose,US,875
+Go,Seattle,US,315
+Go,Shanghai,CN,728
+Go,Singapore,SG,2127
+Go,Sofia,BG,2104
+Go,Stavanger,NO,1640
+Go,Sydney,AU,494
+Go,Sydney,CA,496
+Go,Taipei,TW,1582
+Go,Tampa,US,964
+Go,Tokyo,JP,175
+Go,Toronto,CA,1784
+Go,Vancouver,CA,1834
+Go,Vancouver,US,1772
+Go,Virginia,US,1180
+Go,Warsaw,PL,1741
+Go,Xiamen,CN,1120
+Groovy,Atlanta,US,1387
+Groovy,Detroit,US,2130
+Groovy,Lawrence,US,2023
+Groovy,London,CA,798
+Groovy,London,GB,814
+Groovy,London,US,867
+Groovy,Melbourne,AU,2117
+Groovy,Melbourne,US,2122
+Groovy,Minneapolis,US,908
+Groovy,Munich,DE,269
+Groovy,Portland,AU,1179
+Groovy,Portland,US,753
+Groovy,San Francisco,AR,1100
+Groovy,San Francisco,US,1102
+Groovy,Toronto,CA,1019
+Groovy,Ålesund,NO,1075
+HCL,Austin,US,1691
+HCL,Manchester,GB,1484
+HCL,Manchester,US,1485
+HTML,Accra,GH,1638
+HTML,Adelaide,AU,1389
+HTML,Amsterdam,NL,1831
+HTML,Anchorage,US,1726
+HTML,Ann Arbor,US,901
+HTML,Athens,GR,630
+HTML,Athens,US,628
+HTML,Atlanta,US,1729
+HTML,Austin,US,318
+HTML,Bangalore,IN,1722
+HTML,Bangkok,TH,1369
+HTML,Barcelona,ES,1823
+HTML,Barcelona,VE,1822
+HTML,Beijing,CN,459
+HTML,Belo Horizonte,BR,736
+HTML,Berlin,DE,430
+HTML,Boston,US,363
+HTML,Boulder,US,1516
+HTML,Brussels,BE,1651
+HTML,Bucaramanga,CO,1674
+HTML,Budapest,HU,1459
+HTML,Buenos Aires,AR,1437
+HTML,Buffalo,US,939
+HTML,Cape Town,ZA,1424
+HTML,Charlotte,US,1431
+HTML,Chelyabinsk,RU,2109
+HTML,Chennai,IN,1433
+HTML,Chicago,US,467
+HTML,Cleveland,US,1065
+HTML,Columbia,US,604
+HTML,Detroit,US,1294
+HTML,Goiania,BR,1266
+HTML,Granada,ES,824
+HTML,Granada,NI,710
+HTML,Grand Rapids,US,2062
+HTML,Hong Kong,HK,1023
+HTML,Istanbul,TR,1865
+HTML,Jakarta,ID,742
+HTML,Kiev,UA,2010
+HTML,Kuala Lumpur,MY,552
+HTML,Lausanne,CH,994
+HTML,Lisbon,PT,1963
+HTML,London,CA,186
+HTML,London,GB,187
+HTML,London,US,189
+HTML,Los Angeles,CL,2017
+HTML,Los Angeles,US,2016
+HTML,Madrid,ES,1942
+HTML,Manchester,GB,508
+HTML,Manchester,US,509
+HTML,Medellin,CO,2184
+HTML,Melbourne,AU,1492
+HTML,Melbourne,US,1490
+HTML,Minneapolis,US,1499
+HTML,Missoula,US,1850
+HTML,Moscow,RU,1731
+HTML,Munich,DE,727
+HTML,New York,US,486
+HTML,Nottingham,GB,1799
+HTML,Nova Friburgo,BR,1134
+HTML,Oakland,US,1596
+HTML,Oslo,NO,492
+HTML,Paris,FR,720
+HTML,Philadelphia,US,943
+HTML,Pittsburgh,US,1917
+HTML,Portland,AU,665
+HTML,Portland,US,336
+HTML,Prague,CZ,1978
+HTML,Sacramento,US,992
+HTML,Sale,AU,1241
+HTML,San Francisco,AR,306
+HTML,San Francisco,US,305
+HTML,San Jose,CR,1092
+HTML,San Jose,GT,1233
+HTML,San Jose,US,1257
+HTML,Santa Cruz,BO,2202
+HTML,Santa Cruz,BR,2203
+HTML,Santa Cruz,EC,2204
+HTML,Santa Cruz,US,2205
+HTML,Santiago,CL,2185
+HTML,Santiago,DO,2186
+HTML,Santiago,PA,2187
+HTML,Santiago,PE,2188
+HTML,Seattle,US,803
+HTML,Seoul,KR,2056
+HTML,Shanghai,CN,1201
+HTML,Singapore,SG,297
+HTML,Sofia,BG,2105
+HTML,Southampton,GB,1212
+HTML,Stavanger,NO,1091
+HTML,Stockholm,SE,1132
+HTML,Stuttgart,DE,1648
+HTML,Sydney,AU,1537
+HTML,Sydney,CA,1538
+HTML,Szczecin,PL,1521
+HTML,Taipei,TW,921
+HTML,Tampa,US,973
+HTML,Tbilisi,GE,1567
+HTML,Tokyo,JP,323
+HTML,Toronto,CA,543
+HTML,Vancouver,CA,1222
+HTML,Vancouver,US,1221
+HTML,Vienna,AT,1686
+HTML,Vitória,BR,815
+HTML,Wales,US,1737
+HTML,Wellington,NZ,784
+HTML,Xiamen,CN,1804
+HaXe,Kiev,UA,2009
+HaXe,Portland,AU,2007
+HaXe,Portland,US,1200
+Haskell,Ann Arbor,US,1403
+Haskell,Berlin,DE,1808
+Haskell,Brisbane,AU,1448
+Haskell,Buenos Aires,AR,1436
+Haskell,London,CA,1330
+Haskell,London,GB,1331
+Haskell,London,US,1332
+Haskell,Los Angeles,CL,2015
+Haskell,Los Angeles,US,1999
+Haskell,Melbourne,AU,1489
+Haskell,Melbourne,US,1463
+Haskell,New York,US,1749
+Haskell,San Francisco,AR,1905
+Haskell,San Francisco,US,1929
+Haskell,San Jose,CR,2159
+Haskell,San Jose,GT,2160
+Haskell,San Jose,US,2161
+Haskell,Tokyo,JP,705
+Haskell,Toronto,CA,1787
+Haxe,Austin,US,1000
+Haxe,Manchester,GB,791
+Haxe,Manchester,US,790
+Haxe,Philadelphia,US,2136
+Jasmin,Durham,US,2212
+Java,Adelaide,AU,377
+Java,Amsterdam,NL,912
+Java,Anchorage,US,1400
+Java,Ann Arbor,US,1513
+Java,Annapolis,US,759
+Java,Annecy,FR,1409
+Java,Atlanta,US,1386
+Java,Auckland,NZ,1057
+Java,Austin,US,421
+Java,Bangalore,IN,648
+Java,Beijing,CN,112
+Java,Belo Horizonte,BR,160
+Java,Berkeley,US,1774
+Java,Berlin,DE,83
+Java,Bern,CH,1796
+Java,Bologna,IT,458
+Java,Boston,US,1528
+Java,Brussels,BE,1642
+Java,Budapest,HU,185
+Java,Buffalo,US,313
+Java,Burlington,US,1419
+Java,Cambridge,GB,217
+Java,Caracas,VE,563
+Java,Carlsbad,US,256
+Java,Chennai,IN,723
+Java,Chicago,US,470
+Java,Cleveland,US,2042
+Java,Columbus,US,1412
+Java,Concord,US,1310
+Java,Dallas,US,1288
+Java,Dhaka,BD,556
+Java,Durham,US,1305
+Java,Edinburgh,GB,228
+Java,Eugene,US,2144
+Java,Fort Collins,US,1284
+Java,Fortaleza,BR,2164
+Java,Goiania,BR,446
+Java,Granada,ES,524
+Java,Granada,NI,531
+Java,Grand Rapids,US,2038
+Java,Halifax,CA,1916
+Java,Halmstad,SE,1281
+Java,Helsinki,FI,400
+Java,Houston,US,1945
+Java,Huntsville,US,451
+Java,Hyderabad,IN,1939
+Java,Hyderabad,PK,1937
+Java,Irvine,US,1343
+Java,Istanbul,TR,1346
+Java,Jakarta,ID,744
+Java,Kampala,UG,544
+Java,Kiev,UA,1357
+Java,Lagos,NG,1315
+Java,Lexington,US,659
+Java,Lisbon,PT,1322
+Java,London,CA,59
+Java,London,GB,62
+Java,London,US,61
+Java,Los Angeles,CL,479
+Java,Los Angeles,US,515
+Java,Madrid,ES,115
+Java,Manchester,GB,2162
+Java,Manchester,US,2154
+Java,Melbourne,AU,749
+Java,Melbourne,US,748
+Java,Memphis,US,1634
+Java,Mexico City,MX,639
+Java,Milan,IT,259
+Java,Milwaukee,US,1494
+Java,Minneapolis,US,485
+Java,Minsk,BY,1467
+Java,Missoula,US,1710
+Java,Moscow,RU,621
+Java,Munich,DE,270
+Java,Nantes,FR,1509
+Java,New Delhi,IN,1098
+Java,New York,US,382
+Java,Nottingham,GB,1564
+Java,Nova Friburgo,BR,1515
+Java,Novi Sad,RS,868
+Java,Oakland,US,1660
+Java,Omaha,US,98
+Java,Ontario,US,872
+Java,Oslo,NO,329
+Java,Paris,FR,316
+Java,Philadelphia,US,279
+Java,Pittsburgh,US,1915
+Java,Portland,AU,432
+Java,Portland,US,195
+Java,Prague,CZ,273
+Java,Provo,US,658
+Java,Raleigh,US,1952
+Java,Rio de Janeiro,BR,1960
+Java,Roma,AU,772
+Java,Rosario,AR,1165
+Java,Rosario,BR,1166
+Java,Rosario,PY,1167
+Java,Sacramento,US,291
+Java,Salt Lake City,US,309
+Java,San Diego,US,1020
+Java,San Francisco,AR,31
+Java,San Francisco,US,32
+Java,San Jose,CR,708
+Java,San Jose,GT,709
+Java,San Jose,US,695
+Java,San Rafael,AR,2149
+Java,San Rafael,BO,2150
+Java,Santa Rosa,AR,1210
+Java,Santa Rosa,BR,1209
+Java,Santa Rosa,US,1207
+Java,Seattle,US,2043
+Java,Seoul,KR,889
+Java,Seville,ES,895
+Java,Shanghai,CN,1177
+Java,Singapore,SG,774
+Java,Sofia,BG,968
+Java,Southampton,GB,584
+Java,Spokane,US,917
+Java,Stavanger,NO,355
+Java,Stockholm,SE,254
+Java,Sydney,AU,191
+Java,Sydney,CA,183
+Java,Szczecin,PL,612
+Java,Szeged,HU,1529
+Java,Tallinn,EE,1594
+Java,Tampa,US,965
+Java,The Hague,NL,949
+Java,Tokyo,JP,603
+Java,Toronto,CA,542
+Java,Tulsa,US,1853
+Java,Vancouver,CA,1711
+Java,Vancouver,US,1712
+Java,Vienna,AT,1052
+Java,Vilnius,LT,801
+Java,Virginia,US,1181
+Java,Vitória,BR,870
+Java,Waterloo,US,1744
+Java,Wroclaw,PL,1076
+Java,Xiamen,CN,936
+Java,Yogyakarta,ID,1547
+Java,Ålesund,NO,1139
+JavaScript,Amman,JO,1805
+JavaScript,Amsterdam,NL,158
+JavaScript,Ann Arbor,US,147
+JavaScript,Annapolis,US,1406
+JavaScript,Armenia,CO,1751
+JavaScript,Athens,GR,319
+JavaScript,Athens,US,321
+JavaScript,Atlanta,US,116
+JavaScript,Auckland,NZ,392
+JavaScript,Austin,US,28
+JavaScript,Baltimore,US,1718
+JavaScript,Bangalore,IN,46
+JavaScript,Bangkok,TH,735
+JavaScript,Barcelona,ES,223
+JavaScript,Barcelona,VE,222
+JavaScript,Beijing,CN,122
+JavaScript,Belgrade,RS,447
+JavaScript,Belo Horizonte,BR,1018
+JavaScript,Berkeley,US,1381
+JavaScript,Berlin,DE,14
+JavaScript,Birmingham,GB,1384
+JavaScript,Birmingham,US,1410
+JavaScript,Bloomington,US,716
+JavaScript,Boise,US,595
+JavaScript,Boston,US,50
+JavaScript,Boulder,US,1440
+JavaScript,Brasilia,BR,1441
+JavaScript,Brighton,GB,287
+JavaScript,Brisbane,AU,453
+JavaScript,Bristol,GB,826
+JavaScript,Bristol,US,825
+JavaScript,Brussels,BE,818
+JavaScript,Bucaramanga,CO,1453
+JavaScript,Budapest,HU,331
+JavaScript,Buenos Aires,AR,408
+JavaScript,Buffalo,US,740
+JavaScript,Burlington,US,582
+JavaScript,Calgary,CA,751
+JavaScript,Cambridge,GB,48
+JavaScript,Cape Town,ZA,161
+JavaScript,Carlsbad,US,697
+JavaScript,Catania,IT,899
+JavaScript,Charlotte,US,569
+JavaScript,Chelyabinsk,RU,1432
+JavaScript,Chennai,IN,516
+JavaScript,Chicago,US,9
+JavaScript,Cleveland,US,804
+JavaScript,Cluj-Napoca,RO,272
+JavaScript,Concord,US,166
+JavaScript,Coventry,GB,607
+JavaScript,Curitiba,BR,162
+JavaScript,Denver,US,1068
+JavaScript,Detroit,US,375
+JavaScript,Duluth,US,2209
+JavaScript,Durham,US,51
+JavaScript,Edinburgh,GB,80
+JavaScript,Edmonton,CA,1012
+JavaScript,Eugene,US,249
+JavaScript,Evanston,US,2141
+JavaScript,Florida,UY,869
+JavaScript,Fort Collins,US,1283
+JavaScript,Fortaleza,BR,1263
+JavaScript,Frauenfeld,CH,832
+JavaScript,Fukuoka,JP,262
+JavaScript,Goiania,BR,1267
+JavaScript,Grand Rapids,US,652
+JavaScript,Greenville,LR,1923
+JavaScript,Greenville,US,1041
+JavaScript,Gurgaon,IN,1918
+JavaScript,Halifax,CA,407
+JavaScript,Hamburg,DE,240
+JavaScript,Harrisburg,US,1926
+JavaScript,Helsinki,FI,49
+JavaScript,Ho Chi Minh City,VN,300
+JavaScript,Hobart,AU,74
+JavaScript,Hong Kong,HK,410
+JavaScript,Houston,US,545
+JavaScript,Hyderabad,IN,502
+JavaScript,Hyderabad,PK,504
+JavaScript,Indianapolis,US,536
+JavaScript,Iqaluit,CA,1010
+JavaScript,Irvine,US,397
+JavaScript,Jakarta,ID,265
+JavaScript,Jyväskylä,FI,24
+JavaScript,Kampala,UG,535
+JavaScript,Kanazawa,JP,1886
+JavaScript,Kiev,UA,387
+JavaScript,Kigali,RW,1334
+JavaScript,Kraków,PL,2000
+JavaScript,Kuala Lumpur,MY,30
+JavaScript,Lagos,NG,646
+JavaScript,Las Vegas,US,420
+JavaScript,Lausanne,CH,1320
+JavaScript,Leeds,GB,2020
+JavaScript,Leipzig,DE,1002
+JavaScript,Lexington,US,1003
+JavaScript,Lisbon,PT,225
+JavaScript,London,CA,6
+JavaScript,London,GB,4
+JavaScript,London,US,5
+JavaScript,Los Angeles,CL,491
+JavaScript,Los Angeles,US,519
+JavaScript,Louisville,US,438
+JavaScript,Luzern,CH,1473
+JavaScript,Madison,US,903
+JavaScript,Madrid,ES,78
+JavaScript,Manchester,GB,395
+JavaScript,Manchester,US,401
+JavaScript,Medellin,CO,1500
+JavaScript,Melbourne,AU,82
+JavaScript,Melbourne,US,81
+JavaScript,Mexico City,MX,285
+JavaScript,Milan,IT,480
+JavaScript,Milwaukee,US,579
+JavaScript,Minneapolis,US,25
+JavaScript,Montpellier,FR,799
+JavaScript,Montréal,CA,597
+JavaScript,Moscow,RU,239
+JavaScript,Munich,DE,124
+JavaScript,Nagano,JP,506
+JavaScript,Nagoya,JP,616
+JavaScript,Nashville,US,371
+JavaScript,New Delhi,IN,1599
+JavaScript,New Haven,US,389
+JavaScript,New Orleans,US,919
+JavaScript,New York,US,10
+JavaScript,Niteroi,BR,1786
+JavaScript,Nottingham,GB,906
+JavaScript,Nova Friburgo,BR,1550
+JavaScript,Novi Sad,RS,565
+JavaScript,Omaha,US,1082
+JavaScript,Oslo,NO,352
+JavaScript,Ottawa,CA,1231
+JavaScript,Paris,FR,13
+JavaScript,Philadelphia,US,76
+JavaScript,Phoenix,US,945
+JavaScript,Pittsburgh,US,1173
+JavaScript,Portland,AU,41
+JavaScript,Portland,US,11
+JavaScript,Prague,CZ,119
+JavaScript,Providence,US,425
+JavaScript,Provo,US,1971
+JavaScript,Recife,BR,661
+JavaScript,Red Deer,CA,1954
+JavaScript,Riga,LV,437
+JavaScript,Rio de Janeiro,BR,766
+JavaScript,Rosario,AR,525
+JavaScript,Rosario,BR,530
+JavaScript,Rosario,PY,532
+JavaScript,Sacramento,US,976
+JavaScript,Salt Lake City,US,308
+JavaScript,San Antonio,CL,2013
+JavaScript,San Antonio,US,2014
+JavaScript,San Diego,US,15
+JavaScript,San Francisco,AR,1
+JavaScript,San Francisco,US,0
+JavaScript,San Jose,CR,358
+JavaScript,San Jose,GT,373
+JavaScript,San Jose,US,357
+JavaScript,San Marcos,GT,859
+JavaScript,San Marcos,US,847
+JavaScript,Santa Rosa,AR,58
+JavaScript,Santa Rosa,BR,57
+JavaScript,Santa Rosa,US,56
+JavaScript,Santiago,CL,229
+JavaScript,Santiago,DO,226
+JavaScript,Santiago,PA,214
+JavaScript,Santiago,PE,221
+JavaScript,Scottsdale,AU,613
+JavaScript,Scottsdale,US,611
+JavaScript,Seattle,US,140
+JavaScript,Seoul,KR,747
+JavaScript,Seville,ES,892
+JavaScript,Shanghai,CN,423
+JavaScript,Singapore,SG,77
+JavaScript,Sofia,BG,138
+JavaScript,Southampton,GB,522
+JavaScript,Spokane,US,690
+JavaScript,St. Petersburg,RU,71
+JavaScript,St. Petersburg,US,72
+JavaScript,Stavanger,NO,871
+JavaScript,Stockholm,SE,253
+JavaScript,Strasbourg,FR,934
+JavaScript,Stuttgart,DE,277
+JavaScript,Sydney,AU,38
+JavaScript,Sydney,CA,37
+JavaScript,Szczecin,PL,733
+JavaScript,Taipei,TW,571
+JavaScript,Tampa,US,590
+JavaScript,Tampere,FI,694
+JavaScript,Tashkent,UZ,940
+JavaScript,The Hague,NL,764
+JavaScript,Tokyo,JP,12
+JavaScript,Toronto,CA,258
+JavaScript,Toulouse,FR,1145
+JavaScript,Tulsa,US,806
+JavaScript,Turku,FI,1130
+JavaScript,Vancouver,CA,90
+JavaScript,Vancouver,US,89
+JavaScript,Venice,IT,1688
+JavaScript,Vienna,AT,601
+JavaScript,Vilnius,LT,836
+JavaScript,Virginia,US,883
+JavaScript,Vitória,BR,1190
+JavaScript,Volos,GR,1732
+JavaScript,Växjö,SE,1733
+JavaScript,Wales,US,1738
+JavaScript,Waterloo,US,283
+JavaScript,Wellington,NZ,106
+JavaScript,Westport,NZ,1215
+JavaScript,Wroclaw,PL,1079
+JavaScript,Xiamen,CN,935
+JavaScript,Yogyakarta,ID,182
+JavaScript,Ålesund,NO,443
+Jupyter Notebook,Bangkok,TH,1370
+Jupyter Notebook,Berlin,DE,1807
+Jupyter Notebook,Boulder,US,1531
+Jupyter Notebook,Los Angeles,CL,1464
+Jupyter Notebook,Los Angeles,US,1506
+Jupyter Notebook,Missoula,US,577
+Jupyter Notebook,San Francisco,AR,1934
+Jupyter Notebook,San Francisco,US,1935
+Jupyter Notebook,Seattle,US,833
+Jupyter Notebook,Taipei,TW,1585
+Jupyter Notebook,Tokyo,JP,1812
+Jupyter Notebook,Vancouver,CA,734
+Jupyter Notebook,Vancouver,US,739
+KiCad,Austin,US,1365
+Kotlin,Burlington,US,1420
+Kotlin,Carlsbad,US,2126
+Kotlin,Chicago,US,2057
+Kotlin,Hamburg,DE,1909
+Kotlin,Omaha,US,1109
+Kotlin,Seattle,US,2046
+Lasso,Montréal,CA,1740
+Lasso,Paris,FR,2066
+Lex,Oslo,NO,1208
+Liquid,Mexico City,MX,1630
+Logos,Vilnius,LT,1728
+Lua,Ann Arbor,US,1404
+Lua,Chicago,US,2055
+Lua,Jyväskylä,FI,1351
+Lua,Milan,IT,481
+Lua,Munich,DE,1815
+Lua,Ottawa,CA,2121
+Lua,Pittsburgh,US,1910
+Lua,Prague,CZ,1981
+Lua,Roma,AU,526
+Lua,Rosario,AR,2024
+Lua,Rosario,BR,2025
+Lua,Rosario,PY,2026
+Lua,Sofia,BG,1792
+Lua,Sydney,AU,1543
+Lua,Sydney,CA,1544
+Lua,Taipei,TW,907
+Lua,Toronto,CA,1014
+Lua,Tulsa,US,1855
+Lua,Vilnius,LT,654
+Makefile,Atlanta,US,1704
+Makefile,Berkeley,US,1794
+Makefile,Berlin,DE,1806
+Makefile,Brussels,BE,1649
+Makefile,Cambridge,GB,1421
+Makefile,Roma,AU,1163
+Makefile,San Francisco,AR,1108
+Makefile,San Francisco,US,1101
+Makefile,San Jose,CR,1137
+Makefile,San Jose,GT,1122
+Makefile,San Jose,US,1074
+Makefile,Vancouver,CA,1218
+Makefile,Vancouver,US,1213
+Matlab,Belgrade,RS,1814
+Matlab,Evanston,US,2140
+Matlab,Los Angeles,CL,1483
+Matlab,Los Angeles,US,1482
+Matlab,Melbourne,AU,2039
+Matlab,Melbourne,US,1858
+Matlab,Paris,FR,2128
+Matlab,Pittsburgh,US,1908
+Matlab,Sacramento,US,989
+Matlab,Taipei,TW,1587
+Matlab,Toulouse,FR,1129
+Nginx,Berlin,DE,1803
+Nginx,San Francisco,AR,1077
+Nginx,San Francisco,US,1078
+Nginx,Seattle,US,2047
+Nimrod,New York,US,1727
+Nimrod,Stavanger,NO,482
+Nix,Ann Arbor,US,1748
+Nix,Munich,DE,1826
+OCaml,Catania,IT,898
+OCaml,Los Angeles,CL,2004
+OCaml,Los Angeles,US,2005
+OCaml,New York,US,1700
+OCaml,Portland,AU,885
+OCaml,Portland,US,618
+OCaml,Sacramento,US,987
+Objective-C,Ann Arbor,US,1747
+Objective-C,Annecy,FR,730
+Objective-C,Austin,US,757
+Objective-C,Beijing,CN,633
+Objective-C,Berlin,DE,137
+Objective-C,Birmingham,GB,1561
+Objective-C,Birmingham,US,1560
+Objective-C,Bremen,DE,1442
+Objective-C,Bucharest,RO,1679
+Objective-C,Budapest,HU,910
+Objective-C,Burlington,US,202
+Objective-C,Cambridge,GB,719
+Objective-C,Chelyabinsk,RU,897
+Objective-C,Chennai,IN,2111
+Objective-C,Chicago,US,1434
+Objective-C,Coventry,GB,1042
+Objective-C,Denver,US,424
+Objective-C,Dublin,IE,1299
+Objective-C,Dublin,US,1300
+Objective-C,Edmonton,CA,2148
+Objective-C,Fort Wayne,US,1261
+Objective-C,Hangzhou,CN,111
+Objective-C,Hobart,AU,811
+Objective-C,Houston,US,1026
+Objective-C,Hyderabad,IN,1928
+Objective-C,Hyderabad,PK,1936
+Objective-C,Kampala,UG,1354
+Objective-C,Katowice,PL,1028
+Objective-C,Kraków,PL,1314
+Objective-C,Las Vegas,US,1318
+Objective-C,London,CA,1060
+Objective-C,London,GB,1061
+Objective-C,London,US,1062
+Objective-C,Los Angeles,CL,2008
+Objective-C,Los Angeles,US,1947
+Objective-C,Madrid,ES,1943
+Objective-C,Manchester,GB,2163
+Objective-C,Manchester,US,2166
+Objective-C,Melbourne,AU,127
+Objective-C,Melbourne,US,126
+Objective-C,Mexico City,MX,476
+Objective-C,Milan,IT,861
+Objective-C,Minneapolis,US,1501
+Objective-C,Moscow,RU,1735
+Objective-C,Munich,DE,843
+Objective-C,New York,US,314
+Objective-C,Omaha,US,845
+Objective-C,Ottawa,CA,444
+Objective-C,Paris,FR,2129
+Objective-C,Philadelphia,US,2172
+Objective-C,Pittsburgh,US,1172
+Objective-C,Portland,AU,79
+Objective-C,Portland,US,17
+Objective-C,Prague,CZ,1054
+Objective-C,Salt Lake City,US,546
+Objective-C,San Diego,US,681
+Objective-C,San Francisco,AR,168
+Objective-C,San Francisco,US,167
+Objective-C,Scottsdale,AU,1202
+Objective-C,Scottsdale,US,1195
+Objective-C,Seattle,US,684
+Objective-C,Seoul,KR,2059
+Objective-C,Singapore,SG,2107
+Objective-C,Southampton,GB,691
+Objective-C,Stuttgart,DE,1650
+Objective-C,Sydney,AU,683
+Objective-C,Sydney,CA,675
+Objective-C,Tokyo,JP,529
+Objective-C,Toronto,CA,345
+Objective-C,Toulouse,FR,1119
+Objective-C,Tulsa,US,442
+Objective-C,Vancouver,CA,1015
+Objective-C,Vancouver,US,1016
+Objective-C,Virginia,US,894
+Objective-C,Wellington,NZ,1237
+Objective-C,Westport,NZ,163
+Objective-C,Xiamen,CN,1127
+Objective-C++,Sydney,AU,1548
+Objective-C++,Sydney,CA,1549
+OpenEdge ABL,Missoula,US,1715
+OpenEdge ABL,New York,US,1697
+PHP,Amman,JO,1395
+PHP,Amsterdam,NL,640
+PHP,Ann Arbor,US,1405
+PHP,Annapolis,US,1407
+PHP,Armenia,CO,1752
+PHP,Athens,GR,1765
+PHP,Athens,US,1764
+PHP,Atlanta,US,805
+PHP,Auckland,NZ,876
+PHP,Austin,US,235
+PHP,Bangalore,IN,666
+PHP,Bangkok,TH,1714
+PHP,Barcelona,ES,324
+PHP,Barcelona,VE,325
+PHP,Beijing,CN,1848
+PHP,Belo Horizonte,BR,722
+PHP,Berlin,DE,29
+PHP,Birmingham,GB,505
+PHP,Birmingham,US,503
+PHP,Bogor,ID,1574
+PHP,Boston,US,103
+PHP,Brighton,GB,1445
+PHP,Bucharest,RO,1454
+PHP,Budapest,HU,1666
+PHP,Buenos Aires,AR,179
+PHP,Buffalo,US,1415
+PHP,Cambridge,GB,406
+PHP,Campina Grande,BR,2100
+PHP,Canberra,AU,2098
+PHP,Cape Town,ZA,2089
+PHP,Chandigarh,IN,1430
+PHP,Chennai,IN,493
+PHP,Chicago,US,890
+PHP,Cluj-Napoca,RO,1063
+PHP,Columbia,US,105
+PHP,Concord,US,1359
+PHP,Davenport,US,1073
+PHP,Delhi,IN,1289
+PHP,Detroit,US,204
+PHP,Dhaka,BD,2192
+PHP,Durham,US,732
+PHP,Eugene,US,1285
+PHP,Fortaleza,BR,834
+PHP,Fukuoka,JP,2169
+PHP,Granada,ES,200
+PHP,Granada,NI,201
+PHP,Grand Rapids,US,203
+PHP,Halmstad,SE,1911
+PHP,Hamburg,DE,101
+PHP,Hobart,AU,302
+PHP,Hong Kong,HK,1323
+PHP,Houston,US,1944
+PHP,Hyderabad,IN,1933
+PHP,Hyderabad,PK,1932
+PHP,Iqaluit,CA,537
+PHP,Irvine,US,379
+PHP,Istanbul,TR,1347
+PHP,Jakarta,ID,213
+PHP,Kampala,UG,1893
+PHP,Katowice,PL,1884
+PHP,Kuala Lumpur,MY,70
+PHP,Lagos,NG,1316
+PHP,Leeds,GB,362
+PHP,Lincoln,AR,1968
+PHP,Lincoln,US,1967
+PHP,Lisbon,PT,768
+PHP,London,CA,242
+PHP,London,GB,248
+PHP,London,US,247
+PHP,Los Angeles,CL,1885
+PHP,Los Angeles,US,1894
+PHP,Luzern,CH,1472
+PHP,Madison,US,1871
+PHP,Madrid,ES,1470
+PHP,Melbourne,AU,263
+PHP,Melbourne,US,264
+PHP,Mexico City,MX,914
+PHP,Minneapolis,US,454
+PHP,Montréal,CA,360
+PHP,Moscow,RU,42
+PHP,Munich,DE,913
+PHP,Nashville,US,617
+PHP,New Orleans,US,638
+PHP,New York,US,238
+PHP,Nice,FR,1133
+PHP,Norwich,GB,135
+PHP,Nova Friburgo,BR,642
+PHP,Novi Sad,RS,1536
+PHP,Omaha,US,1107
+PHP,Ottawa,CA,2112
+PHP,Paris,FR,23
+PHP,Philadelphia,US,785
+PHP,Portland,AU,624
+PHP,Portland,US,280
+PHP,Prague,CZ,180
+PHP,Riga,LV,758
+PHP,Roma,AU,769
+PHP,Rosario,AR,159
+PHP,Rosario,BR,155
+PHP,Rosario,PY,154
+PHP,Sacramento,US,184
+PHP,San Antonio,CL,1994
+PHP,San Antonio,US,1949
+PHP,San Diego,US,307
+PHP,San Francisco,AR,117
+PHP,San Francisco,US,118
+PHP,Santiago,CL,1203
+PHP,Santiago,DO,1175
+PHP,Santiago,PA,1170
+PHP,Santiago,PE,1169
+PHP,Scottsdale,AU,718
+PHP,Scottsdale,US,717
+PHP,Seattle,US,268
+PHP,Singapore,SG,2106
+PHP,Sofia,BG,218
+PHP,Spokane,US,227
+PHP,Stavanger,NO,1668
+PHP,Stockholm,SE,704
+PHP,Strasbourg,FR,933
+PHP,Stuttgart,DE,99
+PHP,Sydney,AU,67
+PHP,Sydney,CA,65
+PHP,Taipei,TW,1588
+PHP,The Hague,NL,877
+PHP,Tokyo,JP,1204
+PHP,Toulouse,FR,1147
+PHP,Tulsa,US,1837
+PHP,Turku,FI,1821
+PHP,Vilnius,LT,405
+PHP,Vitória,BR,1750
+PHP,Växjö,SE,1734
+PHP,Wales,US,282
+PHP,Wellington,NZ,141
+PHP,Yogyakarta,ID,838
+PLpgSQL,Chicago,US,2052
+PLpgSQL,Philadelphia,US,2171
+Pascal,Sydney,AU,1534
+Pascal,Sydney,CA,1532
+Perl,Amsterdam,NL,1398
+Perl,Ann Arbor,US,1745
+Perl,Atlanta,US,807
+Perl,Bangkok,TH,1713
+Perl,Berkeley,US,553
+Perl,Buenos Aires,AR,1414
+Perl,Buffalo,US,1416
+Perl,Cambridge,GB,1422
+Perl,Catania,IT,896
+Perl,Chicago,US,810
+Perl,Columbia,US,1067
+Perl,Denver,US,2067
+Perl,Dublin,IE,549
+Perl,Dublin,US,548
+Perl,Durham,US,2210
+Perl,Edinburgh,GB,102
+Perl,Fort Collins,US,2135
+Perl,Lisbon,PT,1961
+Perl,London,CA,334
+Perl,London,GB,333
+Perl,London,US,332
+Perl,Los Angeles,CL,92
+Perl,Los Angeles,US,87
+Perl,Manchester,GB,1486
+Perl,Manchester,US,1497
+Perl,Moscow,RU,1707
+Perl,Nashville,US,816
+Perl,New York,US,1720
+Perl,Portland,AU,1189
+Perl,Portland,US,776
+Perl,San Diego,US,1230
+Perl,San Francisco,AR,219
+Perl,San Francisco,US,220
+Perl,Singapore,SG,1178
+Perl,Sofia,BG,1621
+Perl,Stavanger,NO,1669
+Perl,Tokyo,JP,295
+Perl,Virginia,US,1766
+Perl,Ålesund,NO,1089
+Perl6,Columbia,US,1048
+Perl6,Edinburgh,GB,2207
+Perl6,London,CA,146
+Perl6,London,GB,145
+Perl6,London,US,144
+PostScript,Berlin,DE,1802
+PostScript,London,CA,1333
+PostScript,London,GB,1461
+PostScript,London,US,1361
+PowerShell,Akron,US,641
+PowerShell,Austin,US,996
+PowerShell,Brisbane,AU,721
+PowerShell,Minneapolis,US,1583
+PowerShell,Seattle,US,2050
+Processing,Bremen,DE,1545
+Processing,Brussels,BE,1646
+Processing,Manchester,GB,1505
+Processing,Manchester,US,1504
+Processing,Minneapolis,US,1562
+Processing,Toronto,CA,1791
+Prolog,Berkeley,US,696
+Prolog,Chicago,US,2051
+Prolog,London,CA,1976
+Prolog,London,GB,1974
+Prolog,London,US,1977
+Prolog,Philadelphia,US,1235
+Prolog,Sacramento,US,984
+Protocol Buffer,Stockholm,SE,1682
+Puppet,Austin,US,1687
+Puppet,Bangalore,IN,1721
+Puppet,Brasilia,BR,840
+Puppet,Brisbane,AU,1449
+Puppet,Detroit,US,2195
+Puppet,Kampala,UG,1892
+Puppet,Manchester,GB,374
+Puppet,Manchester,US,328
+Puppet,Philadelphia,US,2165
+Puppet,Sacramento,US,978
+Puppet,Stuttgart,DE,1083
+Puppet,Tokyo,JP,1856
+Puppet,Toronto,CA,1013
+PureScript,Edinburgh,GB,2206
+Python,Akron,US,929
+Python,Alexandria,EG,1647
+Python,Alexandria,RO,1546
+Python,Alexandria,US,1392
+Python,Amsterdam,NL,398
+Python,Anchorage,US,284
+Python,Ann Arbor,US,320
+Python,Annecy,FR,623
+Python,Athens,GR,54
+Python,Athens,US,53
+Python,Auckland,NZ,1055
+Python,Austin,US,176
+Python,Bangalore,IN,388
+Python,Barcelona,ES,1820
+Python,Barcelona,VE,1836
+Python,Beijing,CN,230
+Python,Belgrade,RS,1375
+Python,Belo Horizonte,BR,338
+Python,Berkeley,US,737
+Python,Berlin,DE,27
+Python,Bern,CH,255
+Python,Boise,US,1576
+Python,Bologna,IT,1584
+Python,Boston,US,55
+Python,Brighton,GB,464
+Python,Brisbane,AU,1450
+Python,Brussels,BE,1645
+Python,Bucaramanga,CO,413
+Python,Bucharest,RO,1677
+Python,Budapest,HU,687
+Python,Buenos Aires,AR,461
+Python,Buffalo,US,1635
+Python,Calgary,CA,961
+Python,Cambridge,GB,123
+Python,Campina Grande,BR,971
+Python,Cape Town,ZA,1426
+Python,Caracas,VE,775
+Python,Chelyabinsk,RU,2116
+Python,Chennai,IN,429
+Python,Chicago,US,133
+Python,Cluj-Napoca,RO,436
+Python,Coventry,GB,1066
+Python,Dallas,US,2076
+Python,Detroit,US,2194
+Python,Dublin,IE,327
+Python,Dublin,US,326
+Python,Edinburgh,GB,863
+Python,Evanston,US,252
+Python,Fort Collins,US,2134
+Python,Fort Wayne,US,988
+Python,Fukuoka,JP,2168
+Python,Granada,ES,1260
+Python,Granada,NI,1271
+Python,Greenville,LR,1922
+Python,Greenville,US,1040
+Python,Grenoble,FR,1277
+Python,Halifax,CA,634
+Python,Hamburg,DE,835
+Python,Houston,US,541
+Python,Hyderabad,IN,303
+Python,Hyderabad,PK,304
+Python,Innsbruck,AT,974
+Python,Irvine,US,1344
+Python,Istanbul,TR,738
+Python,Kampala,UG,1022
+Python,Kanazawa,JP,1027
+Python,Kiev,UA,1358
+Python,Kigali,RW,778
+Python,Kuala Lumpur,MY,788
+Python,Lagos,NG,1317
+Python,Lausanne,CH,2034
+Python,Lawrence,US,266
+Python,Lexington,US,1992
+Python,Lisbon,PT,755
+Python,London,CA,20
+Python,London,GB,21
+Python,London,US,22
+Python,Los Angeles,CL,900
+Python,Los Angeles,US,888
+Python,Madrid,ES,498
+Python,Manchester,GB,475
+Python,Manchester,US,472
+Python,Melbourne,AU,521
+Python,Melbourne,US,518
+Python,Milan,IT,1614
+Python,Minneapolis,US,643
+Python,Missoula,US,347
+Python,Montréal,CA,932
+Python,Moscow,RU,108
+Python,Munich,DE,490
+Python,Nashville,US,301
+Python,New Delhi,IN,1602
+Python,New Haven,US,1597
+Python,New York,US,86
+Python,Nottingham,GB,1557
+Python,Novi Sad,RS,1535
+Python,Oakland,US,1681
+Python,Ontario,US,471
+Python,Oslo,NO,457
+Python,Ottawa,CA,2054
+Python,Paris,FR,507
+Python,Philadelphia,US,672
+Python,Pisa,IT,2157
+Python,Pittsburgh,US,378
+Python,Portland,AU,211
+Python,Portland,US,75
+Python,Prague,CZ,1984
+Python,Providence,US,1191
+Python,Provo,US,1970
+Python,Rio de Janeiro,BR,660
+Python,Rosario,AR,2030
+Python,Rosario,BR,2031
+Python,Rosario,PY,2032
+Python,Sacramento,US,782
+Python,Salt Lake City,US,1036
+Python,San Antonio,CL,261
+Python,San Antonio,US,271
+Python,San Diego,US,250
+Python,San Francisco,AR,8
+Python,San Francisco,US,7
+Python,San Jose,CR,534
+Python,San Jose,GT,547
+Python,San Jose,US,557
+Python,San Rafael,AR,2173
+Python,San Rafael,BO,2131
+Python,Santa Rosa,AR,188
+Python,Santa Rosa,BR,199
+Python,Santa Rosa,US,190
+Python,Santiago,CL,761
+Python,Santiago,DO,763
+Python,Santiago,PA,767
+Python,Santiago,PE,771
+Python,Seattle,US,39
+Python,Seoul,KR,194
+Python,Seville,ES,174
+Python,Shanghai,CN,1155
+Python,Singapore,SG,795
+Python,Sofia,BG,497
+Python,Southampton,GB,246
+Python,Spokane,US,915
+Python,St. Paul,US,1149
+Python,Stavanger,NO,484
+Python,Stockholm,SE,930
+Python,Stuttgart,DE,622
+Python,Sydney,AU,1110
+Python,Sydney,CA,1142
+Python,Taipei,TW,689
+Python,The Hague,NL,699
+Python,Tokyo,JP,296
+Python,Toronto,CA,198
+Python,Toulouse,FR,462
+Python,Vancouver,CA,680
+Python,Vancouver,US,649
+Python,Vienna,AT,60
+Python,Vilnius,LT,1184
+Python,Vitória,BR,664
+Python,Warsaw,PL,1742
+Python,Wellington,NZ,593
+Python,Wroclaw,PL,1846
+Python,Xiamen,CN,1563
+Python,Ålesund,NO,715
+QML,Szeged,HU,926
+R,Adelaide,AU,1390
+R,Ann Arbor,US,1739
+R,Bangkok,TH,1371
+R,Beijing,CN,1847
+R,Boulder,US,1523
+R,Cambridge,GB,693
+R,Chennai,IN,2110
+R,Los Angeles,CL,1480
+R,Los Angeles,US,1479
+R,Nashville,US,1259
+R,Sacramento,US,550
+R,San Francisco,AR,1005
+R,San Francisco,US,981
+R,Singapore,SG,792
+R,Stavanger,NO,809
+REALbasic,Pittsburgh,US,1946
+Racket,Milan,IT,1663
+Racket,San Francisco,AR,1121
+Racket,San Francisco,US,1128
+Ruby,Alexandria,EG,1393
+Ruby,Alexandria,RO,1394
+Ruby,Alexandria,US,808
+Ruby,Amman,JO,1396
+Ruby,Amsterdam,NL,1399
+Ruby,Anchorage,US,587
+Ruby,Ann Arbor,US,564
+Ruby,Annapolis,US,574
+Ruby,Athens,GR,1763
+Ruby,Athens,US,1760
+Ruby,Atlanta,US,251
+Ruby,Auckland,NZ,1364
+Ruby,Austin,US,299
+Ruby,Baltimore,US,743
+Ruby,Bangalore,IN,348
+Ruby,Bangkok,TH,97
+Ruby,Barcelona,ES,1838
+Ruby,Barcelona,VE,1854
+Ruby,Beijing,CN,560
+Ruby,Belgrade,RS,1376
+Ruby,Belo Horizonte,BR,1378
+Ruby,Bend,US,192
+Ruby,Berlin,DE,66
+Ruby,Boston,US,47
+Ruby,Boulder,US,237
+Ruby,Brasilia,BR,893
+Ruby,Bristol,GB,361
+Ruby,Bristol,US,359
+Ruby,Bucaramanga,CO,1680
+Ruby,Budapest,HU,688
+Ruby,Buenos Aires,AR,412
+Ruby,Burlington,US,450
+Ruby,Cambridge,GB,292
+Ruby,Canberra,AU,2093
+Ruby,Cape Town,ZA,793
+Ruby,Caracas,VE,422
+Ruby,Catania,IT,107
+Ruby,Charlotte,US,85
+Ruby,Chicago,US,19
+Ruby,Cluj-Napoca,RO,1435
+Ruby,Columbia,US,1046
+Ruby,Denver,US,770
+Ruby,Detroit,US,756
+Ruby,Duluth,US,2217
+Ruby,Durham,US,337
+Ruby,Edmonton,CA,224
+Ruby,Evanston,US,1017
+Ruby,Fort Smith,CA,1035
+Ruby,Fort Smith,US,977
+Ruby,Fort Wayne,US,1262
+Ruby,Fukuoka,JP,829
+Ruby,Goiania,BR,1268
+Ruby,Granada,ES,1273
+Ruby,Granada,NI,1274
+Ruby,Halifax,CA,1280
+Ruby,Helsinki,FI,554
+Ruby,Ho Chi Minh City,VN,36
+Ruby,Hobart,AU,812
+Ruby,Hyderabad,IN,344
+Ruby,Hyderabad,PK,343
+Ruby,Indianapolis,US,1873
+Ruby,Jakarta,ID,1349
+Ruby,Jyväskylä,FI,1352
+Ruby,Kampala,UG,1024
+Ruby,Kigali,RW,2002
+Ruby,Kuala Lumpur,MY,1997
+Ruby,Lagos,NG,990
+Ruby,Leeds,GB,1311
+Ruby,Lexington,US,1969
+Ruby,Lisbon,PT,1037
+Ruby,London,CA,148
+Ruby,London,GB,143
+Ruby,London,US,142
+Ruby,Los Angeles,CL,573
+Ruby,Los Angeles,US,561
+Ruby,Lowell,US,1474
+Ruby,Luzern,CH,902
+Ruby,Madison,US,267
+Ruby,Madrid,ES,1469
+Ruby,Manchester,GB,465
+Ruby,Manchester,US,463
+Ruby,Medellin,CO,260
+Ruby,Melbourne,AU,110
+Ruby,Melbourne,US,114
+Ruby,Mexico City,MX,477
+Ruby,Milan,IT,1493
+Ruby,Minneapolis,US,34
+Ruby,Montréal,CA,517
+Ruby,Moscow,RU,403
+Ruby,Munich,DE,26
+Ruby,Nagoya,JP,120
+Ruby,New Haven,US,100
+Ruby,New York,US,84
+Ruby,Nice,FR,1148
+Ruby,Niteroi,BR,1775
+Ruby,Nottingham,GB,125
+Ruby,Oakland,US,386
+Ruby,Omaha,US,841
+Ruby,Ontario,US,1229
+Ruby,Paris,FR,970
+Ruby,Philadelphia,US,113
+Ruby,Pittsburgh,US,951
+Ruby,Portland,AU,139
+Ruby,Portland,US,40
+Ruby,Prague,CZ,94
+Ruby,Provo,US,134
+Ruby,Rio de Janeiro,BR,528
+Ruby,Sacramento,US,428
+Ruby,Salt Lake City,US,73
+Ruby,San Antonio,CL,1249
+Ruby,San Antonio,US,1250
+Ruby,San Diego,US,232
+Ruby,San Francisco,AR,2
+Ruby,San Francisco,US,3
+Ruby,San Jose,CR,1099
+Ruby,San Jose,GT,1112
+Ruby,San Jose,US,1143
+Ruby,San Rafael,AR,311
+Ruby,San Rafael,BO,312
+Ruby,Santa Rosa,AR,711
+Ruby,Santa Rosa,BR,725
+Ruby,Santa Rosa,US,726
+Ruby,Santiago,CL,151
+Ruby,Santiago,DO,157
+Ruby,Santiago,PA,153
+Ruby,Santiago,PE,152
+Ruby,Seattle,US,177
+Ruby,Seville,ES,2113
+Ruby,Singapore,SG,234
+Ruby,Sofia,BG,692
+Ruby,Southampton,GB,1637
+Ruby,Stavanger,NO,1672
+Ruby,Sydney,AU,43
+Ruby,Sydney,CA,44
+Ruby,Taipei,TW,1590
+Ruby,Tallinn,EE,456
+Ruby,Tampa,US,298
+Ruby,Tokyo,JP,35
+Ruby,Toronto,CA,558
+Ruby,Tulsa,US,460
+Ruby,Venice,IT,1171
+Ruby,Vienna,AT,1059
+Ruby,Vilnius,LT,653
+Ruby,Virginia,US,887
+Ruby,Växjö,SE,1152
+Ruby,Wales,US,1168
+Ruby,Westport,NZ,445
+Ruby,Wroclaw,PL,1136
+Ruby,Xiamen,CN,1579
+Ruby,Yogyakarta,ID,1661
+Ruby,Ålesund,NO,1117
+Rust,Ann Arbor,US,953
+Rust,Brisbane,AU,1451
+Rust,Budapest,HU,855
+Rust,Cape Town,ZA,2088
+Rust,Fort Collins,US,2133
+Rust,London,CA,878
+Rust,London,GB,880
+Rust,London,US,879
+Rust,New York,US,1716
+Rust,San Francisco,AR,820
+Rust,San Francisco,US,821
+Rust,Seoul,KR,2084
+Rust,Shanghai,CN,2123
+Rust,Singapore,SG,2090
+Rust,Tokyo,JP,1236
+Rust,Vancouver,CA,1034
+Rust,Vancouver,US,1006
+Rust,Wellington,NZ,1252
+SQLPL,Westport,NZ,1219
+Scala,Amsterdam,NL,1709
+Scala,Barcelona,ES,993
+Scala,Barcelona,VE,998
+Scala,Beijing,CN,1845
+Scala,Berlin,DE,625
+Scala,Brussels,BE,1644
+Scala,Budapest,HU,1460
+Scala,Detroit,US,2193
+Scala,Halifax,CA,1914
+Scala,London,CA,208
+Scala,London,GB,209
+Scala,London,US,210
+Scala,New York,US,1115
+Scala,Portland,AU,886
+Scala,Portland,US,559
+Scala,San Francisco,AR,449
+Scala,San Francisco,US,452
+Scala,Seattle,US,2053
+Scala,Singapore,SG,1234
+Scala,Stavanger,NO,905
+Scala,Taipei,TW,1591
+Scheme,Anchorage,US,1757
+Scheme,Cape Town,ZA,2087
+Shell,Amsterdam,NL,1717
+Shell,Anchorage,US,1401
+Shell,Ann Arbor,US,1730
+Shell,Athens,GR,823
+Shell,Athens,US,822
+Shell,Austin,US,1705
+Shell,Bangalore,IN,1366
+Shell,Bangkok,TH,1771
+Shell,Barcelona,ES,999
+Shell,Barcelona,VE,1001
+Shell,Beijing,CN,707
+Shell,Belgrade,RS,1813
+Shell,Belo Horizonte,BR,1379
+Shell,Berkeley,US,1795
+Shell,Berlin,DE,427
+Shell,Bologna,IT,1411
+Shell,Boston,US,608
+Shell,Boulder,US,1533
+Shell,Brasilia,BR,257
+Shell,Brighton,GB,1446
+Shell,Brisbane,AU,1641
+Shell,Budapest,HU,1439
+Shell,Buenos Aires,AR,864
+Shell,Cambridge,GB,1423
+Shell,Campina Grande,BR,752
+Shell,Cape Town,ZA,946
+Shell,Carlsbad,US,2124
+Shell,Charlotte,US,572
+Shell,Chicago,US,274
+Shell,Cluj-Napoca,RO,2060
+Shell,Columbia,US,605
+Shell,Dallas,US,2071
+Shell,Denver,US,1291
+Shell,Dublin,IE,1462
+Shell,Dublin,US,1302
+Shell,Durham,US,540
+Shell,Edinburgh,GB,1286
+Shell,Edmonton,CA,2147
+Shell,Fort Collins,US,2153
+Shell,Granada,ES,1275
+Shell,Granada,NI,1276
+Shell,Hamburg,DE,1308
+Shell,Hangzhou,CN,1907
+Shell,Hobart,AU,813
+Shell,Huntsville,US,862
+Shell,Hyderabad,IN,1931
+Shell,Hyderabad,PK,1930
+Shell,Irvine,US,1867
+Shell,Jakarta,ID,678
+Shell,Kanazawa,JP,1355
+Shell,Kigali,RW,1312
+Shell,Kuala Lumpur,MY,985
+Shell,Lausanne,CH,2033
+Shell,Lawrence,US,1321
+Shell,Lisbon,PT,1007
+Shell,London,CA,131
+Shell,London,GB,130
+Shell,London,US,128
+Shell,Los Angeles,CL,1896
+Shell,Los Angeles,US,1897
+Shell,Louisville,US,884
+Shell,Madrid,ES,499
+Shell,Manchester,GB,1503
+Shell,Manchester,US,1502
+Shell,Medellin,CO,2191
+Shell,Melbourne,AU,938
+Shell,Melbourne,US,937
+Shell,Milan,IT,848
+Shell,Minneapolis,US,487
+Shell,Minsk,BY,1790
+Shell,Missoula,US,1477
+Shell,Moscow,RU,635
+Shell,Munich,DE,288
+Shell,Nashville,US,856
+Shell,New Haven,US,637
+Shell,New York,US,598
+Shell,Omaha,US,1104
+Shell,Oslo,NO,391
+Shell,Paris,FR,510
+Shell,Philadelphia,US,789
+Shell,Pittsburgh,US,762
+Shell,Portland,AU,178
+Shell,Portland,US,52
+Shell,Porto Alegre,BR,2091
+Shell,Prague,CZ,657
+Shell,Provo,US,1951
+Shell,Roma,AU,1164
+Shell,Sacramento,US,469
+Shell,Salt Lake City,US,1033
+Shell,San Antonio,CL,647
+Shell,San Antonio,US,663
+Shell,San Diego,US,1898
+Shell,San Francisco,AR,236
+Shell,San Francisco,US,244
+Shell,San Jose,CR,1124
+Shell,San Jose,GT,1125
+Shell,San Jose,US,1141
+Shell,San Rafael,AR,2200
+Shell,San Rafael,BO,2201
+Shell,Santa Rosa,AR,1246
+Shell,Santa Rosa,BR,1245
+Shell,Santa Rosa,US,1243
+Shell,Santiago,CL,1159
+Shell,Santiago,DO,1157
+Shell,Santiago,PA,1154
+Shell,Santiago,PE,1176
+Shell,Seattle,US,474
+Shell,Seoul,KR,1192
+Shell,Shanghai,CN,1161
+Shell,Singapore,SG,941
+Shell,Sofia,BG,513
+Shell,Southampton,GB,957
+Shell,Stavanger,NO,1664
+Shell,Stockholm,SE,354
+Shell,Stuttgart,DE,455
+Shell,Sydney,AU,1131
+Shell,Sydney,CA,1114
+Shell,Taipei,TW,1093
+Shell,Tallinn,EE,916
+Shell,Tampa,US,944
+Shell,The Hague,NL,1683
+Shell,Tokyo,JP,551
+Shell,Toronto,CA,853
+Shell,Tulsa,US,1835
+Shell,Vancouver,CA,979
+Shell,Vancouver,US,983
+Shell,Venice,IT,1690
+Shell,Vienna,AT,656
+Shell,Vitória,BR,1198
+Shell,Wellington,NZ,959
+Shell,Ålesund,NO,1087
+Swift,Armenia,CO,881
+Swift,Beijing,CN,1844
+Swift,Berlin,DE,88
+Swift,Buraydah,SA,745
+Swift,Chelyabinsk,RU,520
+Swift,Coventry,GB,385
+Swift,Helsinki,FI,1927
+Swift,Hyderabad,IN,1904
+Swift,Hyderabad,PK,1903
+Swift,Katowice,PL,1883
+Swift,Melbourne,AU,415
+Swift,Melbourne,US,414
+Swift,Milan,IT,1667
+Swift,New York,US,631
+Swift,San Francisco,AR,95
+Swift,San Francisco,US,96
+Swift,Seoul,KR,2086
+Swift,Singapore,SG,956
+Swift,Sydney,AU,1518
+Swift,Sydney,CA,1519
+Swift,Toronto,CA,1840
+Swift,Vancouver,CA,986
+Swift,Vancouver,US,1038
+Swift,Venice,IT,1197
+Swift,Westport,NZ,121
+Swift,Xiamen,CN,1578
+TeX,Belo Horizonte,BR,1785
+TeX,Berlin,DE,1800
+TeX,Bologna,IT,1553
+TeX,Brussels,BE,1643
+TeX,Buenos Aires,AR,1617
+TeX,Evanston,US,2139
+TeX,Greenville,LR,1921
+TeX,Greenville,US,1069
+TeX,Kiev,UA,2006
+TeX,Minneapolis,US,1810
+TeX,Munich,DE,1508
+TeX,Oslo,NO,2108
+TeX,Paris,FR,197
+TeX,Portland,AU,1986
+TeX,Portland,US,1188
+TeX,San Francisco,AR,1071
+TeX,San Francisco,US,1072
+TeX,San Jose,CR,2152
+TeX,San Jose,GT,2151
+TeX,San Jose,US,2132
+TeX,Seattle,US,627
+TeX,Singapore,SG,2094
+TeX,Szeged,HU,1552
+TeX,Vilnius,LT,1755
+TeX,Wellington,NZ,1211
+TypeScript,Boise,US,1577
+TypeScript,Brisbane,AU,851
+TypeScript,Chicago,US,2049
+TypeScript,Edinburgh,GB,2174
+TypeScript,Hamburg,DE,837
+TypeScript,Helsinki,FI,399
+TypeScript,Hyderabad,IN,1902
+TypeScript,Hyderabad,PK,1878
+TypeScript,London,CA,1979
+TypeScript,London,GB,1973
+TypeScript,London,US,1985
+TypeScript,Melbourne,AU,1507
+TypeScript,Melbourne,US,1488
+TypeScript,Milwaukee,US,1495
+TypeScript,Moscow,RU,1762
+TypeScript,New York,US,1849
+TypeScript,Paris,FR,2182
+TypeScript,San Francisco,AR,1138
+TypeScript,San Francisco,US,1146
+TypeScript,Sofia,BG,394
+TypeScript,Stavanger,NO,1673
+TypeScript,Tulsa,US,1817
+TypeScript,Wellington,NZ,1754
+UnrealScript,Toronto,CA,1841
+VHDL,San Jose,CR,1030
+VHDL,San Jose,GT,1029
+VHDL,San Jose,US,1008
+Verilog,San Jose,CR,353
+Verilog,San Jose,GT,351
+Verilog,San Jose,US,349
+VimL,Akron,US,1391
+VimL,Atlanta,US,1385
+VimL,Auckland,NZ,1695
+VimL,Austin,US,1696
+VimL,Baltimore,US,1725
+VimL,Bangalore,IN,1367
+VimL,Belo Horizonte,BR,712
+VimL,Berlin,DE,473
+VimL,Birmingham,GB,1559
+VimL,Birmingham,US,1558
+VimL,Boston,US,1525
+VimL,Calgary,CA,1626
+VimL,Cambridge,GB,1413
+VimL,Campina Grande,BR,2099
+VimL,Caracas,VE,1428
+VimL,Chennai,IN,2085
+VimL,Chicago,US,330
+VimL,Cluj-Napoca,RO,2061
+VimL,Curitiba,BR,2080
+VimL,Halifax,CA,1913
+VimL,Huntsville,US,1338
+VimL,Iqaluit,CA,1009
+VimL,Irvine,US,1345
+VimL,Istanbul,TR,1864
+VimL,Kampala,UG,1890
+VimL,Kuala Lumpur,MY,1996
+VimL,Las Vegas,US,1319
+VimL,Lausanne,CH,2029
+VimL,Lawrence,US,2021
+VimL,Lisbon,PT,1957
+VimL,London,CA,1987
+VimL,London,GB,1988
+VimL,London,US,1972
+VimL,Los Angeles,CL,1478
+VimL,Los Angeles,US,1476
+VimL,Melbourne,AU,1632
+VimL,Melbourne,US,1633
+VimL,Milan,IT,1670
+VimL,Minneapolis,US,1793
+VimL,Moscow,RU,927
+VimL,New Haven,US,1830
+VimL,New York,US,1843
+VimL,Philadelphia,US,794
+VimL,Portland,AU,1982
+VimL,Portland,US,1187
+VimL,Prague,CZ,1047
+VimL,Provo,US,1194
+VimL,Rio de Janeiro,BR,1964
+VimL,Sacramento,US,2001
+VimL,Salt Lake City,US,1032
+VimL,San Francisco,AR,245
+VimL,San Francisco,US,243
+VimL,San Jose,CR,1080
+VimL,San Jose,GT,1081
+VimL,San Jose,US,1088
+VimL,Santiago,CL,2072
+VimL,Santiago,DO,2073
+VimL,Santiago,PA,2074
+VimL,Santiago,PE,2075
+VimL,Singapore,SG,2095
+VimL,Sofia,BG,1255
+VimL,Stavanger,NO,1675
+VimL,Stockholm,SE,1118
+VimL,Sydney,AU,1520
+VimL,Sydney,CA,1514
+VimL,Taipei,TW,1593
+VimL,Tokyo,JP,1778
+VimL,Toronto,CA,1842
+VimL,Vilnius,LT,1756
+VimL,Wellington,NZ,1214
+VimL,Ålesund,NO,1258
+Visual Basic,Brisbane,AU,1452
+Web Ontology Language,Berkeley,US,698
+XProc,Oslo,NO,1206
+XQuery,New York,US,488
+XSLT,Adelaide,AU,1603
+XSLT,New York,US,1783
+XSLT,Paris,FR,2181
+Yacc,Southampton,GB,1618
